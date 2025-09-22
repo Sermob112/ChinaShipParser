@@ -1,0 +1,359 @@
+{
+  "no": 18,
+  "name": "Fujian Southeast Shipbuilding",
+  "link": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcJC",
+  "orderbook_rows": [
+    {
+      "index": "1",
+      "name": "Fujian Southeast DN14500-3",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFBXanmkhTk8Pl4EN",
+      "ship_type": "Products Tanker, 14,900 tons",
+      "owner_company": "Orkim Ship Management",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "2",
+      "name": "Fujian Southeast DN14500-5",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFBcanmkhTk8Pl4EN",
+      "ship_type": "Products Tanker, 14,900 tons",
+      "owner_company": "Orkim Ship Management",
+      "date_delivery": "2027 - 03",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "3",
+      "name": "Southeast MW628-8",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cscScanmkhTk8Pl4EN",
+      "ship_type": "Platform Supply Ship, 88.8 m.loa",
+      "owner_company": "Hercules Supply AS",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "4",
+      "name": "Southeast MW628-7",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXJCSanmkhTk8Pl4EN",
+      "ship_type": "Platform Supply Ship, 88.8 m.loa",
+      "owner_company": "Hercules Supply AS",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "5",
+      "name": "Southeast DN517-12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSscJanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2027 - 05",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "6",
+      "name": "Southeast DN517-11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSsccanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2027 - 01",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "7",
+      "name": "Southeast DN517-9",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBBbanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2027 - 01",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "8",
+      "name": "Southeast DN517-5",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBBCanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2026 - 08",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "9",
+      "name": "Southeast DN517-2",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBCJanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "10",
+      "name": "Southeast DN517-10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBBXanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2027 - 05",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "11",
+      "name": "Southeast DN517-6",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBBBanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "12",
+      "name": "Southeast DN517-4",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBBsanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2026 - 05",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "13",
+      "name": "Southeast DN517-3",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBBSanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2026 - 02",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "14",
+      "name": "Southeast DN517-1",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBCganmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2025 - 07",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "15",
+      "name": "Southeast DN517-7",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBBFanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2027 - 02",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "16",
+      "name": "Southeast DN517-8",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBBcanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Seacon Shipping (洲际船务)",
+      "date_delivery": "2027 - 05",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "17",
+      "name": "Southeast DN18500-6",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBJFanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Union Maritime Limited",
+      "date_delivery": "2025 - 05",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "18",
+      "name": "Bise",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXbgsanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Union Maritime Limited",
+      "date_delivery": "2025 - 08",
+      "date_contract": "2023 - 06"
+    },
+    {
+      "index": "19",
+      "name": "Ostro",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXbgSanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 18,500 tons",
+      "owner_company": "Union Maritime Limited",
+      "date_delivery": "2025 - 06",
+      "date_contract": "2023 - 06"
+    },
+    {
+      "index": "20",
+      "name": "Fujian Southeast",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccJJanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,140 teu",
+      "owner_company": "StarOcean Marine (瑞洋海运)",
+      "date_delivery": "2024 - 03",
+      "date_contract": "2021 - 08"
+    },
+    {
+      "index": "21",
+      "name": "Fujian Southeast",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccJcanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,140 teu",
+      "owner_company": "StarOcean Marine (瑞洋海运)",
+      "date_delivery": "2024 - 06",
+      "date_contract": "2021 - 08"
+    },
+    {
+      "index": "22",
+      "name": "Southeast DN66M-13",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SJXgbanmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 2,005 tons",
+      "owner_company": "Steady Offshore Shipping",
+      "date_delivery": "2025 - 03",
+      "date_contract": "2015 - 03"
+    },
+    {
+      "index": "23",
+      "name": "Southeast DN66M-12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SJXgBanmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 2,005 tons",
+      "owner_company": "Steady Offshore Shipping",
+      "date_delivery": "2025 - 03",
+      "date_contract": "2015 - 03"
+    },
+    {
+      "index": "24",
+      "name": "Southeast DN90M-5",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCJJFanmkhTk8Pl4EN",
+      "ship_type": "Diving Support Vessel",
+      "owner_company": "Coastal Contracts Bhd",
+      "date_delivery": "2025 - 04",
+      "date_contract": "2015 - 03"
+    },
+    {
+      "index": "25",
+      "name": "Southeast DN90M-3",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCJJbanmkhTk8Pl4EN",
+      "ship_type": "Diving Support Vessel",
+      "owner_company": "Coastal Contracts Bhd",
+      "date_delivery": "2025 - 05",
+      "date_contract": "2015 - 03"
+    },
+    {
+      "index": "26",
+      "name": "Islay",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ScbbganmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 3,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 06",
+      "date_contract": "2015 - 03"
+    },
+    {
+      "index": "27",
+      "name": "Fujian Southeast SK918",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SJsJbanmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 1,800 tons",
+      "owner_company": "Nam Cheong Ltd",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2015 - 03"
+    },
+    {
+      "index": "28",
+      "name": "Southeast SK921",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SJCSBanmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 1,800 tons",
+      "owner_company": "Nam Cheong Ltd",
+      "date_delivery": "2025 - 03",
+      "date_contract": "2015 - 03"
+    },
+    {
+      "index": "29",
+      "name": "Southeast SK920",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SJsgFanmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 1,800 tons",
+      "owner_company": "Nam Cheong Ltd",
+      "date_delivery": "2025 - 03",
+      "date_contract": "2015 - 03"
+    },
+    {
+      "index": "30",
+      "name": "Fujian Southeast SK919",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SJsgCanmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 1,800 tons",
+      "owner_company": "Nam Cheong Ltd",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2015 - 03"
+    },
+    {
+      "index": "31",
+      "name": "Southeast DN65M-V-8",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXXgsanmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 1,700 tons",
+      "owner_company": "Vroon B.V.",
+      "date_delivery": "2025 - 02",
+      "date_contract": "2014 - 08"
+    },
+    {
+      "index": "32",
+      "name": "Southeast DN65M-V-7",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXXgSanmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 1,700 tons",
+      "owner_company": "Vroon B.V.",
+      "date_delivery": "2025 - 02",
+      "date_contract": "2014 - 08"
+    },
+    {
+      "index": "33",
+      "name": "SK Line 516",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SJbgganmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 2,000 tons",
+      "owner_company": "Nam Cheong Ltd",
+      "date_delivery": "2025 - 02",
+      "date_contract": "2014 - 07"
+    },
+    {
+      "index": "34",
+      "name": "SK Line 515",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SJbgJanmkhTk8Pl4EN",
+      "ship_type": "Anchor Handling Tug Supply, 2,000 tons",
+      "owner_company": "Nam Cheong Ltd",
+      "date_delivery": "2025 - 02",
+      "date_contract": "2014 - 07"
+    },
+    {
+      "index": "35",
+      "name": "Southeast DN90M-2",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ScFCcanmkhTk8Pl4EN",
+      "ship_type": "Diving Support Vessel, 90 m.loa",
+      "owner_company": "Emerald Marine Global Ltd",
+      "date_delivery": "2025 - 06",
+      "date_contract": "2014 - 07"
+    },
+    {
+      "index": "36",
+      "name": "Southeast DN90M-1",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ScFsSanmkhTk8Pl4EN",
+      "ship_type": "Diving Support Vessel, 90 m.loa",
+      "owner_company": "Emerald Marine Global Ltd",
+      "date_delivery": "2025 - 06",
+      "date_contract": "2014 - 07"
+    },
+    {
+      "index": "37",
+      "name": "Southeast DN105M-2",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCJJXanmkhTk8Pl4EN",
+      "ship_type": "Diving Support Vessel, 105 m.loa",
+      "owner_company": "Coastal Contracts Bhd",
+      "date_delivery": "2025 - 06",
+      "date_contract": "2013 - 06"
+    },
+    {
+      "index": "38",
+      "name": "Southeast MW628-6",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBsbbanmkhTk8Pl4EN",
+      "ship_type": "Platform Supply Ship, 88.8 m.loa",
+      "owner_company": "Fletcher Offshore Services Ltd",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2013 - 05"
+    },
+    {
+      "index": "39",
+      "name": "Southeast DN105M-1",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCJJcanmkhTk8Pl4EN",
+      "ship_type": "Diving Support Vessel, 105 m.loa",
+      "owner_company": "Coastal Contracts Bhd",
+      "date_delivery": "2025 - 06",
+      "date_contract": "2012 - 10"
+    }
+  ],
+  "ts": 1758553551
+}

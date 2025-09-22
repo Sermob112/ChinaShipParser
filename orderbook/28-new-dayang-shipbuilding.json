@@ -1,0 +1,458 @@
+{
+  "no": 28,
+  "name": "New Dayang Shipbuilding",
+  "link": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcFX",
+  "orderbook_rows": [
+    {
+      "index": "1",
+      "name": "New Dayang NDY1344",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXgCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Chailease Holding Co Ltd",
+      "date_delivery": "2028 - 03",
+      "date_contract": "2024 - 11"
+    },
+    {
+      "index": "2",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBFsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "U-Ming Marine (裕民航运)",
+      "date_delivery": "2028 - 05",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "index": "3",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBFCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "U-Ming Marine (裕民航运)",
+      "date_delivery": "2027 - 12",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "index": "4",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBFBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "U-Ming Marine (裕民航运)",
+      "date_delivery": "2027 - 10",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "index": "5",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBFSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "U-Ming Marine (裕民航运)",
+      "date_delivery": "2028 - 03",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "index": "6",
+      "name": "New Dayang NDY1323",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCXSsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "CCB Financial Leasing (建信租赁)",
+      "date_delivery": "2027 - 06",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "7",
+      "name": "New Dayang NDY1322",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCXSCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "CCB Financial Leasing (建信租赁)",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "8",
+      "name": "New Dayang NDY1340",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXgsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Chailease Holding Co Ltd",
+      "date_delivery": "2027 - 11",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "9",
+      "name": "New Dayang NDY1337",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJJJFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "JME Navigation SA",
+      "date_delivery": "2027 - 07",
+      "date_contract": "2024 - 07"
+    },
+    {
+      "index": "10",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJgbJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,915 tons",
+      "owner_company": "Industrial Holding Bulgaria",
+      "date_delivery": "2027 - 09",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "11",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJgbXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,915 tons",
+      "owner_company": "Industrial Holding Bulgaria",
+      "date_delivery": "2027 - 07",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "12",
+      "name": "New Dayang NDY1329",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgbBsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2028 - 01",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "13",
+      "name": "New Dayang NDY1328",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgbCcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2027 - 11",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "14",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbSJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Wah Kwong Maritime",
+      "date_delivery": "2027 - 11",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "15",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbScanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Wah Kwong Maritime",
+      "date_delivery": "2027 - 10",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "16",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbSXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Wah Kwong Maritime",
+      "date_delivery": "2027 - 08",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "17",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbSFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Wah Kwong Maritime",
+      "date_delivery": "2027 - 07",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "18",
+      "name": "New Dayang NDY1314",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJgBcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Itochu Corporation（伊藤忠商事）",
+      "date_delivery": "2027 - 03",
+      "date_contract": "2024 - 05"
+    },
+    {
+      "index": "19",
+      "name": "New Dayang NDY1313",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJgBSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Itochu Corporation（伊藤忠商事）",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2024 - 05"
+    },
+    {
+      "index": "20",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJJcFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Kasuga Shipping",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "21",
+      "name": "New Dayang NDY1318",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXJsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2026 - 10",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "22",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXBganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Huaxia Financial Leasing (华夏租赁)",
+      "date_delivery": "2027 - 04",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "23",
+      "name": "New Dayang NDY1312",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXbBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Huaxia Financial Leasing (华夏租赁)",
+      "date_delivery": "2027 - 07",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "24",
+      "name": "New Dayang NDY1311",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXbCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Huaxia Financial Leasing (华夏租赁)",
+      "date_delivery": "2027 - 04",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "25",
+      "name": "New Dayang NDY1307",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXBJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Huaxia Financial Leasing (华夏租赁)",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "26",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXBcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Huaxia Financial Leasing (华夏租赁)",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "27",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXBXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Huaxia Financial Leasing (华夏租赁)",
+      "date_delivery": "2026 - 10",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "28",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXJBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2027 - 09",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "29",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXJbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2027 - 12",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "30",
+      "name": "New Dayang NDY1319",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXJCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2027 - 01",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "31",
+      "name": "New Dayang NDY1310",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXbsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Huaxia Financial Leasing (华夏租赁)",
+      "date_delivery": "2027 - 04",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "32",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXbSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Huaxia Financial Leasing (华夏租赁)",
+      "date_delivery": "2027 - 06",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "33",
+      "name": "New Dayang NDY1304",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXJganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "CCB Financial Leasing (建信租赁)",
+      "date_delivery": "2026 - 07",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "34",
+      "name": "New Dayang NYD1303",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXJJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "CCB Financial Leasing (建信租赁)",
+      "date_delivery": "2026 - 06",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "35",
+      "name": "Ares",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbbXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Transocean Maritime Agencies S.A.M.",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "36",
+      "name": "Achilles",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbbFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Transocean Maritime Agencies S.A.M.",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "37",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXCcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Kasuga Shipping",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "38",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXCXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Kasuga Shipping",
+      "date_delivery": "2026 - 07",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "39",
+      "name": "New Dayang NDY1298",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbsgcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "ICBC Leasing (工银租赁)",
+      "date_delivery": "2026 - 05",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "40",
+      "name": "New Dayang NDY1299",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbsgganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "ICBC Leasing (工银租赁)",
+      "date_delivery": "2026 - 06",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "41",
+      "name": "New Dayang NDY1293",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXJXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Chartworld Shipping",
+      "date_delivery": "2025 - 07",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "42",
+      "name": "New Dayang NDY1280",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXFsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Emarat Maritime LLC",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "43",
+      "name": "New Dayang NDY1281",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXFSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Emarat Maritime LLC",
+      "date_delivery": "2026 - 06",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "44",
+      "name": "New Dayang NDY1277",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJBbSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "45",
+      "name": "New Dayang NDY1294",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJCcbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 02",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "46",
+      "name": "New Dayang NDY1278",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJBJbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "47",
+      "name": "New Dayang NDY1292",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbBbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Zheyin Financial Leasing",
+      "date_delivery": "2025 - 05",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "48",
+      "name": "New Dayang NDY1297",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4CgSsCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "AVIC Leasing (中航租赁)",
+      "date_delivery": "2026 - 10",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "49",
+      "name": "New Dayang NDY1296",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4CgSSbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,100 tons",
+      "owner_company": "AVIC Leasing (中航租赁)",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "50",
+      "name": "New Dayang",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJJXFanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 3,800 tons",
+      "owner_company": "Vega Reederei",
+      "date_delivery": "2025 - 05",
+      "date_contract": "2023 - 08"
+    }
+  ],
+  "ts": 1758553582
+}

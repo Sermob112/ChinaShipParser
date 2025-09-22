@@ -1,0 +1,377 @@
+{
+  "no": 21,
+  "name": "Hexing Shipyard, Zhejiang",
+  "link": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbccF",
+  "orderbook_rows": [
+    {
+      "index": "1",
+      "name": "Jiangmen Nanyang 172",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXgbbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2025 - 02"
+    },
+    {
+      "index": "2",
+      "name": "Jiangmen Nanyang 171",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXJgbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 09",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "3",
+      "name": "Jiangmen Nanyang 175",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXJgCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 10",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "4",
+      "name": "Jiangmen Nanyang 230",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbsbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "5",
+      "name": "Jiangmen Nanyang 229",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbssanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 08",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "6",
+      "name": "Jiangmen Nanyang 642",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBgXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 07",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "7",
+      "name": "Jiangmen Nanyang 651",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcCXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,552 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 08",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "8",
+      "name": "CL Harmony",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbsFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "9",
+      "name": "CL Civility",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbsbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "10",
+      "name": "Jiangmen Nanyang 226",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFJSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 02",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "11",
+      "name": "Jiangmen Nanyang 225",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFccanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "12",
+      "name": "Jiangmen Nanyang 653",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBccanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "13",
+      "name": "Jiangmen Nanyang 652",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBcXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "14",
+      "name": "Jiangmen Nanyang 643",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcCJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 05",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "15",
+      "name": "Jiangmen Nanyang 645",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcCFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 07",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "16",
+      "name": "Jiangmen Nanyang 644",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcCXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 06",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "17",
+      "name": "Jiangmen Nanyang 174",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcCSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 09",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "18",
+      "name": "Jiangmen Nanyang 635",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcCsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,552 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 07",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "19",
+      "name": "Jiangmen Nanyang 638",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scSJCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 05",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "20",
+      "name": "Jiangmen Nanyang 637",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scSJsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "21",
+      "name": "CL Democracy",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scCScanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 09",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "index": "22",
+      "name": "Jiangmen Nanyang 224",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcscanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "23",
+      "name": "Nanyang 625",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSXsSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Nisshin Shipping Co., Ltd",
+      "date_delivery": "2025 - 07",
+      "date_contract": "2023 - 04"
+    },
+    {
+      "index": "24",
+      "name": "Nanyang 626",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSXSganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Nisshin Shipping Co., Ltd",
+      "date_delivery": "2025 - 09",
+      "date_contract": "2023 - 04"
+    },
+    {
+      "index": "25",
+      "name": "Nanyang 627",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSXSJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Nisshin Shipping Co., Ltd",
+      "date_delivery": "2025 - 10",
+      "date_contract": "2023 - 04"
+    },
+    {
+      "index": "26",
+      "name": "Nanyang 628",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSXScanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Nisshin Shipping Co., Ltd",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2023 - 04"
+    },
+    {
+      "index": "27",
+      "name": "Nanyang 629",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSXSXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Nisshin Shipping Co., Ltd",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 04"
+    },
+    {
+      "index": "28",
+      "name": "Jiangmen Nanyang 221",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCSBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "index": "29",
+      "name": "Jiangmen Nanyang 222",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCSCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2026 - 05",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "index": "30",
+      "name": "Jiangmen Nanyang 223",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCSsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2026 - 06",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "index": "31",
+      "name": "Jiangmen Nanyang 219",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXsgJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2022 - 12"
+    },
+    {
+      "index": "32",
+      "name": "Jiangmen Nanyang 220",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXsgcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2022 - 12"
+    },
+    {
+      "index": "33",
+      "name": "Nanyang 217",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXsgSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Briese Schiffahrts",
+      "date_delivery": "2025 - 10",
+      "date_contract": "2022 - 12"
+    },
+    {
+      "index": "34",
+      "name": "Nanyang 218",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXsJganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Briese Schiffahrts",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2022 - 12"
+    },
+    {
+      "index": "35",
+      "name": "Jiangmen Nanyang 624",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSXssanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Safemarine Corporation SA",
+      "date_delivery": "2025 - 05",
+      "date_contract": "2022 - 11"
+    },
+    {
+      "index": "36",
+      "name": "Jiangmen Nanyang 212",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSXSsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2025 - 05",
+      "date_contract": "2022 - 10"
+    },
+    {
+      "index": "37",
+      "name": "Nanyang 213",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSXSSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Ciner Group",
+      "date_delivery": "2025 - 06",
+      "date_contract": "2022 - 10"
+    },
+    {
+      "index": "38",
+      "name": "Yasa Magnolia",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSFgJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "YA-SA Holding A.S.",
+      "date_delivery": "2025 - 07",
+      "date_contract": "2022 - 09"
+    },
+    {
+      "index": "39",
+      "name": "Yasa Begonia",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSFgcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "YA-SA Holding A.S.",
+      "date_delivery": "2025 - 08",
+      "date_contract": "2022 - 09"
+    },
+    {
+      "index": "40",
+      "name": "Yasa Camellia",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSFgXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "YA-SA Holding A.S.",
+      "date_delivery": "2025 - 09",
+      "date_contract": "2022 - 09"
+    },
+    {
+      "index": "41",
+      "name": "Jiangmen Nanyang 641",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FBJCCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 40,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 04",
+      "date_contract": "2013 - 12"
+    }
+  ],
+  "ts": 1758553560
+}

@@ -1,0 +1,332 @@
+{
+  "no": 15,
+  "name": "CSSC, Waigaoqiao (SWS)",
+  "link": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFF",
+  "orderbook_rows": [
+    {
+      "index": "1",
+      "name": "DACKS",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFcganmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 49,900 tons",
+      "owner_company": "Shandong Ocean (山东海运)",
+      "date_delivery": "2027 - 05",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "index": "2",
+      "name": "DACKS",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFcJanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 49,900 tons",
+      "owner_company": "Shandong Ocean (山东海运)",
+      "date_delivery": "2027 - 02",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "index": "3",
+      "name": "DACKS DE178",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcJganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Orion Bulkers GmbH & CO.KG",
+      "date_delivery": "2028 - 01",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "4",
+      "name": "DACKS DE177",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcJJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Orion Bulkers GmbH & CO.KG",
+      "date_delivery": "2027 - 12",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "5",
+      "name": "DACKS DE176",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXJccanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2027 - 11",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "6",
+      "name": "DACKS DE175",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SgXgbanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "date_delivery": "2028 - 01",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "7",
+      "name": "DACKS DE174",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SgXgBanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2027 - 10",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "8",
+      "name": "DACKS DE173",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJBJcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,205 tons",
+      "owner_company": "Akmar Shipping and Trading",
+      "date_delivery": "2027 - 02",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "9",
+      "name": "DACKS DE168",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbXXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 05",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "10",
+      "name": "DACKS DE167",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbXFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "11",
+      "name": "DACKS DE166",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbXCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "12",
+      "name": "DACKS DE172",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbFscanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2027 - 01",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "13",
+      "name": "DACKS DE171",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbFsXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "14",
+      "name": "DACKS DE170",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbFsCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 10",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "15",
+      "name": "DACKS DE169",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbgSbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "16",
+      "name": "DACKS DE165",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbsbCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,205 tons",
+      "owner_company": "Akmar Shipping and Trading",
+      "date_delivery": "2026 - 02",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "index": "17",
+      "name": "DACKS DE161",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBbJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Akmar Shipping and Trading",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "18",
+      "name": "DACKS DE162",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBbcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "Akmar Shipping and Trading",
+      "date_delivery": "2026 - 02",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "19",
+      "name": "DACKS DE157",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCJbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "D/S Norden A/S",
+      "date_delivery": "2025 - 10",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "20",
+      "name": "DACKS DE158",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCJBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "D/S Norden A/S",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "21",
+      "name": "DACKS DE159",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCJCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "D/S Norden A/S",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "22",
+      "name": "DACKS DE160",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCJsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "D/S Norden A/S",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "23",
+      "name": "DACKS DE163",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCJSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "D/S Norden A/S",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "24",
+      "name": "DACKS DE164",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCcganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 64,000 tons",
+      "owner_company": "D/S Norden A/S",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "25",
+      "name": "DACKS DE156",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXXbXanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2023 - 02"
+    },
+    {
+      "index": "26",
+      "name": "DACKS DE155",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXXbFanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "date_delivery": "2026 - 07",
+      "date_contract": "2023 - 02"
+    },
+    {
+      "index": "27",
+      "name": "DACKS DE152",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCbBanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "date_delivery": "2028 - 05",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "index": "28",
+      "name": "DACKS DE151",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCbCanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "date_delivery": "2028 - 02",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "index": "29",
+      "name": "DACKS DE150",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCbsanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "date_delivery": "2027 - 10",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "index": "30",
+      "name": "DACKS DE149",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCbSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "date_delivery": "2027 - 06",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "index": "31",
+      "name": "DACKS DE148",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCBganmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "date_delivery": "2027 - 01",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "index": "32",
+      "name": "DACKS DE146",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgggJanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2022 - 10"
+    },
+    {
+      "index": "33",
+      "name": "DACKS DE147",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgggcanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2022 - 10"
+    },
+    {
+      "index": "34",
+      "name": "DACKS DE137",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJBCanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 16,000 teu",
+      "owner_company": "OOCL",
+      "date_delivery": "2025 - 05",
+      "date_contract": "2021 - 09"
+    },
+    {
+      "index": "35",
+      "name": "DACKS DE138",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJBsanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 16,000 teu",
+      "owner_company": "OOCL",
+      "date_delivery": "2025 - 10",
+      "date_contract": "2021 - 09"
+    },
+    {
+      "index": "36",
+      "name": "DACKS DE139",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJBSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 16,000 teu",
+      "owner_company": "OOCL",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2021 - 09"
+    }
+  ],
+  "ts": 1758553547
+}

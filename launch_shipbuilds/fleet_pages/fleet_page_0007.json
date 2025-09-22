@@ -4,1500 +4,240 @@
   "rows": [
     {
       "no": "1201",
-      "name": "Maersk Fredericia",
-      "ship_type": "Container Ship, 5,920 teu",
-      "owner_company": "Bernhard Schulte",
-      "shipyard": "Imabari Shipbuilding, Marugame",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scFFsanmkhTk8Pl4EN"
+      "name": "Shun Tai 1",
+      "ship_type": "Chemical/Products Tanker, 4,773 tons",
+      "owner_company": "Shun Tai Enterprise Co Ltd",
+      "shipyard": "Zhangshu Shipping Transportation Co Shipyard",
+      "date_built": "2001 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbbcbanmkhTk8Pl4EN"
     },
     {
       "no": "1202",
-      "name": "Zangilan",
-      "ship_type": "Chemical/Products Tanker, 7,875 tons",
-      "owner_company": "Azerbaijan Caspian Shipping",
-      "shipyard": "Baku Shipyard",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXcFXanmkhTk8Pl4EN"
+      "name": "Chang An 218",
+      "ship_type": "Bulk Carrier, 57,889 tons",
+      "owner_company": "Wenling Chang An Shipping Co Ltd",
+      "shipyard": "Hexing Shipyard",
+      "date_built": "2013 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFXsanmkhTk8Pl4EN"
     },
     {
       "no": "1203",
-      "name": "AAL Hamburg",
-      "ship_type": "General Cargo Ship, 32,537 tons",
-      "owner_company": "Austral Asia Line (AAL)",
-      "shipyard": "Huangpu-Wenchong Shipbuilding",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scSJFanmkhTk8Pl4EN"
+      "name": "Xin Ming Zhu III",
+      "ship_type": "Passenger Ship, 500 Passengers",
+      "owner_company": "Sun Ferry Services Co Ltd",
+      "shipyard": "Guangdong Sinoway Composite Materials",
+      "date_built": "2024 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgSSJanmkhTk8Pl4EN"
     },
     {
       "no": "1204",
-      "name": "Dmitry Benardaki",
-      "ship_type": "General Cargo Ship, 8,126 tons",
-      "owner_company": "Aurora LLC",
-      "shipyard": "Sudostroitelnyy Zavod",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scSbCanmkhTk8Pl4EN"
+      "name": "Hua Mei Da",
+      "ship_type": "Deck Cargo Ship, 5,047 tons",
+      "owner_company": "Lianyungang Zhengyang Shipping",
+      "shipyard": "Jiangsu Qinfeng Shipbuilding",
+      "date_built": "2020 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScXBanmkhTk8Pl4EN"
     },
     {
       "no": "1205",
-      "name": "Turquoise Ace",
-      "ship_type": "Vehicles Carrier, 7,033 cars",
-      "owner_company": "Mitsui O.S.K Lines (MOL)",
-      "shipyard": "Tadotsu Shipyard",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXgXsanmkhTk8Pl4EN"
+      "name": "Chang An Run",
+      "ship_type": "Bulk Carrier, 53,653 tons",
+      "owner_company": "Zhejiang Bixun Shipping Co",
+      "shipyard": "Hexing Shipyard",
+      "date_built": "2023 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BbgsbanmkhTk8Pl4EN"
     },
     {
       "no": "1206",
-      "name": "Saic Anji Splendor",
-      "ship_type": "Vehicles Carrier, 7,600 cars",
-      "owner_company": "Anji Automotive Logistics (安吉物流)",
-      "shipyard": "Jiangnan Shipyard",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXgXSanmkhTk8Pl4EN"
+      "name": "Dong Fang 508",
+      "ship_type": "Bulk Carrier, 52,500 tons",
+      "owner_company": "Zheyin Financial Leasing",
+      "shipyard": "Qidong Jisheng Shipbuilding",
+      "date_built": "2024 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCbgSanmkhTk8Pl4EN"
     },
     {
       "no": "1207",
-      "name": "CMA CGM Silverstone",
-      "ship_type": "Vehicles Carrier, 7,000 cars",
-      "owner_company": "Eastern Pacific Shipping",
-      "shipyard": "China Merchants HI, Weihai",
+      "name": "Yun Xiang 87",
+      "ship_type": "Chemical/Products Tanker, 3,415 tons",
+      "owner_company": "Zhejiang Yunxiang Shipping",
+      "shipyard": "Ningbo Daxie Shipyard",
       "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXgbcanmkhTk8Pl4EN"
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SgCXCanmkhTk8Pl4EN"
     },
     {
       "no": "1208",
-      "name": "Glovis Sunshine",
-      "ship_type": "Vehicles Carrier, 7,000 cars",
-      "owner_company": "H-Line Shipping",
-      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXgBcanmkhTk8Pl4EN"
+      "name": "Ding Xin 116",
+      "ship_type": "Bulk Carrier, 79,996 tons",
+      "owner_company": "Shishi Dingsheng Shipping",
+      "shipyard": "Taizhou Kouan Shipbuilding",
+      "date_built": "2023 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BsFsbanmkhTk8Pl4EN"
     },
     {
       "no": "1209",
-      "name": "American Liberty",
-      "ship_type": "Cruise, 109 berths",
-      "owner_company": "American Cruise Lines",
-      "shipyard": "Chesapeake Shipbuilding, Salisbury",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scBbcanmkhTk8Pl4EN"
+      "name": "Ji Zhe 6",
+      "ship_type": "General Cargo Ship, 10,238 tons",
+      "owner_company": "Guangxi Hongxiang Shipping",
+      "shipyard": "Zhejiang Zhenyu Shipbuilding",
+      "date_built": "2006 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXXBanmkhTk8Pl4EN"
     },
     {
       "no": "1210",
-      "name": "Puteri Sejinjang",
-      "ship_type": "LNG Tanker, 170,489 cbm",
-      "owner_company": "Hyundai LNG Shipping",
-      "shipyard": "Hyundai HI, Ulsan",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scbgganmkhTk8Pl4EN"
+      "name": "Lian Ying 008",
+      "ship_type": "Crane Vessel",
+      "owner_company": "Liaoning Lianying Shipping Co",
+      "shipyard": "Taizhou Zhuzhuang Shipbuilding",
+      "date_built": "2020 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cFFbBanmkhTk8Pl4EN"
     },
     {
       "no": "1211",
-      "name": "Min Jiang Kou",
-      "ship_type": "Vehicles Carrier, 7,500 cars",
-      "owner_company": "BoComm Financial Leasing (交银租赁)",
-      "shipyard": "Mawei Shipyard",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXgJSanmkhTk8Pl4EN"
+      "name": "Peaceful World",
+      "ship_type": "General Cargo Ship, 12,500 tons",
+      "owner_company": "Ningbo United Group",
+      "shipyard": "Ningbo Beilun Kangda Shipyard",
+      "date_built": "2010 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXcbanmkhTk8Pl4EN"
     },
     {
       "no": "1212",
-      "name": "Liao He Kou",
-      "ship_type": "Vehicles Carrier, 7,500 cars",
-      "owner_company": "BoComm Financial Leasing (交银租赁)",
-      "shipyard": "Xiamen Shipbuilding",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXgJCanmkhTk8Pl4EN"
+      "name": "Teng Da 5658",
+      "ship_type": "Aggregates Carrier, 9,886 tons",
+      "owner_company": "Putian Hengliang Ship Management",
+      "shipyard": "Fujian Changxing Shipbuilding",
+      "date_built": "2022 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BsFJJanmkhTk8Pl4EN"
     },
     {
       "no": "1213",
-      "name": "Scot Leader",
-      "ship_type": "General Cargo Ship, 4,790 tons",
-      "owner_company": "Scotline Ltd",
-      "shipyard": "Bodewes Shipyard",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scSgbanmkhTk8Pl4EN"
+      "name": "Yi Xing 899",
+      "ship_type": "Aggregates Carrier, 5,979 tons",
+      "owner_company": "Fujian Xinjiahang Marine",
+      "shipyard": "Zhangzhou Zongxin Shipping",
+      "date_built": "2022 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFsFanmkhTk8Pl4EN"
     },
     {
       "no": "1214",
-      "name": "Hibiki",
-      "ship_type": "General Cargo Ship, 19,991 tons",
-      "owner_company": "Temm Maritime Co Ltd",
-      "shipyard": "Honda Zosen, Saiki",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScXbanmkhTk8Pl4EN"
+      "name": "Heng Shun 196",
+      "ship_type": "Aggregates Carrier, 5,603 tons",
+      "owner_company": "Putian Hengliang Ship Management",
+      "shipyard": "Fujian Fu'an Shunjiang Shipyard",
+      "date_built": "2021 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BsFXbanmkhTk8Pl4EN"
     },
     {
       "no": "1215",
-      "name": "Fajar Bahari VIII",
-      "ship_type": "Ro-Ro Cargo Ship, 2,000 Lane m.",
-      "owner_company": "Fajar Bahari Nusantara",
-      "shipyard": "CSSC Guangxi Shipyard",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScgXanmkhTk8Pl4EN"
+      "name": "Xing Zhong Hai",
+      "ship_type": "General Cargo Ship, 7,000 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Yizheng Kangping Shipyard",
+      "date_built": "2019 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScSSanmkhTk8Pl4EN"
     },
     {
       "no": "1216",
-      "name": "Kariyushi II",
-      "ship_type": "Ro-Ro Cargo Ship, 2,000 Lane m.",
-      "owner_company": "Ryukyu Kaiun Kaisha",
-      "shipyard": "Onomichi Dockyard",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSJSXanmkhTk8Pl4EN"
+      "name": "Fu Shun Da 6979",
+      "ship_type": "Aggregates Carrier, 8,576 tons",
+      "owner_company": "Fuzhou Fuyuan & Ningde Jinfuda",
+      "shipyard": "Fujian Changxing Shipbuilding",
+      "date_built": "2021 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFsBanmkhTk8Pl4EN"
     },
     {
       "no": "1217",
-      "name": "Margarita Salas",
-      "ship_type": "Passenger/Ro-Ro Ship, 1,200 Passengers",
-      "owner_company": "Balearia Eurolineas Maritimas",
-      "shipyard": "Astilleros Armon Gijon",
-      "date_built": "2024 - 07",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSJFFanmkhTk8Pl4EN"
+      "name": "Da Yu Zhi Jiao",
+      "ship_type": "General Cargo Ship, 12,000 tons",
+      "owner_company": "Anhui Huaihai Shipping Co Ltd",
+      "shipyard": "Fujian Pingtan Xiongying Shipyard",
+      "date_built": "2009 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScBXanmkhTk8Pl4EN"
     },
     {
       "no": "1218",
-      "name": "Min Hua 9",
-      "ship_type": "General Cargo Ship, 12,484 tons",
-      "owner_company": "Xiamen Jingfeng Shipping",
-      "shipyard": "Fujian Hengsheng Shipping Heavy Industry",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScCbanmkhTk8Pl4EN"
+      "name": "Xiang Rui 668",
+      "ship_type": "Aggregates Carrier, 8,978 tons",
+      "owner_company": "Putian Hengliang Ship Management",
+      "shipyard": "Fu'an Pengyuan Shipbuilding",
+      "date_built": "2021 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BsFXFanmkhTk8Pl4EN"
     },
     {
       "no": "1219",
-      "name": "Vertom Anette",
-      "ship_type": "General Cargo Ship, 7,292 tons",
-      "owner_company": "Vertom UCS Holding BV",
-      "shipyard": "Royal T Shipyards Kampen",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScSCanmkhTk8Pl4EN"
+      "name": "S Line",
+      "ship_type": "Bulk Carrier, 17,818 tons",
+      "owner_company": "Iskele Denizcilik Ticaret Ltd",
+      "shipyard": "Anhui Chizhou Zhonghai Shipyard",
+      "date_built": "2022 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BBSbganmkhTk8Pl4EN"
     },
     {
       "no": "1220",
-      "name": "Qi Fan 19",
-      "ship_type": "Cable Layer, 12,480 tons",
-      "owner_company": "Zhejiang Qiming Electric Power",
-      "shipyard": "Jiangsu Haixin Shipping HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCcBBanmkhTk8Pl4EN"
+      "name": "Ye Da 68",
+      "ship_type": "Deck Cargo Ship, 5,187 tons",
+      "owner_company": "Alpha Blue Shipping & Clearing",
+      "shipyard": "Zhejiang Tianshi Shipbuilding",
+      "date_built": "2020 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXFsanmkhTk8Pl4EN"
     },
     {
       "no": "1221",
-      "name": "Argo I",
-      "ship_type": "Cruise, 26 Passengers",
-      "owner_company": "International Cruising Yachts",
-      "shipyard": "Nuic Nautika, Kastel Stafilic",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJXccanmkhTk8Pl4EN"
+      "name": "Xin Bin Hong",
+      "ship_type": "Container Ship, 2,838 teu",
+      "owner_company": "Fujian Changan Shipping Co Ltd",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_built": "2022 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFJBanmkhTk8Pl4EN"
     },
     {
       "no": "1222",
-      "name": "First Delphinus",
-      "ship_type": "Bulk Carrier, 182,316 tons",
-      "owner_company": "Nissen Kaiun KK",
-      "shipyard": "JMU Ariake Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sssbcanmkhTk8Pl4EN"
+      "name": "Tong Yun 16",
+      "ship_type": "Bulk Carrier, 13,587 tons",
+      "owner_company": "Hubei Chudao Waterway Trans",
+      "shipyard": "Yangzhou Ryuwa Shipbuilding",
+      "date_built": "2019 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BBSgbanmkhTk8Pl4EN"
     },
     {
       "no": "1223",
-      "name": "Manina",
-      "ship_type": "Bulk Carrier, 64,088 tons",
-      "owner_company": "Anosis Maritime SA",
-      "shipyard": "Nantong COSCO KHI (NACKS)",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sScbSanmkhTk8Pl4EN"
+      "name": "Tong Chi 1",
+      "ship_type": "Aggregates Carrier, 17,529 tons",
+      "owner_company": "Lianyungang Yihong Shipping",
+      "shipyard": "Lianyungang Wuzhou Shipbuilding",
+      "date_built": "2022 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFCXanmkhTk8Pl4EN"
     },
     {
       "no": "1224",
-      "name": "SW Legend",
-      "ship_type": "Bulk Carrier, 63,504 tons",
-      "owner_company": "Shih Wei Navigation (四维航业)",
-      "shipyard": "Tsuneishi Shipbuilding, Zhoushan",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sScsSanmkhTk8Pl4EN"
+      "name": "Tai Zhi Hang Qin",
+      "ship_type": "Aggregates Carrier, 10,146 tons",
+      "owner_company": "Taizhou Liqin Shipping Service",
+      "shipyard": "Taizhou Kouan Shipbuilding",
+      "date_built": "2022 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFCSanmkhTk8Pl4EN"
     },
     {
       "no": "1225",
-      "name": "CL Guangzhou",
-      "ship_type": "Bulk Carrier, 64,730 tons",
-      "owner_company": "SUMEC Shipping Pte Ltd",
-      "shipyard": "New Dayang Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSJssanmkhTk8Pl4EN"
+      "name": "Shun Xin 169",
+      "ship_type": "Aggregates Carrier, 6,770 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Fujian Xinshenghai Shipbuilding",
+      "date_built": "2019 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFSganmkhTk8Pl4EN"
     },
     {
       "no": "1226",
-      "name": "Theresa Breeze",
-      "ship_type": "Bulk Carrier, 66,145 tons",
-      "owner_company": "Murakami Sekiyu",
-      "shipyard": "Yangzi-Mitsui Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sScSFanmkhTk8Pl4EN"
+      "name": "Ming Shun 877",
+      "ship_type": "Aggregates Carrier, 12,915 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Fujian Guo'an Shipbuilding Industry",
+      "date_built": "2020 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFSSanmkhTk8Pl4EN"
     },
     {
       "no": "1227",
-      "name": "Seacon Antwerp",
-      "ship_type": "Bulk Carrier, 82,806 tons",
-      "owner_company": "Seacon Shipping (洲际船务)",
-      "shipyard": "Tsuneishi Shipbuilding, Zhoushan",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ssSSCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1228",
-      "name": "Basic Star",
-      "ship_type": "Bulk Carrier, 81,947 tons",
-      "owner_company": "Genyo Kaiun Co Ltd",
-      "shipyard": "Sanoyas Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ssSsCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1229",
-      "name": "One Fortune",
-      "ship_type": "Container Ship, 15,250 teu",
-      "owner_company": "Seaspan Corporation",
-      "shipyard": "Yangzi Xinfu Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCCFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1230",
-      "name": "MSC Mombasa",
-      "ship_type": "Container Ship, 8,030 teu",
-      "owner_company": "MSC",
-      "shipyard": "Hyundai HI, Ulsan",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSSCsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1231",
-      "name": "Eva Fukuoka",
-      "ship_type": "Chemical/Products Tanker, 25,298 tons",
-      "owner_company": "Nisshin Shipping Co., Ltd",
-      "shipyard": "Fukuoka Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SggBBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1232",
-      "name": "Heng Yuan Fa Zhan",
-      "ship_type": "Heavy Load Carrier, 14,059 tons",
-      "owner_company": "Anhui Jihai International Shipping",
-      "shipyard": "Taizhou Sanfu Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCsXcanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1233",
-      "name": "Longera",
-      "ship_type": "General Cargo Ship, 8,797 tons",
-      "owner_company": "Longship BV",
-      "shipyard": "Atlas Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SgXbCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1234",
-      "name": "Aspen Trader",
-      "ship_type": "Bulk Carrier, 40,608 tons",
-      "owner_company": "Nisshin Shipping Co., Ltd",
-      "shipyard": "Jiangmen Nanyang",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSXSFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1235",
-      "name": "Astura",
-      "ship_type": "Bulk Carrier, 39,902 tons",
-      "owner_company": "Evalend Shipping",
-      "shipyard": "Jiangsu Newyangzi Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSFgCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1236",
-      "name": "Ugah Breeze",
-      "ship_type": "General Cargo Ship, 5,883 tons",
-      "owner_company": "Sarfo Denizcilik ve Ticaret AS",
-      "shipyard": "Gisan Gemi Shipyard, Istanbul",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFJBFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1237",
-      "name": "MTT Limbang",
-      "ship_type": "Container Ship, 1,220 teu",
-      "owner_company": "MTT Shipping Sdn Bhd",
-      "shipyard": "Linhai Huipu Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFgSCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1238",
-      "name": "Warrior",
-      "ship_type": "Bulk Carrier, 40,053 tons",
-      "owner_company": "Daido Kaiun",
-      "shipyard": "Namura Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXsCBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1239",
-      "name": "CL Flanders",
-      "ship_type": "General Cargo Ship, 3,614 tons",
-      "owner_company": "Conti-Lines NV",
-      "shipyard": "GS Yard, Waterhuizen",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFJsbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1240",
-      "name": "Maersk El Banco",
-      "ship_type": "Container Ship, 12,800 teu",
-      "owner_company": "Maersk Line A/S",
-      "shipyard": "JMU Kure Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFgsFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1241",
-      "name": "Maersk El Banco",
-      "ship_type": "Container Ship, 12,800 teu",
-      "owner_company": "Maersk Line A/S",
-      "shipyard": "JMU Kure Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFgsbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1242",
-      "name": "SLM Victor",
-      "ship_type": "Deck Cargo Ship, 13,007 tons",
-      "owner_company": "Louis Dreyfus Armateurs (LDA)",
-      "shipyard": "Wuchang Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFJssanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1243",
-      "name": "Feng Hua 23",
-      "ship_type": "Commissioning Service Operation Vessel, 4,565 tons",
-      "owner_company": "FH Offshore Engineering",
-      "shipyard": "Mawei Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCgccanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1244",
-      "name": "Arklow Rose",
-      "ship_type": "General Cargo Ship, 6,885 tons",
-      "owner_company": "Arklow Shipping",
-      "shipyard": "Bodewes Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scscbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1245",
-      "name": "Arteaga NM",
-      "ship_type": "General Cargo Ship, 6,500 tons",
-      "owner_company": "Naviera Murueta SA",
-      "shipyard": "Astilleros de Murueta",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scCcsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1246",
-      "name": "Ecomar",
-      "ship_type": "General Cargo Ship, 5,432 tons",
-      "owner_company": "AtoB@C Shipping",
-      "shipyard": "Chowgule Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scCsganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1247",
-      "name": "Puteri Santubong",
-      "ship_type": "LNG Tanker, 170,499 cbm",
-      "owner_company": "Hyundai LNG Shipping",
-      "shipyard": "Hyundai HI, Ulsan",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scFSSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1248",
-      "name": "Utopia of The Seas",
-      "ship_type": "Cruise, 6,360 berths",
-      "owner_company": "Royal Caribbean International",
-      "shipyard": "Chantiers de l'Atlantique, St-Nazaire",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scBBsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1249",
-      "name": "Mein Schiff 7",
-      "ship_type": "Cruise, 2,894 berths",
-      "owner_company": "Tui Cruises GmbH",
-      "shipyard": "Meyer Turku",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scBSSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1250",
-      "name": "Lake Lugu",
-      "ship_type": "Vehicles Carrier, 7,000 cars",
-      "owner_company": "Eastern Pacific Shipping",
-      "shipyard": "China Merchants HI, Yizheng Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXgBCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1251",
-      "name": "BBC Houston",
-      "ship_type": "General Cargo Ship, 13,451 tons",
-      "owner_company": "Briese Schiffahrts",
-      "shipyard": "Taizhou Sanfu Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scSBCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1252",
-      "name": "Saaremaa",
-      "ship_type": "General Cargo Ship, 5,963 tons",
-      "owner_company": "Tom Worden Schiffs",
-      "shipyard": "Jiangsu Dajin HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scSgsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1253",
-      "name": "Thun Reliance",
-      "ship_type": "Chemical/Products Tanker, 7,999 tons",
-      "owner_company": "Erik Thun Group",
-      "shipyard": "Ferus Smit Leer Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXcbsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1254",
-      "name": "Dong Gui 20",
-      "ship_type": "Chemical/Products Tanker, 9,604 tons",
-      "owner_company": "Guangxi Wuzhou Tongzhou Shipping",
-      "shipyard": "Taizhou Wuzhou Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXcCCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1255",
-      "name": "Guo Jia Neng Yuan 821",
-      "ship_type": "Bulk Carrier, 85,584 tons",
-      "owner_company": "China Energy Shipping (国能远海)",
-      "shipyard": "Huangpu-Wenchong Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXJBsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1256",
-      "name": "Nord Houston",
-      "ship_type": "Bulk Carrier, 40,552 tons",
-      "owner_company": "Nisshin Shipping Co., Ltd",
-      "shipyard": "Jiangmen Nanyang",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sXJSganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1257",
-      "name": "CMA CGM Belem",
-      "ship_type": "Container Ship, 13,200 teu",
-      "owner_company": "CMA CGM Group",
-      "shipyard": "Hudong-Zhonghua Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scFccanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1258",
-      "name": "President Reagan",
-      "ship_type": "Container Ship, 5,598 teu",
-      "owner_company": "APL Co (CMA CGM)",
-      "shipyard": "Beihai Shipbuilding HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scFgBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1259",
-      "name": "HMM Ruby",
-      "ship_type": "Container Ship, 13,253 teu",
-      "owner_company": "HMM Co Ltd",
-      "shipyard": "Hanwha Ocean",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccSSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1260",
-      "name": "COSCO Shipping Mexico",
-      "ship_type": "Container Ship, 14,100 teu",
-      "owner_company": "COSCO Shipping Lines (中远海集运)",
-      "shipyard": "COSCO HI, Yangzhou",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccCbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1261",
-      "name": "ZIM Sapphire",
-      "ship_type": "Container Ship, 7,000 teu",
-      "owner_company": "Seaspan Corporation",
-      "shipyard": "Jiangsu Newyangzi Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccbbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1262",
-      "name": "Panda 004",
-      "ship_type": "Container Ship, 1,400 teu",
-      "owner_company": "Elbdeich Reederei",
-      "shipyard": "Penglai Zhongbai Jinglu Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccXSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1263",
-      "name": "One Reliability",
-      "ship_type": "Container Ship, 7,000 teu",
-      "owner_company": "Seaspan Corporation",
-      "shipyard": "Shanghai Waigaoqiao Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccgBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1264",
-      "name": "One Reputation",
-      "ship_type": "Container Ship, 7,000 teu",
-      "owner_company": "Seaspan Corporation",
-      "shipyard": "Shanghai Waigaoqiao Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccgCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1265",
-      "name": "TS Dubai",
-      "ship_type": "Container Ship, 7,092 teu",
-      "owner_company": "T.S. Lines Co., Ltd. （德翔海运）",
-      "shipyard": "Shanghai Waigaoqiao Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scXbbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1266",
-      "name": "Wan Hai 373",
-      "ship_type": "Container Ship, 3,055 teu",
-      "owner_company": "Wan Hai Lines (万海航运)",
-      "shipyard": "JMU Tsu Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scXJSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1267",
-      "name": "SITC Zhi",
-      "ship_type": "Container Ship, 1,868 teu",
-      "owner_company": "SITC",
-      "shipyard": "Yangfan Group",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scXsFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1268",
-      "name": "ALS Clivia",
-      "ship_type": "Container Ship, 7,096 teu",
-      "owner_company": "Atlantic Lloyd",
-      "shipyard": "Shanhaiguan Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJSBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1269",
-      "name": "Maersk Port Klang",
-      "ship_type": "Container Ship, 2,822 teu",
-      "owner_company": "Nissen Kaiun KK",
-      "shipyard": "Tsuneishi Shipbuilding, Zhoushan",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJgXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1270",
-      "name": "Eco Marin",
-      "ship_type": "Container Ship, 1,170 teu",
-      "owner_company": "Sea Consortium",
-      "shipyard": "New Dayang Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scgCbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1271",
-      "name": "Fu Long Sheng",
-      "ship_type": "General Cargo Ship, 13,455 tons",
-      "owner_company": "Fusheng Shipping Ltd",
-      "shipyard": "Donghai Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBsSganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1272",
-      "name": "Intan Daya 292",
-      "ship_type": "General Cargo Ship, 11,605 tons",
-      "owner_company": "Teguh Permata Nusantara",
-      "shipyard": "PT. Bandar Abadi",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBSgXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1273",
-      "name": "Izumi Maru No. 6",
-      "ship_type": "LPG Tanker, 1,767 cbm",
-      "owner_company": "Nippon Gas Line Co Ltd",
-      "shipyard": "Miura Zosensho, Saiki",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBCJBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1274",
-      "name": "Bram Rio",
-      "ship_type": "Platform Supply Ship, 94 m.loa",
-      "owner_company": "Edison Chouest Offshore",
-      "shipyard": "Estaleiro Navship, Navegantes",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBsgcanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1275",
-      "name": "Aqua Blue",
-      "ship_type": "General Cargo Ship, 13,589 tons",
-      "owner_company": "Toko Kaiun Kaisha Ltd (Toko Line)",
-      "shipyard": "Higaki Zosen, Imabari",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBSJJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1276",
-      "name": "Green Park",
-      "ship_type": "Container Ship, 2,900 teu",
-      "owner_company": "Eastern Pacific Shipping",
-      "shipyard": "Mawei Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXssanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1277",
-      "name": "Anastasia V",
-      "ship_type": "General Cargo Ship, 8,330 tons",
-      "owner_company": "Azov-Don Shipping Co LLC",
-      "shipyard": "Taizhou Tai Marine HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXJJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1278",
-      "name": "Viet Thuan 095-01",
-      "ship_type": "General Cargo Ship, 9,500 tons",
-      "owner_company": "Viet Thuan Transport Co Ltd",
-      "shipyard": "Pacific Shipbuilding, Haiphong",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScSBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1279",
-      "name": "Tina-M",
-      "ship_type": "Chemical/Products Tanker, 6,038 tons",
-      "owner_company": "Nakkas Shipping & Trading",
-      "shipyard": "Cimtas Shipyard, Basiskele",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXBXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1280",
-      "name": "Dong Hai 217",
-      "ship_type": "Products Tanker, 22,405 tons",
-      "owner_company": "Ningbo Donghai Shipping Co Ltd",
-      "shipyard": "Zhejiang Mingfei Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXBBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1281",
-      "name": "Zhong Chuan 701",
-      "ship_type": "Chemical Tanker, 7,500 tons",
-      "owner_company": "Sinoship Maritime Services",
-      "shipyard": "Taizhou Fangzhen Shipbuilding, Sanmen County",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXBJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1282",
-      "name": "Wind Core",
-      "ship_type": "General Cargo Ship, 11,722 tons",
-      "owner_company": "Toda Kisen",
-      "shipyard": "Shin Kurushima Dockyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXJXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1283",
-      "name": "Starship Mercury",
-      "ship_type": "Container Ship, 2,548 teu",
-      "owner_company": "Namsung Shipping",
-      "shipyard": "Hyundai HI, Mipo",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBFgbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1284",
-      "name": "Tanto Sentosa",
-      "ship_type": "Container Ship, 558 teu",
-      "owner_company": "PT Tanto Intim Line",
-      "shipyard": "Ningbo Boda Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbCJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1285",
-      "name": "Kyokuhou Maru",
-      "ship_type": "Products Tanker, 5,541 tons",
-      "owner_company": "Asahi Tanker",
-      "shipyard": "Sasaki Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBFJCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1286",
-      "name": "Thun Vettern",
-      "ship_type": "Chemical/Products Tanker, 17,945 tons",
-      "owner_company": "Erik Thun Group",
-      "shipyard": "China Merchants HI, Dingheng",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBFFJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1287",
-      "name": "Sobaek Explorer",
-      "ship_type": "LPG Tanker, 84,421 cbm",
-      "owner_company": "Hyundai Glovis",
-      "shipyard": "Hyundai HI, Samho",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBFScanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1288",
-      "name": "Woodside Scarlet Ibis",
-      "ship_type": "LNG Tanker, 170,547 cbm",
-      "owner_company": "Hyundai Glovis",
-      "shipyard": "Hyundai HI, Samho",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBFSXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1289",
-      "name": "Omishima",
-      "ship_type": "Bulk Carrier, 63,526 tons",
-      "owner_company": "Murakami Sekiyu",
-      "shipyard": "Iwagi Zosen, Kamijima",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCSCsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1290",
-      "name": "Star Earendel",
-      "ship_type": "Bulk Carrier, 82,365 tons",
-      "owner_company": "Nissen Kaiun KK",
-      "shipyard": "JMU Isogo Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BsXSXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1291",
-      "name": "Misje Rose",
-      "ship_type": "General Cargo Ship, 5,310 tons",
-      "owner_company": "Misje Rederi",
-      "shipyard": "Colombo Dockyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBsXSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1292",
-      "name": "African Lorikeet",
-      "ship_type": "Bulk Carrier, 63,425 tons",
-      "owner_company": "Kisaragi Kisen Co Ltd",
-      "shipyard": "Imabari Shipbuilding, Imabari",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCJgbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1293",
-      "name": "Hamel",
-      "ship_type": "Passenger Ship, 423 Passengers",
-      "owner_company": "KTM Shipping Co. Ltd.",
-      "shipyard": "189 Company, Haiphong",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBBbSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1294",
-      "name": "Rawabi Jub 609",
-      "ship_type": "Accommodation Platform",
-      "owner_company": "Rawabi Holdings",
-      "shipyard": "China Merchants HI, Weihai",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBsscanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1295",
-      "name": "Heng Li 32",
-      "ship_type": "Bulk Carrier, 60,514 tons",
-      "owner_company": "Hengli Group",
-      "shipyard": "Hengli Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCBXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1296",
-      "name": "Spring Aura",
-      "ship_type": "Bulk Carrier, 58,481 tons",
-      "owner_company": "Shunzan Kaiun KK",
-      "shipyard": "Oshima Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCCBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1297",
-      "name": "Havva Ana",
-      "ship_type": "Asphalt/Bitumen Tanker, 8,817 tons",
-      "owner_company": "Ocean Shine Shipping Co",
-      "shipyard": "Zhejiang Tenglong Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXbSganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1298",
-      "name": "Bow Jaguar",
-      "ship_type": "Chemical/Products Tanker, 25,877 tons",
-      "owner_company": "Odfjell SE",
-      "shipyard": "Asakawa Zosen, Imabari",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXbXCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1299",
-      "name": "Marine Ginza",
-      "ship_type": "Chemical/Products Tanker, 7,950 tons",
-      "owner_company": "Vitol Group",
-      "shipyard": "Zhejiang Shenzhou HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFCcbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1300",
-      "name": "Maple Ocean",
-      "ship_type": "Chemical/Products Tanker, 13,221 tons",
-      "owner_company": "Maple Leaf Shipping Co Ltd",
-      "shipyard": "Taizhou Maple Leaf Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFCJcanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1301",
-      "name": "Eva Richway",
-      "ship_type": "Chemical/Products Tanker, 19,906 tons",
-      "owner_company": "Nisshin Shipping Co., Ltd",
-      "shipyard": "Usuki Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXbFXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1302",
-      "name": "Eco Edison",
-      "ship_type": "Commissioning Service Operation Vessel, 2,952 tons",
-      "owner_company": "Edison Chouest Offshore",
-      "shipyard": "LaShip LLC, Houma",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCgXBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1303",
-      "name": "Baltic Anka",
-      "ship_type": "General Cargo Ship, 3,662 tons",
-      "owner_company": "Aksoy Group",
-      "shipyard": "Gelibolu Gemi Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cFcsCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1304",
-      "name": "Cristina M",
-      "ship_type": "Passenger Ship, 251 Passengers",
-      "owner_company": "Liberty Lines SpA",
-      "shipyard": "Astilleros Armon Burela, Burela",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCFSCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1305",
-      "name": "Yi Da 17",
-      "ship_type": "Products Tanker, 4,889 tons",
-      "owner_company": "Zhoushan Yilunda Shipping",
-      "shipyard": "Zhejiang Rongchang Offshore Engineering Industria",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbbsCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1306",
-      "name": "Apostolos",
-      "ship_type": "LNG Tanker, 170,554 cbm",
-      "owner_company": "Capital Maritime & Trading",
-      "shipyard": "Hyundai HI, Ulsan",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgSJXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1307",
-      "name": "Aktoras",
-      "ship_type": "LNG Tanker, 170,520 cbm",
-      "owner_company": "Capital Maritime & Trading",
-      "shipyard": "Hyundai HI, Samho",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgSJFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1308",
-      "name": "HLS Cartagena",
-      "ship_type": "LNG Tanker, 170,780 cbm",
-      "owner_company": "Hyundai LNG Shipping",
-      "shipyard": "Hanwha Ocean",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgSbbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1309",
-      "name": "Madre Antonia",
-      "ship_type": "Refrigerated Cargo Ship, 1,438 tons",
-      "owner_company": "RF Malta Holding Ltd",
-      "shipyard": "Niigata Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csssbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1310",
-      "name": "Heng Tong Hai Yue",
-      "ship_type": "Wind Turbine Installation Platform",
-      "owner_company": "Hengtong Ocean Engineering Co",
-      "shipyard": "Jiangsu Dajin HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCJBJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1311",
-      "name": "Eco Levant",
-      "ship_type": "Container Ship, 1,264 teu",
-      "owner_company": "Sea Consortium",
-      "shipyard": "Yangzi Xinfu Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCJbCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1312",
-      "name": "Olivia",
-      "ship_type": "Bulk Carrier, 40,010 tons",
-      "owner_company": "Daido Kaiun",
-      "shipyard": "Shin Kurushima, Kochi",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXcCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1313",
-      "name": "Mount Aconcagua",
-      "ship_type": "Bulk Carrier, 208,479 tons",
-      "owner_company": "Himalaya Shipping Ltd.",
-      "shipyard": "New Times Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJcFcanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1314",
-      "name": "Mount Emai",
-      "ship_type": "Bulk Carrier, 208,479 tons",
-      "owner_company": "Himalaya Shipping Ltd.",
-      "shipyard": "New Times Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJcFFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1315",
-      "name": "Star Island",
-      "ship_type": "Bulk Carrier, 63,592 tons",
-      "owner_company": "Shikishima Kisen K.K.",
-      "shipyard": "Tsuneishi HI Cebu",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJcBXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1316",
-      "name": "Franbo Brave",
-      "ship_type": "Bulk Carrier, 40,090 tons",
-      "owner_company": "Franbo Lines Corporation",
-      "shipyard": "Hakodate Dock, Hakodate",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJcBganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1317",
-      "name": "ZY Juhe",
-      "ship_type": "Bulk Carrier, 63,833 tons",
-      "owner_company": "Ningbo Juhe Logistics",
-      "shipyard": "Nantong Xiangyu SOE",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJcJBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1318",
-      "name": "Swansea",
-      "ship_type": "Bulk Carrier, 90,024 tons",
-      "owner_company": "Ciner Group",
-      "shipyard": "Chengxi Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJcJsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1319",
-      "name": "Green Vitoria",
-      "ship_type": "General Cargo Ship (Open Hatch), 64,995 tons",
-      "owner_company": "COSCO Shipping Specialized (中远海特）",
-      "shipyard": "COSCO HI, Dalian",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJgXXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1320",
-      "name": "Ocean Faith",
-      "ship_type": "Bulk Carrier, 63,592 tons",
-      "owner_company": "Huaxia Financial Leasing (华夏租赁)",
-      "shipyard": "Chengxi Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJJgBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1321",
-      "name": "Green Portocel",
-      "ship_type": "General Cargo Ship (Open Hatch), 77,228 tons",
-      "owner_company": "COSCO Shipping Specialized (中远海特）",
-      "shipyard": "COSCO HI, Dalian",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJgcBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1322",
-      "name": "Mineral Deutschland",
-      "ship_type": "Bulk Carrier, 210,707 tons",
-      "owner_company": "Bocimar International BV",
-      "shipyard": "Beihai Shipbuilding HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJJScanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1323",
-      "name": "Season Trader",
-      "ship_type": "Bulk Carrier, 82,232 tons",
-      "owner_company": "Nisshin Shipping Co., Ltd",
-      "shipyard": "Jiangsu New Hantong HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJJCJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1324",
-      "name": "China Vista",
-      "ship_type": "Bulk Carrier, 210,271 tons",
-      "owner_company": "Chinese Maritime Transport (CMT)",
-      "shipyard": "Beihai Shipbuilding HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJJbsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1325",
-      "name": "HG Bremen",
-      "ship_type": "Bulk Carrier, 64,184 tons",
-      "owner_company": "Rongtua Holding Pte Ltd",
-      "shipyard": "COSCO HI, Zhoushan",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJJBFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1326",
-      "name": "SITC Haode",
-      "ship_type": "Container Ship, 1,760 teu",
-      "owner_company": "SITC",
-      "shipyard": "Huanghai Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJsCFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1327",
-      "name": "Berge Haleakala",
-      "ship_type": "Bulk Carrier, 211,693 tons",
-      "owner_company": "Berge Bulk Maritime",
-      "shipyard": "Imabari Saijo Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJBSbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1328",
-      "name": "CA Nagoya",
-      "ship_type": "Container Ship, 1,182 teu",
-      "owner_company": "Asean Seas Line (亚海航运)",
-      "shipyard": "Wuchang Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJCSSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1329",
-      "name": "CA Guangzhou",
-      "ship_type": "Container Ship, 1,673 teu",
-      "owner_company": "Asean Seas Line (亚海航运)",
-      "shipyard": "Huangpu-Wenchong Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJsgSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1330",
-      "name": "Acastos",
-      "ship_type": "Container Ship, 2,782 teu",
-      "owner_company": "Capital Maritime & Trading",
-      "shipyard": "Hyundai HI, Mipo",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJSbXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1331",
-      "name": "Stephania K",
-      "ship_type": "Container Ship, 1,809 teu",
-      "owner_company": "Eurobulk LTD",
-      "shipyard": "Hyundai HI, Mipo",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJSXJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1332",
-      "name": "MSC Tema VIII",
-      "ship_type": "Container Ship, 7,900 teu",
-      "owner_company": "Cido Shipping (HK)",
-      "shipyard": "Hyundai HI, Samho",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJSJCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1333",
-      "name": "MSC Cotonou VIII",
-      "ship_type": "Container Ship, 7,900 teu",
-      "owner_company": "Cido Shipping (HK)",
-      "shipyard": "Hyundai HI, Samho",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJSJsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1334",
-      "name": "Wan Hai A16",
-      "ship_type": "Container Ship, 13,100 teu",
-      "owner_company": "Wan Hai Lines (万海航运)",
-      "shipyard": "Samsung HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJScCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1335",
-      "name": "Greenland",
-      "ship_type": "Container Ship, 8,010 teu",
-      "owner_company": "Danaos Shipping",
-      "shipyard": "Daehan Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJSJganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1336",
-      "name": "Celsius Eindhoven",
-      "ship_type": "Container Ship, 3,006 teu",
-      "owner_company": "Celsius Shipping",
-      "shipyard": "Penglai Zhongbai Jinglu Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJSgsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1337",
-      "name": "CMA CGM Tivoli",
-      "ship_type": "Container Ship, 2,126 teu",
-      "owner_company": "CMA CGM Group",
-      "shipyard": "Hyundai HI, Mipo",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scgsCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1338",
-      "name": "MSC Jenna",
-      "ship_type": "Container Ship, 1,800 teu",
-      "owner_company": "MSC",
-      "shipyard": "Mawei Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJsBFanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1339",
-      "name": "MSC Chaewon",
-      "ship_type": "Container Ship, 1,800 teu",
-      "owner_company": "MSC",
-      "shipyard": "Mawei Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJsBbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1340",
-      "name": "MSC Rome",
-      "ship_type": "Container Ship, 15,576 teu",
-      "owner_company": "MSC",
-      "shipyard": "Hyundai HI, Samho",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scgFbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1341",
-      "name": "Irenes Rally",
-      "ship_type": "Container Ship, 2,782 teu",
-      "owner_company": "Tsakos Group",
-      "shipyard": "Hyundai HI, Mipo",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJSSBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1342",
-      "name": "A Atago",
-      "ship_type": "Container Ship, 1,096 teu",
-      "owner_company": "Cheng Cheng Container HK Ltd",
-      "shipyard": "Kyokuyo Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scggganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1343",
-      "name": "Ital Wit",
-      "ship_type": "Container Ship, 2,300 teu",
-      "owner_company": "Evergreen Marine Corp.",
-      "shipyard": "Huangpu-Wenchong Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJFBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1344",
-      "name": "Ever Vast",
-      "ship_type": "Container Ship, 3,110 teu",
-      "owner_company": "Evergreen Marine Corp.",
-      "shipyard": "Huangpu-Wenchong Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJXBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1345",
-      "name": "Zhi Zhen 100",
-      "ship_type": "Service Operation Vessel",
-      "owner_company": "Jiangsu Xiangfeng Marine Tech",
-      "shipyard": "Shanghai Zhenhua HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccsBJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1346",
-      "name": "Zhong Chuan Yuan Yang",
-      "ship_type": "Barge Carrier, 25,580 tons",
-      "owner_company": "Hai Nan Zhongzheng Intl Shipping",
-      "shipyard": "Jiangsu Jiuzhou Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccCBCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1347",
-      "name": "Bochem Shanghai",
-      "ship_type": "Chemical/Products Tanker, 25,998 tons",
-      "owner_company": "Stolt-Nielsen Limited",
-      "shipyard": "China Merchants HI, Dingheng",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgJssanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1348",
-      "name": "Clacton",
-      "ship_type": "Bulk Carrier, 40,547 tons",
-      "owner_company": "Ciner Group",
-      "shipyard": "Jiangmen Nanyang",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgFXbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1349",
-      "name": "Great Thalassa",
-      "ship_type": "Bulk Carrier, 64,725 tons",
-      "owner_company": "Huayang Maritime (华洋海事)",
-      "shipyard": "New Dayang Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgFFbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1350",
-      "name": "CL Virginia Woolf",
-      "ship_type": "Chemical/Products Tanker, 49,359 tons",
-      "owner_company": "Shandong Ocean (山东海运)",
-      "shipyard": "New Times Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgcJbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1351",
-      "name": "Golden Wave",
-      "ship_type": "Bulk Carrier, 84,984 tons",
-      "owner_company": "Golden Ocean Management AS",
-      "shipyard": "CSSC (Tianjin) Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgFJSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1352",
-      "name": "Gas Amethyst",
-      "ship_type": "LPG Tanker, 85,197 cbm",
-      "owner_company": "NYK Line",
-      "shipyard": "Kawasaki HI, Sakaide",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgSgJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1353",
-      "name": "OOCL Denmark",
-      "ship_type": "Container Ship, 24,188 teu",
-      "owner_company": "OOCL",
-      "shipyard": "Dalian COSCO KHI (DACKS)",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgCgganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1354",
-      "name": "Huaihe Nengyuan Qihang",
-      "ship_type": "Bunkering Tanker (LNG), 8,877 tons",
-      "owner_company": "Anhui Changjiang LNG Co Ltd",
-      "shipyard": "Hudong-Zhonghua Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgCbXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1355",
-      "name": "MSC Elenoire",
-      "ship_type": "Container Ship, 16,616 teu",
-      "owner_company": "MSC",
-      "shipyard": "Yangzi Xinfu Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgbbXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1356",
-      "name": "MSC Maura",
-      "ship_type": "Container Ship, 16,616 teu",
-      "owner_company": "Seaspan Corporation",
-      "shipyard": "Yangzi Xinfu Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgbbJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1357",
-      "name": "Ever Mast",
-      "ship_type": "Container Ship, 15,372 teu",
-      "owner_company": "Evergreen Marine Corp.",
-      "shipyard": "Samsung HI",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgbXBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1358",
-      "name": "SFL Tucana",
-      "ship_type": "Crude/Oil Products Tanker, 109,895 tons",
-      "owner_company": "SFL Corporation Ltd",
-      "shipyard": "New Times Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sggCganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1359",
-      "name": "Ming En 6",
-      "ship_type": "Refrigerated Cargo Ship, 9,049 tons",
-      "owner_company": "Zhejiang Mingen International",
-      "shipyard": "Zhoushan Hetai Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cssXXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1360",
-      "name": "Zhi Ying He Shun",
-      "ship_type": "Container Ship, 1,350 teu",
-      "owner_company": "Anhui Zhiying Shipping Co Ltd",
-      "shipyard": "Universe Shipbuilding, Yizheng",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXsbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1361",
-      "name": "Fu Li 99",
-      "ship_type": "Container Ship, 296 teu",
-      "owner_company": "Guangdong Fuli Shipping",
-      "shipyard": "Guangdong Henghui Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFgSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1362",
-      "name": "Guo Yuan 702",
-      "ship_type": "Bulk Carrier, 75,935 tons",
-      "owner_company": "Guomeng Luneng Shanghai Shipping",
-      "shipyard": "Jiangsu Haitong Offshore Engineering",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFcsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1363",
-      "name": "Cheng Rui Qi Hang",
-      "ship_type": "Bulk Carrier, 53,515 tons",
-      "owner_company": "Tangshan Yingshi Ship Management",
-      "shipyard": "Nantong Xiangyu SOE",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFXXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1364",
-      "name": "Kawa Lianyungang",
-      "ship_type": "Container Ship, 1,667 teu",
-      "owner_company": "Anhui Huamao Shipping Co Ltd",
-      "shipyard": "Yangzhou Wanlong Shipbuilding",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFcXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1365",
-      "name": "Hawk I",
-      "ship_type": "Container Ship, 5,315 teu",
-      "owner_company": "Navios Corporation",
-      "shipyard": "Changhong Intl. Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFcganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1366",
-      "name": "Poseidon 53",
-      "ship_type": "Deck Cargo Ship, 3,653 tons",
-      "owner_company": "Concrete Solutions Inc",
-      "shipyard": "Zhejiang Zhenxing Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXCXSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1367",
       "name": "Panphil 8",
       "ship_type": "Deck Cargo Ship, 3,167 tons",
       "owner_company": "Panphil Marine Services Corp",
@@ -1506,268 +246,151 @@
       "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXBbBanmkhTk8Pl4EN"
     },
     {
-      "no": "1368",
-      "name": "Poseidon 52",
-      "ship_type": "Deck Cargo Ship, 3,657 tons",
-      "owner_company": "Taizhou Lingxing Shipping Co",
-      "shipyard": "Zhejiang Zhenxing Shipyard",
-      "date_built": "2024 - 06",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXCXsanmkhTk8Pl4EN"
+      "no": "1228",
+      "name": "He Tai Tong 8",
+      "ship_type": "Bulk Carrier, 22,133 tons",
+      "owner_company": "Quanzhou Hetaitong Shipping",
+      "shipyard": "Fujian Southeast Shipbuilding",
+      "date_built": "2022 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFsganmkhTk8Pl4EN"
     },
     {
-      "no": "1369",
-      "name": "Ace Halo",
-      "ship_type": "Bulk Carrier, 66,066 tons",
-      "owner_company": "Nissen Kaiun KK",
-      "shipyard": "Yangzi-Mitsui Shipbuilding",
+      "no": "1229",
+      "name": "Zhong Tian 9",
+      "ship_type": "Crane Vessel, 1,600 tons.swl",
+      "owner_company": "Zhongtian Technology Marine",
+      "shipyard": "China Merchants HI, Haimen",
+      "date_built": "2018 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCsXXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1230",
+      "name": "Heng Zhou 005",
+      "ship_type": "Chemical Tanker, 3,471 tons",
+      "owner_company": "Helong Shandong Holdings",
+      "shipyard": "Zhejiang Friendship Shipyard",
+      "date_built": "2024 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbCBBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1231",
+      "name": "An Feng 08",
+      "ship_type": "Bulk Carrier, 76,020 tons",
+      "owner_company": "Hainan Yangpu Shunbo Technology",
+      "shipyard": "Jiangsu Haitong Offshore Engineering",
+      "date_built": "2023 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BBsgXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1232",
+      "name": "Yao Shun Hong Yuan",
+      "ship_type": "Deck Cargo Ship, 11,830 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Jiangsu Islands Shipbuilding",
+      "date_built": "2023 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXgcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1233",
+      "name": "Kaipara Karrier VII",
+      "ship_type": "Suction Hopper Dredger, 2,000 tons",
+      "owner_company": "Atlas Resources Ltd",
+      "shipyard": "Culham Engineering, Whangarei",
+      "date_built": "2024 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csJccanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1234",
+      "name": "Ding Xiang Tai Ping",
+      "ship_type": "Container Ship, 2,086 teu",
+      "owner_company": "Xiamen Dingxiangshun Shipping",
+      "shipyard": "Haidong Shipyard, Taizhou",
       "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sScSXanmkhTk8Pl4EN"
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFJbanmkhTk8Pl4EN"
     },
     {
-      "no": "1370",
-      "name": "Tekung Benefit",
-      "ship_type": "Bulk Carrier, 63,553 tons",
-      "owner_company": "Kitaura Kaiun KK",
-      "shipyard": "Tsuneishi Shipbuilding, Zhoushan",
+      "no": "1235",
+      "name": "Fu Xiang 71",
+      "ship_type": "Bulk Carrier, 57,236 tons",
+      "owner_company": "Daishan Gaoxiang Shipping Co",
+      "shipyard": "Wanlong Shipbuilding HI",
       "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sScssanmkhTk8Pl4EN"
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BBBgcanmkhTk8Pl4EN"
     },
     {
-      "no": "1371",
-      "name": "Trapezitza",
-      "ship_type": "Bulk Carrier, 45,189 tons",
-      "owner_company": "Navigation Maritime Bulgare (Navibulgar)",
-      "shipyard": "Jiangsu Newyangzi Shipbuilding",
+      "no": "1236",
+      "name": "Zong Heng 209",
+      "ship_type": "Bulk Carrier, 8,600 tons",
+      "owner_company": "Tangshan Fengnan Zongheng Shipping",
+      "shipyard": "Qidong Jisheng Shipbuilding",
+      "date_built": "2024 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFCCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1237",
+      "name": "Genevieve",
+      "ship_type": "Chemical Tanker, 4,592 tons",
+      "owner_company": "Senzo Shenzhen Industrial",
+      "shipyard": "Zhoushan Qifan Shipyard",
+      "date_built": "2007 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbCcCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1238",
+      "name": "Ummiye Ana",
+      "ship_type": "Bunkering Tanker (Oil), 1,708 tons",
+      "owner_company": "Hon Denizcilik Tic AS",
+      "shipyard": "Unknown Shipyard",
+      "date_built": "2025 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXSbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1239",
+      "name": "Shan Gang Yan Tai",
+      "ship_type": "Container Ship, 502 teu",
+      "owner_company": "Weihai Gangsheng Shipping",
+      "shipyard": "Lianyungang Wuzhou Shipbuilding",
+      "date_built": "2024 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXSsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1240",
+      "name": "Funeng 1",
+      "ship_type": "Bulk Carrier, 17,399 tons",
+      "owner_company": "Lianyungang Funeng Shipping Co",
+      "shipyard": "Zhenjiang Anfeng Shipyard",
+      "date_built": "2009 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCJXbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1241",
+      "name": "Hua Da 616",
+      "ship_type": "Container Ship, 2,754 teu",
+      "owner_company": "Xiamen Xinhuada Shipping Co Ltd",
+      "shipyard": "Taizhou Kouan Shipbuilding",
       "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sScgSanmkhTk8Pl4EN"
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFJXanmkhTk8Pl4EN"
     },
     {
-      "no": "1372",
-      "name": "Soryu Maru",
-      "ship_type": "Bulk Carrier, 88,248 tons",
-      "owner_company": "Nissen Kaiun KK",
-      "shipyard": "Sanoyas Shipbuilding",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ssSssanmkhTk8Pl4EN"
+      "no": "1242",
+      "name": "Hong Shun 69",
+      "ship_type": "Aggregates Carrier, 5,582 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Fujian Fu'an Shunjiang Shipyard",
+      "date_built": "2021 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFsbanmkhTk8Pl4EN"
     },
     {
-      "no": "1373",
-      "name": "Bo Yang 2",
-      "ship_type": "Passenger/Ro-Ro Ship, 79 Trailers",
-      "owner_company": "Taizhou Boyang Shipping Co Ltd",
-      "shipyard": "Taizhou Hongtai Ship Industry",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCSXsanmkhTk8Pl4EN"
+      "no": "1243",
+      "name": "Zhong Hao 7",
+      "ship_type": "Bulk Carrier, 40,200 tons",
+      "owner_company": "Zhejiang Zhonghao Ocean Shipping",
+      "shipyard": "Zhejiang Xinzhou Shipbuilding",
+      "date_built": "2024 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCFsganmkhTk8Pl4EN"
     },
     {
-      "no": "1374",
-      "name": "Ding Heng 30",
-      "ship_type": "Chemical/Products Tanker, 6,392 tons",
-      "owner_company": "Dingheng Shipping",
-      "shipyard": "Zhejiang Dongpeng Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SgJBsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1375",
-      "name": "Kingdom 2",
-      "ship_type": "Drilling Rig, Jack Up",
-      "owner_company": "Saudi Aramco",
-      "shipyard": "Lamprell Energy, Sharjah",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCccsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1376",
-      "name": "Pintail Pacific",
-      "ship_type": "Chemical/Products Tanker, 49,806 tons",
-      "owner_company": "Pacific Carriers Ltd (PCL)",
-      "shipyard": "K-Shipbuilding",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSSsbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1377",
-      "name": "Dong Fang Hang Tian Gang",
-      "ship_type": "Heavy Load Carrier, 23,409 tons",
-      "owner_company": "Haiyang Xinggang Shipping",
-      "shipyard": "Yantai CIMC Raffles Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCsFJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1378",
-      "name": "Sfe Hercules",
-      "ship_type": "Crane Vessel, 4,000 tons.swl",
-      "owner_company": "Sfe Hercules Company Corp",
-      "shipyard": "Jiangsu Hantong WING HI, Nanto",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCsCbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1379",
-      "name": "QC Isabella",
-      "ship_type": "Bulk Carrier, 63,425 tons",
-      "owner_company": "Keishin Kaiun",
-      "shipyard": "Iwagi Zosen, Kamijima",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXCBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1380",
-      "name": "Wes Madita",
-      "ship_type": "General Cargo Ship, 3,803 tons",
-      "owner_company": "Wessels Reederei",
-      "shipyard": "Damen Gorinchem Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXsJanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1381",
-      "name": "Pluto",
-      "ship_type": "Deck Cargo Ship, 5,002 tons",
-      "owner_company": "Artemis Shipping Co LLC",
-      "shipyard": "Taizhou Hongtai Ship Industry",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJXXBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1382",
-      "name": "Fuldatal",
-      "ship_type": "General Cargo Ship, 3,804 tons",
-      "owner_company": "HS Schiffahrts",
-      "shipyard": "Damen Gorinchem Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cFJgSanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1383",
-      "name": "Ji Di",
-      "ship_type": "Research Survey Vessel, 1,500 tons",
-      "owner_company": "North China Sea Branch",
-      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCgsXanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1384",
-      "name": "Vittorio Morace",
-      "ship_type": "Passenger Ship, 251 Passengers",
-      "owner_company": "Liberty Lines SpA",
-      "shipyard": "Astilleros Armon Burela, Burela",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCFSbanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1385",
-      "name": "Wolverine Spirit 1",
-      "ship_type": "Bunkering Tanker (Oil), 14,485 tons",
-      "owner_company": "Wolverine Terminals ULC",
-      "shipyard": "Damen Gorinchem Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbsbCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1386",
-      "name": "Wolverine Spirit 2",
-      "ship_type": "Bunkering Tanker (Oil), 4,894 tons",
-      "owner_company": "Wolverine Terminals ULC",
-      "shipyard": "Damen Gorinchem Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbsbBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1387",
-      "name": "Deneb Twin",
-      "ship_type": "General Cargo Ship, 13,532 tons",
-      "owner_company": "Toda Kisen",
-      "shipyard": "Shin Kurushima Dockyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXsSganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1388",
-      "name": "Nord Topaz",
-      "ship_type": "Bulk Carrier, 39,988 tons",
-      "owner_company": "Kifune Kaiun KK",
-      "shipyard": "Shin Kurushima Toyohashi Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXscsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1389",
-      "name": "Blue Neptune",
-      "ship_type": "Bulk Carrier, 63,717 tons",
-      "owner_company": "Blue Wake Shipping Pte Ltd",
-      "shipyard": "Shin Kasado Dockyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCscanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1390",
-      "name": "Tinos I",
-      "ship_type": "LPG Tanker, 91,283 cbm",
-      "owner_company": "Fortune VGas Holding Pte Ltd",
-      "shipyard": "Jiangnan Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXSFCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1391",
-      "name": "MTT Labuan",
-      "ship_type": "Container Ship, 1,220 teu",
-      "owner_company": "MTT Shipping Sdn Bhd",
-      "shipyard": "Linhai Huipu Shipbuilding",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFgSBanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1392",
-      "name": "Unden",
-      "ship_type": "General Cargo Ship, 5,023 tons",
-      "owner_company": "Ahlmark Lines",
-      "shipyard": "Bodewes Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFJbsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1393",
-      "name": "Amazon Pioneer",
-      "ship_type": "Bulk Carrier, 82,194 tons",
-      "owner_company": "Alcoa Corp",
-      "shipyard": "Oshima Shipbuilding",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXCgganmkhTk8Pl4EN"
-    },
-    {
-      "no": "1394",
-      "name": "Sea Goat",
-      "ship_type": "Bulk Carrier, 40,255 tons",
-      "owner_company": "Nissen Kaiun KK",
-      "shipyard": "Namura Shipbuilding",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXsBCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1395",
-      "name": "Bird Of Paradise",
-      "ship_type": "Bulk Carrier, 40,259 tons",
-      "owner_company": "Nissen Kaiun KK",
-      "shipyard": "Namura Shipbuilding",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXsBsanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1396",
-      "name": "Arklow Guard",
-      "ship_type": "General Cargo Ship, 5,085 tons",
-      "owner_company": "Arklow Shipping",
-      "shipyard": "Ferus Smit Shipyard",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFJBCanmkhTk8Pl4EN"
-    },
-    {
-      "no": "1397",
+      "no": "1244",
       "name": "Yuan Xiang You 17",
       "ship_type": "Products Tanker, 5,192 tons",
       "owner_company": "Zhoushan Yuanxiang Shipping",
@@ -1776,31 +399,1408 @@
       "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXbcanmkhTk8Pl4EN"
     },
     {
-      "no": "1398",
-      "name": "Quan Tai",
-      "ship_type": "Chemical Tanker, 7,474 tons",
-      "owner_company": "Rongcheng Lutai Shipping",
-      "shipyard": "Zhoushan Ningxing Shipyard",
+      "no": "1245",
+      "name": "Yan Zhan 226",
+      "ship_type": "Container Ship, 3,004 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "shipyard": "Ningbo Boda Shipbuilding",
       "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXBcanmkhTk8Pl4EN"
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFcBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1246",
+      "name": "Alejandro",
+      "ship_type": "Products Tanker, 3,139 tons",
+      "owner_company": "Lintas Utama Line",
+      "shipyard": "Sumber Samudra Makmur, Batam",
+      "date_built": "2024 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbFSsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1247",
+      "name": "De Li 33",
+      "ship_type": "Bulk Carrier, 53,753 tons",
+      "owner_company": "Zhoushan Yongdeli Shipping",
+      "shipyard": "Zhejiang Tianshi Shipbuilding",
+      "date_built": "2024 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFXFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1248",
+      "name": "Fu Li 99",
+      "ship_type": "Container Ship, 296 teu",
+      "owner_company": "Guangdong Fuli Shipping",
+      "shipyard": "Guangdong Henghui Shipbuilding",
+      "date_built": "2024 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFgSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1249",
+      "name": "Binibining Surgao",
+      "ship_type": "Deck Cargo Ship, 5,001 tons",
+      "owner_company": "Montenegro Shipping Lines",
+      "shipyard": "Taizhou Hengzhou Shipbuilding",
+      "date_built": "2022 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScXFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1250",
+      "name": "Binibining Matnog",
+      "ship_type": "Deck Cargo Ship, 5,001 tons",
+      "owner_company": "Montenegro Shipping Lines",
+      "shipyard": "Taizhou Hengzhou Shipbuilding",
+      "date_built": "2022 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScXXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1251",
+      "name": "Fu Li 98",
+      "ship_type": "Container Ship, 296 teu",
+      "owner_company": "Guangdong Fuli Shipping",
+      "shipyard": "Guangdong Henghui Shipbuilding",
+      "date_built": "2024 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFJganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1252",
+      "name": "Guo Yuan 703",
+      "ship_type": "Bulk Carrier, 73,925 tons",
+      "owner_company": "Guomeng Luneng Shanghai Shipping",
+      "shipyard": "Jiangsu Haitong Offshore Engineering",
+      "date_built": "2024 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFcCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1253",
+      "name": "Run Yi 6",
+      "ship_type": "Bulk Carrier, 60,382 tons",
+      "owner_company": "Zhejiang Hanyu Shipping Co Ltd",
+      "shipyard": "Zhejiang Mingfei Shipbuilding",
+      "date_built": "2024 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFXganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1254",
+      "name": "Xin Yong Chang 27",
+      "ship_type": "Container Ship, 2,754 teu",
+      "owner_company": "Shishi Yongyi Shipping Co Ltd",
+      "shipyard": "Taizhou Kouan Shipbuilding",
+      "date_built": "2024 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXSbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1255",
+      "name": "Jie Lian",
+      "ship_type": "Products Tanker, 4,498 tons",
+      "owner_company": "Zhoushan Putuo Anshun Shipping",
+      "shipyard": "Zhoushan Hetai Shipyard",
+      "date_built": "2024 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbbSCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1256",
+      "name": "En Jie 15",
+      "ship_type": "Bulk Carrier, 35,046 tons",
+      "owner_company": "Zhejiang Enjie Shipping Co Ltd",
+      "shipyard": "Hexing Shipyard",
+      "date_built": "2024 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCsSganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1257",
+      "name": "Yi Da 17",
+      "ship_type": "Products Tanker, 4,889 tons",
+      "owner_company": "Zhoushan Yilunda Shipping",
+      "shipyard": "Zhejiang Rongchang Offshore Engineering Industria",
+      "date_built": "2024 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbbsCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1258",
+      "name": "Su Hang Wei Long",
+      "ship_type": "Bulk Carrier, 14,503 tons",
+      "owner_company": "Jiangsu Weiren Shipping Co Ltd",
+      "shipyard": "Hubei Hechuang HI",
+      "date_built": "2022 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BBSbFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1259",
+      "name": "COSL 221",
+      "ship_type": "Accommodation Pontoon, non-propelled",
+      "owner_company": "CNOOC Energy (中海油)",
+      "shipyard": "China Merchants HI, Shenzhen",
+      "date_built": "2009 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCgBbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1260",
+      "name": "COSL 222",
+      "ship_type": "Accommodation Pontoon, non-propelled",
+      "owner_company": "CNOOC Energy (中海油)",
+      "shipyard": "China Merchants HI, Shenzhen",
+      "date_built": "2009 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCgBXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1261",
+      "name": "COSL 223",
+      "ship_type": "Accommodation Pontoon, non-propelled, 6,384 tons",
+      "owner_company": "CNOOC Energy (中海油)",
+      "shipyard": "China Merchants HI, Shenzhen",
+      "date_built": "2009 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCgBFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1262",
+      "name": "COSL 225",
+      "ship_type": "Accommodation Pontoon, non-propelled",
+      "owner_company": "CNOOC Energy (中海油)",
+      "shipyard": "China Merchants HI, Shenzhen",
+      "date_built": "2010 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCgBcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1263",
+      "name": "Jin Yuan Rong He",
+      "ship_type": "Container Ship, 438 teu",
+      "owner_company": "Zhejiang Zhonghuaizhou Shipping",
+      "shipyard": "Hunan Jinhang Shipbuilding",
+      "date_built": "2022 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFgsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1264",
+      "name": "Jin Ming 16",
+      "ship_type": "Bulk Carrier, 14,993 tons",
+      "owner_company": "Ningbo Jinming Marine Transportation",
+      "shipyard": "Linhai Hangchang Shipbuilding",
+      "date_built": "2009 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BsXBCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1265",
+      "name": "Jin Ming 66",
+      "ship_type": "Bulk Carrier, 17,325 tons",
+      "owner_company": "Ningbo Jinming Marine Transportation",
+      "shipyard": "Hongzhou Shipbuilding, Taizhou",
+      "date_built": "2008 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BsXBsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1266",
+      "name": "Wan Yuan 19",
+      "ship_type": "Bulk Carrier, 16,286 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Taizhou Yuehang Shipbuilding",
+      "date_built": "2008 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFFcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1267",
+      "name": "Rui Tai 669",
+      "ship_type": "Trailing Suction Hopper Dredger, 9,512 tons",
+      "owner_company": "Fujian Honghaitong Marine",
+      "shipyard": "Fu'an Huanao Shipbuilding",
+      "date_built": "2021 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csgXsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1268",
+      "name": "Hao Da 05",
+      "ship_type": "Deck Cargo Ship, 5,178 tons",
+      "owner_company": "Yahaoda Shenzhen Shipping Co",
+      "shipyard": "Ningbo Donghe Shipyard",
+      "date_built": "2022 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSccganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1269",
+      "name": "Dong Gang 91",
+      "ship_type": "Deck Cargo Ship, 6,543 tons",
+      "owner_company": "Taizhou Jinda Shipping Co Ltd",
+      "shipyard": "Zhejiang Zhenxing Shipyard",
+      "date_built": "2022 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXJCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1270",
+      "name": "Dong Gang 51",
+      "ship_type": "Deck Cargo Ship, 4,923 tons",
+      "owner_company": "Taizhou Jinda Shipping Co Ltd",
+      "shipyard": "Zhejiang Zhenxing Shipyard",
+      "date_built": "2022 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXSXFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1271",
+      "name": "Jiang Hai Zhi Da 67",
+      "ship_type": "Bulk Carrier, 14,007 tons",
+      "owner_company": "Zhejiang Huayu Shipping Dev",
+      "shipyard": "Zhoushan Hetai Shipyard",
+      "date_built": "2022 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCBBXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1272",
+      "name": "Shun Xin 801",
+      "ship_type": "Bulk Carrier, 13,640 tons",
+      "owner_company": "Zhoushan Shunxin Shipping Co",
+      "shipyard": "Hubei Jiangrun Shipbuilding",
+      "date_built": "2022 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCcbcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1273",
+      "name": "He Sheng Shun 99",
+      "ship_type": "Bulk Carrier, 22,336 tons",
+      "owner_company": "Xiamen Heshengshun Shipping Co",
+      "shipyard": "Zhejiang Zhenxing Shipyard",
+      "date_built": "2021 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BscssanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1274",
+      "name": "Ming Tong 1",
+      "ship_type": "Deck Cargo Ship, 4,344 tons",
+      "owner_company": "Hainan Mingtong Shipping Co",
+      "shipyard": "Jiangsu Qinfeng Shipbuilding",
+      "date_built": "2022 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXsBJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1275",
+      "name": "Andrea 8",
+      "ship_type": "General Cargo Ship, 13,436 tons",
+      "owner_company": "Hong Kong Wing Cheung Shipping",
+      "shipyard": "Anhui Wuzhou Shipbuilding",
+      "date_built": "2010 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSccFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1276",
+      "name": "Jin Zhao 25",
+      "ship_type": "Bulk Carrier, 15,785 tons",
+      "owner_company": "Zhoushan Jinyu Shipping Dev Co",
+      "shipyard": "Zhejiang Xintian Ship Industry, Yueqing",
+      "date_built": "2009 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCcsFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1277",
+      "name": "G Heng Tai 1",
+      "ship_type": "Bulk Carrier, 26,150 tons",
+      "owner_company": "Cowin Shipping Co Ltd",
+      "shipyard": "Zhejiang Jiuzhou Shipbuilding, Sanmen",
+      "date_built": "2009 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFFFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1278",
+      "name": "TY Lucky",
+      "ship_type": "Bulk Carrier, 11,065 tons",
+      "owner_company": "Tianjin Tong Yang Shipping Co",
+      "shipyard": "Runyang Shipyard",
+      "date_built": "2010 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFFXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1279",
+      "name": "Hao Bang 9",
+      "ship_type": "General Cargo Ship, 8,000 tons",
+      "owner_company": "Fujian Haobang Shipping Co Ltd",
+      "shipyard": "Taizhou Fangxing Shipbuilding",
+      "date_built": "2022 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScsbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1280",
+      "name": "Ming Fa Hong Yuan",
+      "ship_type": "Deck Cargo Ship, 17,105 tons",
+      "owner_company": "Hainan Mingfa Shipping Co Ltd",
+      "shipyard": "Jiangsu Mingyang Shipbuilding",
+      "date_built": "2022 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScCBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1281",
+      "name": "Jiang Hai Zhi Da 68",
+      "ship_type": "Bulk Carrier, 14,000 tons",
+      "owner_company": "Zhejiang Huayu Shipping Dev",
+      "shipyard": "Zhoushan Hetai Shipyard",
+      "date_built": "2022 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCBBcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1282",
+      "name": "Filene",
+      "ship_type": "Products Tanker, 3,357 tons",
+      "owner_company": "Eastpec Trading",
+      "shipyard": "Zhoushan Zhengpei Shipyard",
+      "date_built": "2005 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbCsXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1283",
+      "name": "An Run Da 7",
+      "ship_type": "General Cargo Ship, 15,865 tons",
+      "owner_company": "D-Sailing Shipping Ltd",
+      "shipyard": "Nanjing Jinda Shipbuilding",
+      "date_built": "2009 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScBBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1284",
+      "name": "Xiang Zhan 15",
+      "ship_type": "Bulk Carrier, 13,172 tons",
+      "owner_company": "Shishi Xiangzhan Shipping Co",
+      "shipyard": "Zhejiang Tianshi Shipbuilding",
+      "date_built": "2022 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFBFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1285",
+      "name": "Sheng Hua Fa Zhan",
+      "ship_type": "Deck Cargo Ship, 21,000 tons",
+      "owner_company": "Zheyin Financial Leasing",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_built": "2022 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScJBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1286",
+      "name": "Jiang Zhou Hai 1",
+      "ship_type": "Bulk Carrier, 14,448 tons",
+      "owner_company": "Ma'anshan Jiangzhou Shipping",
+      "shipyard": "Hubei Hechuang HI",
+      "date_built": "2022 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFCganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1287",
+      "name": "De Hai 168",
+      "ship_type": "Bulk Carrier, 14,068 tons",
+      "owner_company": "Foshan Deli Shipping Co Ltd",
+      "shipyard": "Wenling Yuanyang Shipyard",
+      "date_built": "2022 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFBXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1288",
+      "name": "Tai Da 16",
+      "ship_type": "Bulk Carrier, 17,000 tons",
+      "owner_company": "Taida Shipping Co Ltd",
+      "shipyard": "Zhejiang Xinzhou Shipbuilding",
+      "date_built": "2022 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFBSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1289",
+      "name": "Dolphin Glory",
+      "ship_type": "Bulk Carrier, 21,637 tons",
+      "owner_company": "Zhejiang Marine Leasing Co Ltd",
+      "shipyard": "Zhejiang Xinzhou Shipbuilding",
+      "date_built": "2021 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BCbJSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1290",
+      "name": "Huanan 667",
+      "ship_type": "LPG Tanker, 7,000 cbm",
+      "owner_company": "Shenzhen Southern Ocean",
+      "shipyard": "Jiujiang Yinxing Shipbuilding",
+      "date_built": "2009 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXCganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1291",
+      "name": "Yi Hang Jin Yun 2",
+      "ship_type": "Deck Cargo Ship, 7,200 tons",
+      "owner_company": "China Communications Construction (中国交通建设)",
+      "shipyard": "Rizhao Kingda Shipbuilding HI",
+      "date_built": "2024 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXXSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1292",
+      "name": "Dynaway Advancer",
+      "ship_type": "General Cargo Ship, 5,075 tons",
+      "owner_company": "Dynaway Marine Co Ltd",
+      "shipyard": "Linhai Huipu Shipbuilding",
+      "date_built": "2020 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXcBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1293",
+      "name": "Cavalo Marinho 15",
+      "ship_type": "Products Tanker, 5,000 tons",
+      "owner_company": "Segara Transindo Mandiri",
+      "shipyard": "Bandar Victory Shipyard, Batam",
+      "date_built": "2024 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXbFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1294",
+      "name": "Wetar Strait",
+      "ship_type": "Bulk Carrier, 4,498 tons",
+      "owner_company": "Jalur Niaga Nusantara PT",
+      "shipyard": "Anhui Hengtong Shipbuilding, Wuwei County",
+      "date_built": "2008 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbFFJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1295",
+      "name": "Rote Strait",
+      "ship_type": "Bulk Carrier, 4,496 tons",
+      "owner_company": "Jalur Niaga Nusantara PT",
+      "shipyard": "Anhui Hengtong Shipbuilding, Wuwei County",
+      "date_built": "2008 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbFFganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1296",
+      "name": "Mei Ji Lun",
+      "ship_type": "Bulk Carrier, 13,582 tons",
+      "owner_company": "Tangshan Yanding Cargo Freight",
+      "shipyard": "Nanjing Haiyue Shipyard",
+      "date_built": "2008 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFbbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1297",
+      "name": "Ever Concord",
+      "ship_type": "General Cargo Ship, 13,653 tons",
+      "owner_company": "Heiderberg Shipping Co Ltd",
+      "shipyard": "Yangzhou Ryuwa Shipbuilding",
+      "date_built": "2021 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScJCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1298",
+      "name": "Annther 8",
+      "ship_type": "Passenger/Ro-Ro Ship, 935 tons",
+      "owner_company": "Ald Sea Transport",
+      "shipyard": "Zhejiang Zhenxing Shipyard",
+      "date_built": "2024 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csJBsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1299",
+      "name": "Farahi 3",
+      "ship_type": "General Cargo Ship, 3,229 tons",
+      "owner_company": "Farahi Shipping Inc",
+      "shipyard": "Jiangsu Jinshan Shipbuilding",
+      "date_built": "2010 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXBJganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1300",
+      "name": "HT Honor",
+      "ship_type": "Container Ship, 1,354 teu",
+      "owner_company": "Hongkong Yanxi Shipping",
+      "shipyard": "Jiangsu Haizhongzhou Shipbuilding",
+      "date_built": "2023 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXCBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1301",
+      "name": "Tina",
+      "ship_type": "Deck Cargo Ship, 9,000 tons",
+      "owner_company": "Ariaz World Wide Shipping Corp",
+      "shipyard": "Yizheng Jinlong Shipyard",
+      "date_built": "2016 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXgFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1302",
+      "name": "DS Success",
+      "ship_type": "Bulk Carrier, 17,379 tons",
+      "owner_company": "D-Sailing Shipping Ltd",
+      "shipyard": "Anhui Zhongrun HI",
+      "date_built": "2020 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFSJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1303",
+      "name": "Sheng Feng Zhi Xing",
+      "ship_type": "Deck Cargo Ship, 6,674 tons",
+      "owner_company": "Lianyungang Yihong Shipping",
+      "shipyard": "Lianyungang Wuzhou Shipbuilding",
+      "date_built": "2022 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScFCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1304",
+      "name": "Yi Hong 222",
+      "ship_type": "Deck Cargo Ship, 6,670 tons",
+      "owner_company": "Lianyungang Yihong Shipping",
+      "shipyard": "Lianyungang Wuzhou Shipbuilding",
+      "date_built": "2022 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXgJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1305",
+      "name": "Hua Hong 1",
+      "ship_type": "Deck Cargo Ship, 8,081 tons",
+      "owner_company": "Pelayaran Hua Hong Indonesia",
+      "shipyard": "Yizheng Shierwei Shipbuilding",
+      "date_built": "2015 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXFBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1306",
+      "name": "Dong Gang 92",
+      "ship_type": "Deck Cargo Ship, 6,507 tons",
+      "owner_company": "Taizhou Jinda Shipping Co Ltd",
+      "shipyard": "Zhejiang Zhenxing Shipyard",
+      "date_built": "2022 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXJBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1307",
+      "name": "Ratu Giok 9",
+      "ship_type": "Crane Vessel, 1,296 tons",
+      "owner_company": "STS Seatoshore Group Pte Ltd",
+      "shipyard": "Taizhou Zhuzhuang Shipbuilding",
+      "date_built": "2019 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCsCJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1308",
+      "name": "Dong Gang 52",
+      "ship_type": "Deck Cargo Ship, 4,931 tons",
+      "owner_company": "Taizhou Deyi Shipping Co Ltd",
+      "shipyard": "Zhejiang Zhenxing Shipyard",
+      "date_built": "2022 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXFcBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1309",
+      "name": "Hai De Li",
+      "ship_type": "Deck Cargo Ship, 10,720 tons",
+      "owner_company": "Taizhou Jinda Shipping Co Ltd",
+      "shipyard": "Zhejiang Zhenxing Shipyard",
+      "date_built": "2022 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXJbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1310",
+      "name": "Shun Kai Lun",
+      "ship_type": "General Cargo Ship, 7,495 tons",
+      "owner_company": "Pingtan Shunkai Shipping Co",
+      "shipyard": "Jiangsu Qinfeng Shipbuilding",
+      "date_built": "2020 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXcXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1311",
+      "name": "MCL-2",
+      "ship_type": "General Cargo Ship, 3,000 tons",
+      "owner_company": "Mawlamyine Century Logistics",
+      "shipyard": "Dagon Seik Kan Dockyard, Yangon",
+      "date_built": "2016 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXFbSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1312",
+      "name": "MCL-4",
+      "ship_type": "General Cargo Ship, 3,000 tons",
+      "owner_company": "Mawlamyine Century Logistics",
+      "shipyard": "Dagon Seik Kan Dockyard, Yangon",
+      "date_built": "2016 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXFbsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1313",
+      "name": "MCL-9",
+      "ship_type": "General Cargo Ship, 3,000 tons",
+      "owner_company": "Mawlamyine Century Logistics",
+      "shipyard": "Dagon Seik Kan Dockyard, Yangon",
+      "date_built": "2017 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXFcXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1314",
+      "name": "Peng Fei Ying Hai",
+      "ship_type": "Bulk Carrier, 15,783 tons",
+      "owner_company": "Nanjing Pengfei Intelligent",
+      "shipyard": "Wenling Songmen Shenghai Shipyard",
+      "date_built": "2007 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFbJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1315",
+      "name": "Zhong Bo 168",
+      "ship_type": "General Cargo Ship, 10,866 tons",
+      "owner_company": "Jiangxi Jiahe Shipping Co Ltd",
+      "shipyard": "Zhejiang Tianshi Shipbuilding",
+      "date_built": "2022 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXgCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1316",
+      "name": "Hong Li Hai Yang",
+      "ship_type": "General Cargo Ship, 16,907 tons",
+      "owner_company": "Anhui Xinyang Shipping Co Ltd",
+      "shipyard": "Yizheng Kangping Shipyard",
+      "date_built": "2021 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScXJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1317",
+      "name": "Fajar Bahari IX",
+      "ship_type": "Ro-Ro Cargo Ship, 2,000 Lane m.",
+      "owner_company": "Fajar Bahari Nusantara",
+      "shipyard": "CSSC Guangxi Shipyard",
+      "date_built": "2024 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cscJbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1318",
+      "name": "Heng Da Fa Zhan",
+      "ship_type": "General Cargo Ship, 6,675 tons",
+      "owner_company": "Anhui Hengrui Shipping Co Ltd",
+      "shipyard": "Jiangdu Hongzhen Shipyard",
+      "date_built": "2017 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScsBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1319",
+      "name": "Zl Peng",
+      "ship_type": "General Cargo Ship, 16,868 tons",
+      "owner_company": "Anhui Zhongmao Shipping Co Ltd",
+      "shipyard": "Chizhou COSCO Shipbuilding",
+      "date_built": "2021 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScbCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1320",
+      "name": "SC 602",
+      "ship_type": "Aggregates Carrier, 6,872 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Dongguan Nanxiang Shipbuilding",
+      "date_built": "2020 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BbJScanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1321",
+      "name": "SC 609",
+      "ship_type": "Aggregates Carrier, 9,864 tons",
+      "owner_company": "Circle Ocean International",
+      "shipyard": "Qingyuan Yinghiaida Shipbuilding",
+      "date_built": "2021 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BBBXCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1322",
+      "name": "SC 601",
+      "ship_type": "Aggregates Carrier, 27,176 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Jiangsu Jiuzhou Shipbuilding",
+      "date_built": "2022 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFCJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1323",
+      "name": "Jia Xiang 002",
+      "ship_type": "Aggregates Carrier, 7,719 tons",
+      "owner_company": "Guangzhou Bigao Shipping",
+      "shipyard": "Guangzhou Nansha Xinghua Shipyard",
+      "date_built": "2022 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFCFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1324",
+      "name": "Maihe",
+      "ship_type": "Deck Cargo Ship, 4,868 tons",
+      "owner_company": "Acrex Corp",
+      "shipyard": "Jiangsu Jiangbei Shipbuilding",
+      "date_built": "2021 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cFgSBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1325",
+      "name": "Zl Kun",
+      "ship_type": "General Cargo Ship, 12,429 tons",
+      "owner_company": "Anhui Changrong Shipping Co",
+      "shipyard": "Anhui Zhongrun HI",
+      "date_built": "2021 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScbsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1326",
+      "name": "Thriving 20",
+      "ship_type": "Passenger/Ro-Ro Ship, 340 Passengers",
+      "owner_company": "Thanh Thoi Co Ltd",
+      "shipyard": "Saigon Shipbuilding Industry, Ho Chi Minh City",
+      "date_built": "2024 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csSJBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1327",
+      "name": "Ling Xing 9",
+      "ship_type": "Deck Cargo Ship, 4,996 tons",
+      "owner_company": "Taizhou Jinda Shipping Co Ltd",
+      "shipyard": "Zhejiang Zhenxing Shipyard",
+      "date_built": "2022 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXSXbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1328",
+      "name": "Jiu Ling Rong Chuang 166",
+      "ship_type": "General Cargo Ship, 16,798 tons",
+      "owner_company": "Yancheng Jiuling Rongchuang",
+      "shipyard": "Jiangsu Qinfeng Shipbuilding",
+      "date_built": "2022 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScFFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1329",
+      "name": "Hai Qi",
+      "ship_type": "Bulk Carrier, 16,207 tons",
+      "owner_company": "Hainan Haiqi Shipping Co Ltd",
+      "shipyard": "Anhui Wuzhou Shipbuilding",
+      "date_built": "2012 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFFCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1330",
+      "name": "Bao Qiao 77",
+      "ship_type": "Bulk Carrier, 16,000 tons",
+      "owner_company": "Zhoushan Baoqiao Shipping Co",
+      "shipyard": "Taizhou Huangyan Jixiang Shipyard",
+      "date_built": "2009 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFFJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1331",
+      "name": "Lite Ferry Ten",
+      "ship_type": "Passenger/Ro-Ro Ship, 496 Passengers",
+      "owner_company": "Lirio Shipping Lines",
+      "shipyard": "Ningbo Shenghao Ship Engineering",
+      "date_built": "2024 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cscgCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1332",
+      "name": "Lite Ferry Twelve",
+      "ship_type": "Passenger/Ro-Ro Ship, 496 Passengers",
+      "owner_company": "Lirio Shipping Lines",
+      "shipyard": "Ningbo Shenghao Ship Engineering",
+      "date_built": "2024 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cscgsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1333",
+      "name": "Tong Yun 17",
+      "ship_type": "General Cargo Ship, 11,184 tons",
+      "owner_company": "Bright Concord Inc",
+      "shipyard": "Jiangsu Yangzijiang Shipbuilding",
+      "date_built": "2018 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScBsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1334",
+      "name": "Kawa Hongkong",
+      "ship_type": "Container Ship, 2,076 teu",
+      "owner_company": "Zhongxiang International Shipping",
+      "shipyard": "Anhui Chizhou Zhonghai Shipyard",
+      "date_built": "2025 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFCCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1335",
+      "name": "Tai He Spring",
+      "ship_type": "Bulk Carrier, 11,006 tons",
+      "owner_company": "Hong Kong Sanli Shipping",
+      "shipyard": "Yangzhou Tuanjie Shipyard",
+      "date_built": "2009 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BsgXcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1336",
+      "name": "Ling Xing 23",
+      "ship_type": "Deck Cargo Ship, 3,652 tons",
+      "owner_company": "Taizhou Lingxing Shipping Co",
+      "shipyard": "Zhejiang Zhenxing Shipyard",
+      "date_built": "2024 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXCFJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1337",
+      "name": "Esperanza 'Hope' Andrade",
+      "ship_type": "Passenger/Ro-Ro Ship, 495 Passengers",
+      "owner_company": "United States Govt Texas Trans",
+      "shipyard": "Gulf Island Shipyards, Houma",
+      "date_built": "2023 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csSFCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1338",
+      "name": "Maritrans Fidelity",
+      "ship_type": "General Cargo Ship, 9,255 tons",
+      "owner_company": "MSI Ship Management Qingdao",
+      "shipyard": "Ningbo Fenghua Haigang Shipbuilding",
+      "date_built": "2016 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScbSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1339",
+      "name": "Blue Horizon",
+      "ship_type": "General Cargo Ship, 4,340 tons",
+      "owner_company": "Seafinity Sdn Bhd",
+      "shipyard": "Yizheng Jianghai Shiprepair & Building",
+      "date_built": "2006 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXsBganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1340",
+      "name": "Jia Hang Quan Shun",
+      "ship_type": "Bulk Carrier, 22,225 tons",
+      "owner_company": "Hainan Xinghua Logistics",
+      "shipyard": "Chengzhou Shipbuilding, Zhejiang",
+      "date_built": "2021 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFsJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1341",
+      "name": "An Yang 128",
+      "ship_type": "Container Ship, 296 teu",
+      "owner_company": "Huizhou Jinqiao Shipping",
+      "shipyard": "Taizhou Haibin Shipyard",
+      "date_built": "2023 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFgJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1342",
+      "name": "An Yang 118",
+      "ship_type": "Container Ship, 296 teu",
+      "owner_company": "Huizhou Jinqiao Shipping",
+      "shipyard": "Taizhou Haibin Shipyard",
+      "date_built": "2023 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFgcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1343",
+      "name": "Xin Hua Mao",
+      "ship_type": "Deck Cargo Ship, 12,162 tons",
+      "owner_company": "Anhui Huamao Shipping Co Ltd",
+      "shipyard": "Yangzhou Wanlong Shipbuilding",
+      "date_built": "2024 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXFCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1344",
+      "name": "Lan Hai Zhi Yuan",
+      "ship_type": "Container Ship, 1,063 teu",
+      "owner_company": "Hong Kong Everfly Ship Management Co",
+      "shipyard": "Zhenjiang Zhenxing Marine Shipbuilding Industry",
+      "date_built": "2022 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFgCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1345",
+      "name": "Chuang Long Guang Xing",
+      "ship_type": "Container Ship, 900 teu",
+      "owner_company": "Guangzhou Guangxing Shipping",
+      "shipyard": "Jiangsu Haizhongzhou Shipbuilding",
+      "date_built": "2023 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXSXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1346",
+      "name": "Yi Hang Lan Tian 01",
+      "ship_type": "Container Ship, 120 teu",
+      "owner_company": "Binsheng Financial Leasing",
+      "shipyard": "Taizhou Tai Marine HI",
+      "date_built": "2023 - 02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFJsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1347",
+      "name": "Su Zhou Gang 2 Hao",
+      "ship_type": "Container Ship, 120 teu",
+      "owner_company": "Suzhou Xincheng Logistics",
+      "shipyard": "Jiangsu Hongfu Shipbuilding",
+      "date_built": "2023 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXSFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1348",
+      "name": "Kai Qiang 189",
+      "ship_type": "Deck Cargo Ship, 21,375 tons",
+      "owner_company": "Taizhou Kaiqiang Shipping Co",
+      "shipyard": "Taizhou Fangxing Shipbuilding",
+      "date_built": "2023 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXJFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1349",
+      "name": "Kawa Xiamen",
+      "ship_type": "Container Ship, 1,667 teu",
+      "owner_company": "Anhui Bonhan Shipping Co Ltd",
+      "shipyard": "Jiangsu Qinfeng Shipbuilding",
+      "date_built": "2024 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFcFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1350",
+      "name": "Yue Guang Zhou Huo 2229",
+      "ship_type": "Aggregates Carrier, 6,937 tons",
+      "owner_company": "Guangzhou Yueheng Shipping Ltd",
+      "shipyard": "Qingyuan Yinghiaida Shipbuilding",
+      "date_built": "2019 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFSFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1351",
+      "name": "SC 610",
+      "ship_type": "Aggregates Carrier, 5,470 tons",
+      "owner_company": "Circle Ocean International",
+      "shipyard": "Dongguan Nanxiang Shipbuilding",
+      "date_built": "2017 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFSBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1352",
+      "name": "Yue Guang Zhou Huo 0123",
+      "ship_type": "Aggregates Carrier, 6,937 tons",
+      "owner_company": "Guangzhou Shunan Shipping Ltd",
+      "shipyard": "Qingyuan Yinghiaida Shipbuilding",
+      "date_built": "2019 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFSXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1353",
+      "name": "Guo Yuan 705",
+      "ship_type": "Bulk Carrier, 73,959 tons",
+      "owner_company": "Fujian Guohang",
+      "shipyard": "Jiangsu Haitong Offshore Engineering",
+      "date_built": "2024 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCggbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1354",
+      "name": "Guo Yuan 706",
+      "ship_type": "Bulk Carrier, 73,985 tons",
+      "owner_company": "Fujian Guohang",
+      "shipyard": "Jiangsu Haitong Offshore Engineering",
+      "date_built": "2024 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbsXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1355",
+      "name": "Guo Yuan 707",
+      "ship_type": "Bulk Carrier, 73,924 tons",
+      "owner_company": "Fujian Guohang",
+      "shipyard": "Jiangsu Haitong Offshore Engineering",
+      "date_built": "2024 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBXBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1356",
+      "name": "Jia Hong 31",
+      "ship_type": "Bulk Carrier, 7,499 tons",
+      "owner_company": "Fujian Shirong Shipping Co Ltd",
+      "shipyard": "Taizhou Huaji Ship Industry",
+      "date_built": "2023 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFCBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1357",
+      "name": "Heng Long Fa Zhan",
+      "ship_type": "Bulk Carrier, 12,000 tons",
+      "owner_company": "Henglong Shipping Co Ltd",
+      "shipyard": "Taizhou Fangxing Shipbuilding",
+      "date_built": "2023 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFCsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1358",
+      "name": "Jia Hong 33",
+      "ship_type": "Bulk Carrier, 7,499 tons",
+      "owner_company": "Fujian Shirong Shipping Co Ltd",
+      "shipyard": "Taizhou Huaji Ship Industry",
+      "date_built": "2023 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFCbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1359",
+      "name": "Guang Yu 882",
+      "ship_type": "Aggregates Carrier, 7,803 tons",
+      "owner_company": "Lianyungang Yunjie Shipping",
+      "shipyard": "Lianyungang MRMT Shipyard, Guannan",
+      "date_built": "2020 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFScanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1360",
+      "name": "Maritrans Peace",
+      "ship_type": "Deck Cargo Ship, 9,100 tons",
+      "owner_company": "MSI Ship Management Qingdao",
+      "shipyard": "Yangzhou Ryuwa Shipbuilding",
+      "date_built": "2015 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScBSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1361",
+      "name": "Maritrans Glory",
+      "ship_type": "Deck Cargo Ship, 8,037 tons",
+      "owner_company": "MSI Ship Management Qingdao",
+      "shipyard": "Yangzhou Ryuwa Shipbuilding",
+      "date_built": "2016 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScbBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1362",
+      "name": "Zhong Hai 777",
+      "ship_type": "Deck Cargo Ship, 11,596 tons",
+      "owner_company": "Hong Kong Zhongqing Shipping",
+      "shipyard": "Anhui Chizhou Zhonghai Shipyard",
+      "date_built": "2021 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csJBSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1363",
+      "name": "Kai Shiuan No. 8",
+      "ship_type": "Passenger Ship, 388 Passengers",
+      "owner_company": "Kai Shiuan Transport Co Ltd",
+      "shipyard": "Glow Marine, Singapore",
+      "date_built": "2021 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCbFcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1364",
+      "name": "Kang Shun 99",
+      "ship_type": "General Cargo Ship, 12,499 tons",
+      "owner_company": "Anhui Kangshun Shipping Co Ltd",
+      "shipyard": "Jiangsu Shengtaosha Shipbuilding",
+      "date_built": "2022 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScCCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1365",
+      "name": "Newdiscoverer",
+      "ship_type": "Container Ship, 1,068 teu",
+      "owner_company": "Bengbu Shengda Transportation",
+      "shipyard": "Yizheng Kangping Shipyard",
+      "date_built": "2019 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFJSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1366",
+      "name": "Dolphin 707",
+      "ship_type": "Bulk Carrier, 21,540 tons",
+      "owner_company": "Xiangyi Rongtong Holding",
+      "shipyard": "Hexing Shipyard",
+      "date_built": "2019 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BsgcFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1367",
+      "name": "Hai Yang 918",
+      "ship_type": "Deck Cargo Ship, 3,965 tons",
+      "owner_company": "Wuhu Fuxin Shipping Co Ltd",
+      "shipyard": "Dangtu Xinqiao Shipbuilding & Repair",
+      "date_built": "2009 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXsgXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1368",
+      "name": "Hua Xi 5000",
+      "ship_type": "Crane Vessel, 5,000 tons.swl",
+      "owner_company": "Jiangsu Huaxicun Offshore",
+      "shipyard": "Jiangsu Eastern HI, Jingjiang",
+      "date_built": "2012 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCSgcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1369",
+      "name": "Hong Li Chang Qing",
+      "ship_type": "General Cargo Ship, 9,876 tons",
+      "owner_company": "Jiangsu Hexin Shipping Co Ltd",
+      "shipyard": "Yizheng Xinyang Shipbuilding",
+      "date_built": "2016 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScXcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1370",
+      "name": "Zhang San Jiao 101",
+      "ship_type": "Container Ship, 120 teu",
+      "owner_company": "Shanghai Youbo Shipping Co Ltd",
+      "shipyard": "Zhijiang Hongju Shipbuilding",
+      "date_built": "2024 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSFgBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1371",
+      "name": "Hua Er Chen",
+      "ship_type": "Crane Vessel",
+      "owner_company": "Guangdong Huaerchen Offshore",
+      "shipyard": "Jingjiang Nanyang Shipbuilding",
+      "date_built": "2012 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cFFSXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1372",
+      "name": "Faith 1",
+      "ship_type": "General Cargo Ship, 13,221 tons",
+      "owner_company": "Wuhu Xintian Shipping Co Ltd",
+      "shipyard": "Yangzhou Xinchuang Shipyard, Yizheng",
+      "date_built": "2021 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScSsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1373",
+      "name": "Tai Hai Gong 888",
+      "ship_type": "Crane Vessel",
+      "owner_company": "Pelayaran Mitra Pacific PT",
+      "shipyard": "Jingjiang Yongye Shipbuilding",
+      "date_built": "2020 - 11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cFXCcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1374",
+      "name": "Hua Zheng 999",
+      "ship_type": "Deck Cargo Ship, 8,630 tons",
+      "owner_company": "Anhui Huazheng Shipping Ltd",
+      "shipyard": "Yangzhou Runjiang Shipyard",
+      "date_built": "2013 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXFbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1375",
+      "name": "Yu Zheng 1",
+      "ship_type": "General Cargo Ship, 21,639 tons",
+      "owner_company": "Zhejiang Yuanyi Shipping Co",
+      "shipyard": "Hexing Shipyard",
+      "date_built": "2020 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXgBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1376",
+      "name": "Medison",
+      "ship_type": "General Cargo Ship, 3,100 tons",
+      "owner_company": "Jefferson Shipping Co Ltd",
+      "shipyard": "Jiangsu Xingqin Shipbuilding",
+      "date_built": "2020 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXbcJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1377",
+      "name": "SY Shanghai",
+      "ship_type": "General Cargo Ship, 13,500 tons",
+      "owner_company": "Fujian Yonghang Shipping Co",
+      "shipyard": "Linhai Hangchang Shipbuilding",
+      "date_built": "2009 - 06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXXCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1378",
+      "name": "Amoy FC 6",
+      "ship_type": "Crane Vessel, 3,586 tons",
+      "owner_company": "Xiamen ITG (厦门国贸)",
+      "shipyard": "Fujian Harmony Smooth Shipbuilding",
+      "date_built": "2024 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCscSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1379",
+      "name": "Long Sheng 17",
+      "ship_type": "General Cargo Ship, 10,587 tons",
+      "owner_company": "Hainan Longsheng Shipping Co",
+      "shipyard": "Hexing Shipyard",
+      "date_built": "2018 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cScCXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1380",
+      "name": "Guo Yang Xin Rong",
+      "ship_type": "Products Tanker, 11,136 tons",
+      "owner_company": "Zhejiang Guoyang Shipping",
+      "shipyard": "Zhejiang Mingfei Shipbuilding",
+      "date_built": "2024 - 08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csJXJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1381",
+      "name": "Xin Yi Hai",
+      "ship_type": "Container Ship, 4,636 teu",
+      "owner_company": "Tradewind Ningbo Maritime",
+      "shipyard": "Jiangsu Newyangzi Shipbuilding",
+      "date_built": "2025 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbJBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1382",
+      "name": "Xin Qing Hai",
+      "ship_type": "Container Ship, 4,636 teu",
+      "owner_company": "Tradewind Ningbo Maritime",
+      "shipyard": "Jiangsu Newyangzi Shipbuilding",
+      "date_built": "2025 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbJbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1383",
+      "name": "Su Bao Gong 18",
+      "ship_type": "Pipe Layer Crane Vessel",
+      "owner_company": "Baoying Xinyuan Shipping",
+      "shipyard": "Suling Shipyard, Taizhou",
+      "date_built": "2002 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXggganmkhTk8Pl4EN"
+    },
+    {
+      "no": "1384",
+      "name": "Fu Yun De Run",
+      "ship_type": "General Cargo Ship, 5,105 tons",
+      "owner_company": "Qingdao Derun Land Sea Const",
+      "shipyard": "Zhoushan Dinghai Cezi Shipyard",
+      "date_built": "2016 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXFXBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1385",
+      "name": "Jian Xing 39",
+      "ship_type": "Chemical Tanker, 3,524 tons",
+      "owner_company": "Dingheng Shipping",
+      "shipyard": "Haidong Shipyard, Taizhou",
+      "date_built": "2024 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbCsBanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1386",
+      "name": "Feng Hai 98",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Jiangxi Shunyuan Shipping",
+      "shipyard": "Zhejiang Jinchuan Shipyard, Xiangshan",
+      "date_built": "2014 - 10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbFJXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1387",
+      "name": "Jia He 99",
+      "ship_type": "General Cargo Ship, 25,734 tons",
+      "owner_company": "DFS Maritime Services",
+      "shipyard": "Nanjing Zengsheng Shipbuilding",
+      "date_built": "2016 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXCsJanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1388",
+      "name": "Anugrah Buana IX",
+      "ship_type": "Bulk Carrier, 7,200 tons",
+      "owner_company": "Kapuas Mekar Jaya",
+      "shipyard": "Taizhou Hailing Shenglian Shipbuilding",
+      "date_built": "2020 - 03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCggFanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1389",
+      "name": "ES Future",
+      "ship_type": "Bulk Carrier, 16,993 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Zhejiang Jianghai Shipbuilding",
+      "date_built": "2009 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCggXanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1390",
+      "name": "South-North Star",
+      "ship_type": "Passenger Ship, 331 Passengers",
+      "owner_company": "North & South Marine Corp Ltd",
+      "shipyard": "Glow Marine, Singapore",
+      "date_built": "2021 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBbSCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1391",
+      "name": "South-North Star 2",
+      "ship_type": "Passenger Ship, 298 Passengers",
+      "owner_company": "North & South Marine Corp Ltd",
+      "shipyard": "Glow Marine, Singapore",
+      "date_built": "2022 - 04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBbFbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1392",
+      "name": "Hood",
+      "ship_type": "Products Tanker, 153,094 tons",
+      "owner_company": "Key Bloom Shipping Co Ltd",
+      "shipyard": "Fujian Huadong Shipyard",
+      "date_built": "2013 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csJXbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1393",
+      "name": "Heng Zhou 006",
+      "ship_type": "Chemical Tanker, 3,488 tons",
+      "owner_company": "Helong Shandong Holdings",
+      "shipyard": "Zhejiang Friendship Shipyard",
+      "date_built": "2024 - 09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbCBCanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1394",
+      "name": "Great Lake",
+      "ship_type": "Chemical/Products Tanker, 7,303 tons",
+      "owner_company": "Victory International Ship",
+      "shipyard": "Zhejiang Xinhai Shipbuilding",
+      "date_built": "2007 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cbbFbanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1395",
+      "name": "Tanto Saudara",
+      "ship_type": "Container Ship, 558 teu",
+      "owner_company": "PT Tanto Intim Line",
+      "shipyard": "Ningbo Boda Shipbuilding",
+      "date_built": "2024 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFCsanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1396",
+      "name": "Bo Da 83",
+      "ship_type": "Container Ship, 558 teu",
+      "owner_company": "Ningbo Boda Shipbuilding",
+      "shipyard": "Ningbo Boda Shipbuilding",
+      "date_built": "2025 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFCSanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1397",
+      "name": "Cartier",
+      "ship_type": "Bulk Carrier, 23,781 tons",
+      "owner_company": "Tuo Hai Shipping Ltd",
+      "shipyard": "Zhejiang Zhenyu Shipbuilding",
+      "date_built": "2010 - 01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCggcanmkhTk8Pl4EN"
+    },
+    {
+      "no": "1398",
+      "name": "Zhen Sheng 001",
+      "ship_type": "General Cargo Ship, 8,189 tons",
+      "owner_company": "Dongguan Yuandong Shipping Co",
+      "shipyard": "Zhejiang Yueqing Qiligang Shipbuilding",
+      "date_built": "2008 - 12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cFJXBanmkhTk8Pl4EN"
     },
     {
       "no": "1399",
-      "name": "Xinyi Glass",
-      "ship_type": "Container Ship, 1,500 teu",
-      "owner_company": "Hong Kong Xinyi Shipping",
-      "shipyard": "Jiangsu Dajin HI",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cSXCbanmkhTk8Pl4EN"
+      "name": "Hae Yang 1",
+      "ship_type": "General Cargo Ship, 4,745 tons",
+      "owner_company": "Namsan Shipping Co",
+      "shipyard": "Wenling Yuanyang Shipyard",
+      "date_built": "2008 - 05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXsXsanmkhTk8Pl4EN"
     },
     {
       "no": "1400",
-      "name": "Cosmo Noah",
-      "ship_type": "General Cargo Ship, 13,503 tons",
-      "owner_company": "Hosei Manning Co Ltd",
-      "shipyard": "Murakami Hide",
-      "date_built": "2024 - 05",
-      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBscCanmkhTk8Pl4EN"
+      "name": "Hae Yon 15",
+      "ship_type": "General Cargo Ship, 3,272 tons",
+      "owner_company": "Korea Ocean Bunkering & Tradin",
+      "shipyard": "Zhejiang Jiaoshan Shipyard",
+      "date_built": "2005 - 07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXbsXanmkhTk8Pl4EN"
     }
   ]
 }

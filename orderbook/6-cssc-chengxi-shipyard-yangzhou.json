@@ -1,0 +1,458 @@
+{
+  "no": 6,
+  "name": "CSSC, Chengxi Shipyard (Yangzhou)",
+  "link": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFB",
+  "orderbook_rows": [
+    {
+      "index": "1",
+      "name": "Chengxi CX9833",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccXSSanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2027 - 10",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "2",
+      "name": "Chengxi CX9834",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccXSsanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2028 - 03",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "3",
+      "name": "Chengxi CX9811",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBJganmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2027 - 01",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "4",
+      "name": "Chengxi CX9819",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgcanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 02",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "5",
+      "name": "Chengxi CX9812",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgSanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2027 - 03",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "6",
+      "name": "Chengxi CX9814",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgCanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2027 - 06",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "7",
+      "name": "Chengxi CX9813",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgsanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2027 - 05",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "8",
+      "name": "Chengxi CX9815",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgBanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2027 - 08",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "9",
+      "name": "Chengxi CX9816",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgbanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2027 - 08",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "10",
+      "name": "Chengxi CX9817",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgFanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2027 - 10",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "11",
+      "name": "Chengxi CX9818",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgXanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2027 - 12",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "12",
+      "name": "Chengxi CX9820",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgJanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 04",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "13",
+      "name": "Chengxi CX9822",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbSSanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 05",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "14",
+      "name": "Chengxi CX9823",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbSsanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 06",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "15",
+      "name": "Chengxi CX9824",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbSCanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 07",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "16",
+      "name": "Chengxi CX9821",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccBgganmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 06",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "17",
+      "name": "Chengxi CX9825",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbSBanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 08",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "18",
+      "name": "Chengxi CX9826",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbSbanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 09",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "19",
+      "name": "Chengxi CX9832",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbsSanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 12",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "20",
+      "name": "Chengxi CX9827",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbSFanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 10",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "21",
+      "name": "Chengxi CX9828",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbSXanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 09",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "22",
+      "name": "Chengxi CX9829",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbScanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 10",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "23",
+      "name": "Chengxi CX9830",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbSJanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 11",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "24",
+      "name": "Chengxi CX9831",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbSganmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 79,800 tons",
+      "owner_company": "COSCO Shipping Development (中远海发展）",
+      "date_delivery": "2028 - 12",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "25",
+      "name": "Chengxi CX5023",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXsJanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Prodigy Inc",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "26",
+      "name": "Chengxi CX5022",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXsganmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Prodigy Inc",
+      "date_delivery": "2026 - 08",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "27",
+      "name": "Chengxi",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbbBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "W Marine",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "28",
+      "name": "Chengxi",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbbbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "W Marine",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "29",
+      "name": "Chengxi CX0853",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXJbbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 08",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "30",
+      "name": "Chengxi CX0854",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXJbFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "31",
+      "name": "Chengxi Yangzhou CX9403",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFcCanmkhTk8Pl4EN",
+      "ship_type": "Trans Shipment Vessel, 70,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "32",
+      "name": "Chengxi CX9404",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXgBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, Self-Discharging, 41,800 ton",
+      "owner_company": "Rio Tinto Marine",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "33",
+      "name": "Chengxi CX9406",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXgsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, Self-Discharging, 41,800 ton",
+      "owner_company": "Rio Tinto Marine",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "34",
+      "name": "Chengxi CX9405",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXgCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, Self-Discharging, 41,800 ton",
+      "owner_company": "Rio Tinto Marine",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "35",
+      "name": "Chengxi CX9407",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXgSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, Self-Discharging, 41,800 ton",
+      "owner_company": "Rio Tinto Marine",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "index": "36",
+      "name": "Chengxi CX5018",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSBbXanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "37",
+      "name": "Chengxi CX5021",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSbCJanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2027 - 12",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "38",
+      "name": "Chengxi CX5020",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSbCXanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2027 - 10",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "39",
+      "name": "Chengxi CX5019",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSbSJanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "40",
+      "name": "Chengxi CX5012",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBgcanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Singfar International",
+      "date_delivery": "2026 - 08",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "index": "41",
+      "name": "Chengxi CX5013",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBgXanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Singfar International",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "index": "42",
+      "name": "Chengxi Cx5014",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBgFanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Singfar International",
+      "date_delivery": "2027 - 03",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "index": "43",
+      "name": "Chengxi CX5015",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBgbanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Singfar International",
+      "date_delivery": "2027 - 06",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "index": "44",
+      "name": "Chengxi CX0842",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4CgSSCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,600 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 10",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "45",
+      "name": "Chengxi CX0843",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4CgSXFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,600 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "46",
+      "name": "Chengxi CX5010",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFcgsanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Schoeller Holdings",
+      "date_delivery": "2026 - 06",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "47",
+      "name": "Chengxi CX5011",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFcgSanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Schoeller Holdings",
+      "date_delivery": "2026 - 08",
+      "date_contract": "2023 - 07"
+    },
+    {
+      "index": "48",
+      "name": "Chengxi Jiangyin Cx5008",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFXSFanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Schoeller Holdings",
+      "date_delivery": "2025 - 07",
+      "date_contract": "2023 - 06"
+    },
+    {
+      "index": "49",
+      "name": "Chengxi CX5009",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFXSbanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 50,000 tons",
+      "owner_company": "Schoeller Holdings",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2023 - 06"
+    },
+    {
+      "index": "50",
+      "name": "Okeanis",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXBSXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Neda Maritime Co. Ltd.",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2023 - 06"
+    }
+  ],
+  "ts": 1758553510
+}

@@ -1,0 +1,161 @@
+{
+  "no": 37,
+  "name": "Xinle Shipyard (Ningbo)",
+  "link": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4JgSsg",
+  "orderbook_rows": [
+    {
+      "index": "1",
+      "name": "Zhejiang Xinle",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJXXCanmkhTk8Pl4EN",
+      "ship_type": "Cement Carrier, 38,000 tons",
+      "owner_company": "Nova Marine Carriers SA",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2024 - 07"
+    },
+    {
+      "index": "2",
+      "name": "Xinle XL-223",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXCFanmkhTk8Pl4EN",
+      "ship_type": "Products Tanker, 7,500 tons",
+      "owner_company": "Mila Ltd",
+      "date_delivery": "2025 - 10",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "3",
+      "name": "Xinle XL-222",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXCXanmkhTk8Pl4EN",
+      "ship_type": "Products Tanker, 7,500 tons",
+      "owner_company": "Mila Ltd",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "4",
+      "name": "Xinle XL-224",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXCcanmkhTk8Pl4EN",
+      "ship_type": "Products Tanker, 7,500 tons",
+      "owner_company": "Mila Ltd",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "5",
+      "name": "Xinle XL-225",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXCganmkhTk8Pl4EN",
+      "ship_type": "Products Tanker, 7,500 tons",
+      "owner_company": "Mila Ltd",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "6",
+      "name": "Xinle XL-212",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BJcbbanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 8,340 tons",
+      "owner_company": "Mila Ltd",
+      "date_delivery": "2025 - 04",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "7",
+      "name": "Xinle XL-213",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BJcJganmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 8,340 tons",
+      "owner_company": "Mila Ltd",
+      "date_delivery": "2025 - 05",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "8",
+      "name": "Xinle XL-211",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BJsSBanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 8,340 tons",
+      "owner_company": "Mila Ltd",
+      "date_delivery": "2025 - 07",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "9",
+      "name": "Mila",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BJSJJanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 8,340 tons",
+      "owner_company": "Mila Ltd",
+      "date_delivery": "2025 - 05",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "10",
+      "name": "Xinle XL-188",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcCSanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 9,500 tons",
+      "owner_company": "Vernon Shipping Ltd",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "index": "11",
+      "name": "Sinar Pangkalan Brandan",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbsSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 701 teu",
+      "owner_company": "Samudera Indonesia",
+      "date_delivery": "2025 - 04",
+      "date_contract": "2023 - 06"
+    },
+    {
+      "index": "12",
+      "name": "Xinle XL-209",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBCJXanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 8,500 tons",
+      "owner_company": "Zhejiang Xinyihai Shipping (浙江新一海)",
+      "date_delivery": "2025 - 03",
+      "date_contract": "2023 - 03"
+    },
+    {
+      "index": "13",
+      "name": "Xinle XL-198",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCJbSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Sea Consortium",
+      "date_delivery": "2024 - 04",
+      "date_contract": "2021 - 12"
+    },
+    {
+      "index": "14",
+      "name": "Xinle XL-197",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scgsganmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Sea Consortium",
+      "date_delivery": "2024 - 02",
+      "date_contract": "2021 - 12"
+    },
+    {
+      "index": "15",
+      "name": "Ningbo Xinle",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBJsanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Sea Consortium",
+      "date_delivery": "2024 - 09",
+      "date_contract": "2021 - 12"
+    },
+    {
+      "index": "16",
+      "name": "Ningbo Xinle",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBJSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Sea Consortium",
+      "date_delivery": "2024 - 06",
+      "date_contract": "2021 - 12"
+    },
+    {
+      "index": "17",
+      "name": "Ningbo Xinle",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBcJanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Sea Consortium",
+      "date_delivery": "2024 - 03",
+      "date_contract": "2021 - 12"
+    }
+  ],
+  "ts": 1758553632
+}

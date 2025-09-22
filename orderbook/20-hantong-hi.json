@@ -1,0 +1,458 @@
+{
+  "no": 20,
+  "name": "Hantong HI",
+  "link": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc",
+  "orderbook_rows": [
+    {
+      "index": "1",
+      "name": "ASL Vega",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXcganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Agricore Ship Management (良禾航运)",
+      "date_delivery": "2026 - 07",
+      "date_contract": "2025 - 01"
+    },
+    {
+      "index": "2",
+      "name": "ASL Saturn",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXJsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Agricore Ship Management (良禾航运)",
+      "date_delivery": "2027 - 03",
+      "date_contract": "2025 - 01"
+    },
+    {
+      "index": "3",
+      "name": "ASL Canopus",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXJCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Agricore Ship Management (良禾航运)",
+      "date_delivery": "2027 - 06",
+      "date_contract": "2025 - 01"
+    },
+    {
+      "index": "4",
+      "name": "ASL Altair",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXJSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Agricore Ship Management (良禾航运)",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2025 - 01"
+    },
+    {
+      "index": "5",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcSsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2027 - 08",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "6",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcSCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2026 - 02",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "7",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcSBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "8",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcSbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2026 - 06",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "9",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcSFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2026 - 08",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "10",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcSXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2026 - 10",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "11",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcSJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2027 - 02",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "12",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcSganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2027 - 04",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "13",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcScanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "14",
+      "name": "Hantong Wing HT210-434",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcbXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 211,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 10",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "15",
+      "name": "Jiangsu Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcsSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2027 - 06",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "16",
+      "name": "Jiangsu Hantong HT210-435",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcbcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 211,000 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 12"
+    },
+    {
+      "index": "17",
+      "name": "Hantong HT64-362",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbCsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 05",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "index": "18",
+      "name": "Hantong HT64-363",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbCSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "index": "19",
+      "name": "Hantong HT64-364",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbCCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "index": "20",
+      "name": "Hantong HT319-427",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFJbanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 319,000 tons",
+      "owner_company": "Trafigura Ltd",
+      "date_delivery": "2027 - 06",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "21",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgBJBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2028 - 03",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "22",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgBSganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2027 - 09",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "23",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgBSbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2027 - 07",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "24",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgBSBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2027 - 05",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "25",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgBSCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2027 - 03",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "26",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgbCsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2028 - 07",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "27",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgbScanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2028 - 05",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "28",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgBXcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "COSCO Shipping Bulk (中远海运散运)",
+      "date_delivery": "2027 - 12",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "index": "29",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJJgBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Jinhui Holdings",
+      "date_delivery": "2027 - 11",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "30",
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJJgCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Jinhui Holdings",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "31",
+      "name": "Hantong HT-OT159-361",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ssCgFanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 159,000 tons",
+      "owner_company": "Cardiff Marine Inc.",
+      "date_delivery": "2027 - 03",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "32",
+      "name": "Hantong HT-OT159-360",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ssCgbanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 159,000 tons",
+      "owner_company": "Cardiff Marine Inc.",
+      "date_delivery": "2027 - 01",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "33",
+      "name": "Hantong HT-OT159-359",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ssCgBanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 159,000 tons",
+      "owner_company": "Cardiff Marine Inc.",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "34",
+      "name": "Hantong HT-OT159-358",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ssCgCanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 159,000 tons",
+      "owner_company": "Cardiff Marine Inc.",
+      "date_delivery": "2026 - 10",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "35",
+      "name": "Hantong HT319-395",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFJCanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 319,000 tons",
+      "owner_company": "Trafigura Ltd",
+      "date_delivery": "2027 - 10",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "36",
+      "name": "Hantong HT319-396",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFJBanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 319,000 tons",
+      "owner_company": "Trafigura Ltd",
+      "date_delivery": "2027 - 11",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "37",
+      "name": "Hantong HT319-375",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFJsanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 319,000 tons",
+      "owner_company": "Trafigura Ltd",
+      "date_delivery": "2027 - 07",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "38",
+      "name": "Hantong HT82-382",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbJSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Oldendorff Carriers",
+      "date_delivery": "2027 - 09",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "39",
+      "name": "Hantong HT82-381",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbcganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Oldendorff Carriers",
+      "date_delivery": "2027 - 07",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "40",
+      "name": "Hantong HT82-380",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbcJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Oldendorff Carriers",
+      "date_delivery": "2027 - 05",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "41",
+      "name": "Hantong HT82-379",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbccanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Oldendorff Carriers",
+      "date_delivery": "2027 - 03",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "42",
+      "name": "Hantong HT82-378",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbcXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Oldendorff Carriers",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "43",
+      "name": "Hantong HT82-377",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbcFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Oldendorff Carriers",
+      "date_delivery": "2026 - 07",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "index": "44",
+      "name": "Hantong HT82-370",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBBcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "MTT Shipping Sdn Bhd",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "45",
+      "name": "Hantong HT82-369",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBBJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "MTT Shipping Sdn Bhd",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "46",
+      "name": "Hantong HT82-372",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJcSganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "National Navigation Co",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "47",
+      "name": "Hantong HT82-371",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJcSXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "National Navigation Co",
+      "date_delivery": "2026 - 11",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "48",
+      "name": "New Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbSJganmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 319,000 tons",
+      "owner_company": "Trafigura Pte Ltd",
+      "date_delivery": "2026 - 07",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "49",
+      "name": "New Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbSJJanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 319,000 tons",
+      "owner_company": "Trafigura Pte Ltd",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "50",
+      "name": "Hantong HT64-347",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scCCBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Unknown",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2023 - 11"
+    }
+  ],
+  "ts": 1758553556
+}

@@ -1,0 +1,341 @@
+{
+  "no": 31,
+  "name": "Penglai Jinglu Shipyard",
+  "link": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcFC",
+  "orderbook_rows": [
+    {
+      "index": "1",
+      "name": "Qingdao Yangfan 210KDWTBC-05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBBCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2028 - 08",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "2",
+      "name": "Qingdao Yangfan 210KDWTBC-06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBBBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2028 - 11",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "index": "3",
+      "name": "Qingdao Yangfan",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgbXXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "China Merchants Shipping (招商局能源运输)",
+      "date_delivery": "2027 - 07",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "4",
+      "name": "Qingdao Yangfan",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgFsganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "China Merchants Shipping (招商局能源运输)",
+      "date_delivery": "2027 - 10",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "index": "5",
+      "name": "Qingdao Yangfan 210KDWTBC-03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBBsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2027 - 12",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "6",
+      "name": "Qingdao Yangfan 210KDWTBC-04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBCJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2028 - 05",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "7",
+      "name": "Qingdao Yangfan 210KDWTBC-02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBCganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2027 - 08",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "8",
+      "name": "Qingdao Yangfan 210KDWTBC-01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBBSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 210,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2027 - 06",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "index": "9",
+      "name": "Yara Eyde",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXSXanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,400 teu",
+      "owner_company": "Delphis N.V. -- CMB Group",
+      "date_delivery": "2026 - 06",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "10",
+      "name": "Qingdao Yangfan BC82K-18",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbFcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Star Bulk Carriers Corp.",
+      "date_delivery": "2026 - 08",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "11",
+      "name": "Qingdao Yangfan BC82K-23",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbFXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Star Bulk Carriers Corp.",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "12",
+      "name": "Qingdao Yangfan BC82K-17",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbFFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Star Bulk Carriers Corp.",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "index": "13",
+      "name": "Yangfan CV1000-05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBcganmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,208 teu",
+      "owner_company": "Visser Shipping BV",
+      "date_delivery": "2026 - 06",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "index": "14",
+      "name": "Qingdao Yangfan 82KBC-15",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbsJJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Star Bulk Carriers Corp.",
+      "date_delivery": "2025 - 09",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "index": "15",
+      "name": "Qingdao Yangfan BC82K-16",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbsJcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Star Bulk Carriers Corp.",
+      "date_delivery": "2025 - 10",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "index": "16",
+      "name": "Qingdao Yangfan CV1000-04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sCXscanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,208 teu",
+      "owner_company": "HS Schiffahrts",
+      "date_delivery": "2026 - 03",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "index": "17",
+      "name": "Qingdao Yangfan CV1000-03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sCXsXanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,208 teu",
+      "owner_company": "HS Schiffahrts",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "index": "18",
+      "name": "Qingdao Yangfan CV1000-01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sCXsFanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,208 teu",
+      "owner_company": "HS Schiffahrts",
+      "date_delivery": "2025 - 09",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "index": "19",
+      "name": "Qingdao Yangfan 82KBC-22",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJJSCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Laskaridis Shipping",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "20",
+      "name": "Qingdao Yangfan 82KBC-21",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJcgbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Laskaridis Shipping",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "21",
+      "name": "Qingdao Yangfan 82KBC-20",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJcgCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Laskaridis Shipping",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "22",
+      "name": "Qingdao Yangfan 82KBC-19",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJcgsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Laskaridis Shipping",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2023 - 10"
+    },
+    {
+      "index": "23",
+      "name": "Qingdao QDZ554",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFCJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Sea Traders SA",
+      "date_delivery": "2026 - 12",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "24",
+      "name": "Qingdao QDZ552",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFCcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Sea Traders SA",
+      "date_delivery": "2026 - 09",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "25",
+      "name": "Qingdao QDZ555",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFCganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Sea Traders SA",
+      "date_delivery": "2027 - 01",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "26",
+      "name": "Qingdao QDZ556",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFBSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Sea Traders SA",
+      "date_delivery": "2027 - 02",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "index": "27",
+      "name": "Yangfan BC-10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXcFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "CosmoShip Management S.A.",
+      "date_delivery": "2025 - 12",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "index": "28",
+      "name": "Yangfan BC-09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXcbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "CosmoShip Management S.A.",
+      "date_delivery": "2025 - 11",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "index": "29",
+      "name": "Yangfan 82KDWT BC-04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXBbJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2025 - 06",
+      "date_contract": "2023 - 05"
+    },
+    {
+      "index": "30",
+      "name": "Sea Lyra",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXBbcanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2025 - 04",
+      "date_contract": "2023 - 05"
+    },
+    {
+      "index": "31",
+      "name": "Yangfan 82KDWT BC-03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXBbXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2025 - 04",
+      "date_contract": "2023 - 05"
+    },
+    {
+      "index": "32",
+      "name": "Sea Lynx",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXBbFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Seatankers Management",
+      "date_delivery": "2025 - 04",
+      "date_contract": "2023 - 05"
+    },
+    {
+      "index": "33",
+      "name": "Qingdao Yangfan CV5900-12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXsSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 6,014 teu",
+      "owner_company": "Delphis N.V. -- CMB Group",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2022 - 02"
+    },
+    {
+      "index": "34",
+      "name": "Qingdao Yangfan CV5900-11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXSganmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 6,014 teu",
+      "owner_company": "Delphis N.V.",
+      "date_delivery": "2026 - 07",
+      "date_contract": "2022 - 02"
+    },
+    {
+      "index": "35",
+      "name": "Qingdao Yangfan CV5900-10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXSJanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 6,014 teu",
+      "owner_company": "Delphis N.V.",
+      "date_delivery": "2026 - 04",
+      "date_contract": "2022 - 02"
+    },
+    {
+      "index": "36",
+      "name": "Qingdao Yangfan CV5900-09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXScanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 6,014 teu",
+      "owner_company": "Delphis N.V.",
+      "date_delivery": "2026 - 01",
+      "date_contract": "2022 - 02"
+    },
+    {
+      "index": "37",
+      "name": "Greenhouse",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXsCanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 6,014 teu",
+      "owner_company": "Danaos Shipping",
+      "date_delivery": "2025 - 10",
+      "date_contract": "2020 - 09"
+    }
+  ],
+  "ts": 1758553613
+}
