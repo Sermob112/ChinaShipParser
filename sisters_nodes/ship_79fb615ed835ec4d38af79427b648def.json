@@ -1,0 +1,38 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBcganmkhTk8Pl4EN",
+  "ts": 1758642788,
+  "sisters": [
+    {
+      "name": "Yara Eyde",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXSXanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,400 teu",
+      "owner_company": "Delphis N.V. -- CMB Group",
+      "shipyard": "Qingdao Yangfan Shipbuilding Industry",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "name": "Qingdao Yangfan CV1000-04",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sCXscanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,208 teu",
+      "owner_company": "HS Schiffahrts",
+      "shipyard": "Qingdao Yangfan Shipbuilding Industry",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "name": "Qingdao Yangfan CV1000-03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sCXsXanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,208 teu",
+      "owner_company": "HS Schiffahrts",
+      "shipyard": "Qingdao Yangfan Shipbuilding Industry",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "name": "Qingdao Yangfan CV1000-01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sCXsFanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,208 teu",
+      "owner_company": "HS Schiffahrts",
+      "shipyard": "Qingdao Yangfan Shipbuilding Industry",
+      "date_contract": "2023 - 11"
+    }
+  ]
+}

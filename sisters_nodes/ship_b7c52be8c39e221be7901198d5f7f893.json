@@ -1,0 +1,38 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXsSanmkhTk8Pl4EN",
+  "ts": 1758642906,
+  "sisters": [
+    {
+      "name": "Qingdao Yangfan CV5900-11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXSganmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 6,014 teu",
+      "owner_company": "Delphis N.V.",
+      "shipyard": "Qingdao Shipyard Co., Ltd.",
+      "date_contract": "2022 - 02"
+    },
+    {
+      "name": "Qingdao Yangfan CV5900-10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXSJanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 6,014 teu",
+      "owner_company": "Delphis N.V.",
+      "shipyard": "Qingdao Shipyard Co., Ltd.",
+      "date_contract": "2022 - 02"
+    },
+    {
+      "name": "Qingdao Yangfan CV5900-09",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXScanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 6,014 teu",
+      "owner_company": "Delphis N.V.",
+      "shipyard": "Qingdao Shipyard Co., Ltd.",
+      "date_contract": "2022 - 02"
+    },
+    {
+      "name": "Greenhouse",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXsCanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 6,014 teu",
+      "owner_company": "Danaos Shipping",
+      "shipyard": "Qingdao Shipyard Co., Ltd.",
+      "date_contract": "2020 - 09"
+    }
+  ]
+}

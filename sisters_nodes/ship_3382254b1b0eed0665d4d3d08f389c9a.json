@@ -1,0 +1,54 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXCcanmkhTk8Pl4EN",
+  "ts": 1758643235,
+  "sisters": [
+    {
+      "name": "Sanfu SF240107",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXBsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Samjoo Maritime",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2024 - 07"
+    },
+    {
+      "name": "Sanfu SF240106",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXBCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Samjoo Maritime",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2024 - 07"
+    },
+    {
+      "name": "Sanfu SF240105",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXBBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Samjoo Maritime",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2024 - 07"
+    },
+    {
+      "name": "Sanfu SF240104",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXCJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Precious Shipping PCL",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "Sanfu SF240102",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXCganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Precious Shipping PCL",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "Sanfu SF240101",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXBSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Precious Shipping PCL",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2024 - 06"
+    }
+  ]
+}

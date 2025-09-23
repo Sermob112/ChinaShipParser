@@ -1,0 +1,46 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBJsanmkhTk8Pl4EN",
+  "ts": 1758642772,
+  "sisters": [
+    {
+      "name": "Sinar Pangkalan Brandan",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbsSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 701 teu",
+      "owner_company": "Samudera Indonesia",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2023 - 06"
+    },
+    {
+      "name": "Ningbo Xinle",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBJSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Sea Consortium",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2021 - 12"
+    },
+    {
+      "name": "Xinle XL-198",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCJbSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Sea Consortium",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2021 - 12"
+    },
+    {
+      "name": "Ningbo Xinle",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBcJanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Sea Consortium",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2021 - 12"
+    },
+    {
+      "name": "Xinle XL-197",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scgsganmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,170 teu",
+      "owner_company": "Sea Consortium",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2021 - 12"
+    }
+  ]
+}

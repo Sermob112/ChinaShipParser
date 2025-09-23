@@ -1,0 +1,86 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbCSanmkhTk8Pl4EN",
+  "ts": 1758644902,
+  "sisters": [
+    {
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJJgBanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Jinhui Holdings",
+      "shipyard": "Jiangsu New Hantong HI",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "ASL Canopus",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXJCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Agricore Ship Management (良禾航运)",
+      "shipyard": "Jiangsu New Hantong HI",
+      "date_contract": "2025 - 01"
+    },
+    {
+      "name": "ASL Saturn",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXJsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Agricore Ship Management (良禾航运)",
+      "shipyard": "Jiangsu New Hantong HI",
+      "date_contract": "2025 - 01"
+    },
+    {
+      "name": "ASL Altair",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXJSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Agricore Ship Management (良禾航运)",
+      "shipyard": "Jiangsu New Hantong HI",
+      "date_contract": "2025 - 01"
+    },
+    {
+      "name": "Hantong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJJgCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Jinhui Holdings",
+      "shipyard": "Jiangsu New Hantong HI",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "Hantong HT64-364",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbCCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Jiangsu New Hantong HI",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "name": "ASL Vega",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXcganmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Agricore Ship Management (良禾航运)",
+      "shipyard": "Jiangsu New Hantong HI",
+      "date_contract": "2025 - 01"
+    },
+    {
+      "name": "Hantong HT64-362",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbCsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Jiangsu New Hantong HI",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "name": "Hantong HT64-331",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbsBFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Atlantic Lloyd",
+      "shipyard": "Jiangsu Hantong HI",
+      "date_contract": "2023 - 06"
+    },
+    {
+      "name": "Hantong HT64-330",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbsBbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 63,500 tons",
+      "owner_company": "Atlantic Lloyd",
+      "shipyard": "Jiangsu Hantong HI",
+      "date_contract": "2023 - 06"
+    }
+  ]
+}

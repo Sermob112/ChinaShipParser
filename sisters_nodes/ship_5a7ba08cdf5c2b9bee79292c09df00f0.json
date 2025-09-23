@@ -1,0 +1,78 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJFSBanmkhTk8Pl4EN",
+  "ts": 1758642589,
+  "sisters": [
+    {
+      "name": "China Merchants Jl Nanjing",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcsBanmkhTk8Pl4EN",
+      "ship_type": "Vehicles Carrier, 4,500 cars",
+      "owner_company": "United European Car Carriers (UECC)",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "name": "China Merchants Jl Nanjing",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcsbanmkhTk8Pl4EN",
+      "ship_type": "Vehicles Carrier, 4,500 cars",
+      "owner_company": "United European Car Carriers (UECC)",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2024 - 10"
+    },
+    {
+      "name": "CMJL JLZ9230446",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBCssanmkhTk8Pl4EN",
+      "ship_type": "Vehicles Carrier, 7,800 cars",
+      "owner_company": "CMB Financial Leasing (招银租赁)",
+      "shipyard": "China Merchants Jinling Shipyard",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "name": "CMJL JLZ9230445",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBCsSanmkhTk8Pl4EN",
+      "ship_type": "Vehicles Carrier, 7,800 cars",
+      "owner_company": "CMB Financial Leasing (招银租赁)",
+      "shipyard": "China Merchants Jinling Shipyard",
+      "date_contract": "2023 - 11"
+    },
+    {
+      "name": "CMJL JLZ9230445",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgbbJanmkhTk8Pl4EN",
+      "ship_type": "Vehicles Carrier",
+      "owner_company": "China Merchants RoRo (招商滚装)",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "name": "CMJL JLZ9230446",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgbFSanmkhTk8Pl4EN",
+      "ship_type": "Vehicles Carrier",
+      "owner_company": "China Merchants RoRo (招商滚装)",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "name": "CMJL JLZ8230456",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBsgXanmkhTk8Pl4EN",
+      "ship_type": "Vehicles Carrier, 7,000 cars",
+      "owner_company": "Eastern Pacific Shipping",
+      "shipyard": "China Merchants Jinling Shipyard",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "name": "CMJL JLZ8230455",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBsgFanmkhTk8Pl4EN",
+      "ship_type": "Vehicles Carrier, 7,000 cars",
+      "owner_company": "Eastern Pacific Shipping",
+      "shipyard": "China Merchants Jinling Shipyard",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "name": "BYD Xi'an",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJFSbanmkhTk8Pl4EN",
+      "ship_type": "Vehicles Carrier, 9,200 cars",
+      "owner_company": "BYD Motor (比亚迪)",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2022 - 12"
+    }
+  ]
+}

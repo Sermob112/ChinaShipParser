@@ -1,0 +1,62 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXSgXanmkhTk8Pl4EN",
+  "ts": 1758643074,
+  "sisters": [
+    {
+      "name": "CMHI CMHI-282-08",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFFCFanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 176,400 cbm",
+      "owner_company": "Celsius Shipping",
+      "shipyard": "China Merchants HI, Haimen",
+      "date_contract": "2024 - 05"
+    },
+    {
+      "name": "CMHI CMHI-282-07",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFFCCanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 176,400 cbm",
+      "owner_company": "Celsius Shipping",
+      "shipyard": "China Merchants HI, Haimen",
+      "date_contract": "2024 - 05"
+    },
+    {
+      "name": "CMHI CMHI-282-06",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFFCsanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 176,400 cbm",
+      "owner_company": "Celsius Shipping",
+      "shipyard": "China Merchants HI, Haimen",
+      "date_contract": "2024 - 05"
+    },
+    {
+      "name": "CMHI CMHI-282-05",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbsSCanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 176,400 cbm",
+      "owner_company": "Celsius Shipping",
+      "shipyard": "China Merchants (Jiangsu)",
+      "date_contract": "2024 - 02"
+    },
+    {
+      "name": "CMHI CMHI-282-03",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXSgcanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 176,400 cbm",
+      "owner_company": "Celsius Shipping",
+      "shipyard": "China Merchants (Haimen)",
+      "date_contract": "2023 - 05"
+    },
+    {
+      "name": "CMHI CMHI-282-02",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXSgJanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 176,400 cbm",
+      "owner_company": "Celsius Shipping",
+      "shipyard": "China Merchants (Haimen)",
+      "date_contract": "2023 - 05"
+    },
+    {
+      "name": "CMHI CMHI-282-01",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXSgganmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 176,400 cbm",
+      "owner_company": "Celsius Shipping",
+      "shipyard": "China Merchants (Haimen)",
+      "date_contract": "2023 - 05"
+    }
+  ]
+}

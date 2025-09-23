@@ -1,0 +1,38 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbBCanmkhTk8Pl4EN",
+  "ts": 1758642908,
+  "sisters": [
+    {
+      "name": "Sanfu SF240311",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXSFanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 500 teu",
+      "owner_company": "Unknown",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "name": "Sanfu SF240311",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXSbanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 500 teu",
+      "owner_company": "Unknown",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "name": "Sanfu SF220304",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbBBanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,300 teu",
+      "owner_company": "MPC Group",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2022 - 09"
+    },
+    {
+      "name": "NCL Nordland",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sJsgbanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 1,300 teu",
+      "owner_company": "MPC Group",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2022 - 09"
+    }
+  ]
+}

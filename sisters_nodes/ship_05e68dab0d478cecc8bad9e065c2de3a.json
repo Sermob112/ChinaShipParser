@@ -1,0 +1,38 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXCganmkhTk8Pl4EN",
+  "ts": 1758643810,
+  "sisters": [
+    {
+      "name": "Xinle XL-224",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXCcanmkhTk8Pl4EN",
+      "ship_type": "Products Tanker, 7,500 tons",
+      "owner_company": "Mila Ltd",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "Xinle XL-222",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXCXanmkhTk8Pl4EN",
+      "ship_type": "Products Tanker, 7,500 tons",
+      "owner_company": "Mila Ltd",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "Xinle XL-223",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXCFanmkhTk8Pl4EN",
+      "ship_type": "Products Tanker, 7,500 tons",
+      "owner_company": "Mila Ltd",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "Xinle XL-209",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBCJXanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 8,500 tons",
+      "owner_company": "Zhejiang Xinyihai Shipping (浙江新一海)",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2023 - 03"
+    }
+  ]
+}

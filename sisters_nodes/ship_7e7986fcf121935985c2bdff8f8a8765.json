@@ -1,0 +1,38 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcgSanmkhTk8Pl4EN",
+  "ts": 1758643523,
+  "sisters": [
+    {
+      "name": "Guangzhou",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFsBanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 8,400 teu",
+      "owner_company": "Peter Döhle Schiffahrts K.G.",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2025 - 03"
+    },
+    {
+      "name": "Guangzhou",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFsCanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 8,400 teu",
+      "owner_company": "Peter Döhle Schiffahrts K.G.",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2025 - 03"
+    },
+    {
+      "name": "Guangzhou",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcgCanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 8,400 teu",
+      "owner_company": "Peter Döhle Schiffahrts K.G.",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2025 - 01"
+    },
+    {
+      "name": "Guangzhou",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcgsanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 8,400 teu",
+      "owner_company": "Peter Döhle Schiffahrts K.G.",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2025 - 01"
+    }
+  ]
+}

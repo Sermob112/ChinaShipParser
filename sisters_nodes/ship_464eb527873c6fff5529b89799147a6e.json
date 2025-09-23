@@ -1,0 +1,46 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SgXgBanmkhTk8Pl4EN",
+  "ts": 1758643173,
+  "sisters": [
+    {
+      "name": "DACKS DE175",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SgXgbanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "DACKS DE156",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXXbXanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2023 - 02"
+    },
+    {
+      "name": "DACKS DE155",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXXbFanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2023 - 02"
+    },
+    {
+      "name": "DACKS DE147",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgggcanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2022 - 10"
+    },
+    {
+      "name": "DACKS DE146",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sgggJanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 309,000 tons",
+      "owner_company": "Mitsui O.S.K Lines (MOL)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2022 - 10"
+    }
+  ]
+}

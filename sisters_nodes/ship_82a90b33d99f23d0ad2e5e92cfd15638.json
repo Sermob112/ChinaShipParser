@@ -1,0 +1,62 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJBCanmkhTk8Pl4EN",
+  "ts": 1758644183,
+  "sisters": [
+    {
+      "name": "DACKS DE152",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCbBanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "name": "DACKS DE151",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCbCanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "name": "DACKS DE150",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCbsanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "name": "DACKS DE149",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCbSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "name": "DACKS DE148",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSCBganmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,188 teu",
+      "owner_company": "COSCO Shipping Lines (中远海集运)",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2023 - 01"
+    },
+    {
+      "name": "DACKS DE139",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJBSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 16,000 teu",
+      "owner_company": "OOCL",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2021 - 09"
+    },
+    {
+      "name": "DACKS DE138",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJBsanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 16,000 teu",
+      "owner_company": "OOCL",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2021 - 09"
+    }
+  ]
+}

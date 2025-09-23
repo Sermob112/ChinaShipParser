@@ -1,0 +1,54 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbsXanmkhTk8Pl4EN",
+  "ts": 1758643622,
+  "sisters": [
+    {
+      "name": "Guangzhou",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbCFanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,000 teu",
+      "owner_company": "Evergreen Marine Corp.",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2025 - 02"
+    },
+    {
+      "name": "Guangzhou",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbCbanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,000 teu",
+      "owner_company": "Evergreen Marine Corp.",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2025 - 02"
+    },
+    {
+      "name": "Guangzhou",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbCBanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,000 teu",
+      "owner_company": "Evergreen Marine Corp.",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2025 - 02"
+    },
+    {
+      "name": "Guangzhou",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccbCCanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 24,000 teu",
+      "owner_company": "Evergreen Marine Corp.",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2025 - 02"
+    },
+    {
+      "name": "Guangzhou 21110048",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccBFanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 16,520 teu",
+      "owner_company": "MSC",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2021 - 07"
+    },
+    {
+      "name": "MSC Gioia Tauro",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sccBXanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 16,520 teu",
+      "owner_company": "MSC",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2021 - 07"
+    }
+  ]
+}

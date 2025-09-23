@@ -8,9 +8,10 @@ from Parser.fleet_table_collector import FleetTableCollector
 # Подключаем вашу фабрику из прошлого ответа.
 
 from chromedriver_factory import ChromeDriverFactory  # <-- адаптируйте имя файла при необходимости
-from YardParser.yards_link_collector import YardsCollector
-from YardParser.yard_info_collector import ShipyardDetailsCollector
-from YardParser.Yard_order_collector import OrderbookCollectorManager
+from YardParser.yards_link_collector_1 import YardsCollector
+from YardParser.yard_info_collector_3 import ShipyardDetailsCollector
+from YardParser.Yard_order_collector_2 import OrderbookCollectorManager
+from YardParser.yard_recurser_link_catcher_4 import SisterGraphCrawler
 import json
 
 
@@ -37,6 +38,13 @@ YARDS_DETAILS_JSON = Path(__file__).with_name("shipyards_details.json")
 
 OUT_DIR_FOR_YARD_ORDERBOOK  = Path(__file__).parent / "orderbook"
 OUT_DIR_FOR_YARD_ORDERBOOK.mkdir(parents=True, exist_ok=True)
+
+
+ORDERBOOK_DIR = Path(__file__).parent / "orderbook"           # уже есть папка с 43 файлами
+SISTERS_DIR   = Path(__file__).parent / "sisters_nodes"       # сюда будем писать узлы
+SISTERS_DIR.mkdir(parents=True, exist_ok=True)
+DISCOVERED_TXT = Path(__file__).parent / "sisters_discovered.txt"
+
 # ==== вспомогательные коллбеки для Fleet ====
 def _save_rows_per_page(page_no: int, page_url: str, rows):
     safe_no = page_no if isinstance(page_no, int) and page_no > 0 else 0
@@ -215,16 +223,15 @@ def parse_args():
             "fleet_incremental",
             "yards_list",
             "yards_details",
-            "yards_orderbook",     # <-- ДОБАВЛЕНО
+            "yards_orderbook",
+            "sisters_crawl",   # <--- НОВОЕ
         ],
     )
-    p.add_argument("--max-pages", type=int, default=None)   # для fleet_incremental
-    p.add_argument("--dedupe", action="store_true")         # для yards_list
-
-    # флаги для yards_orderbook:
-    p.add_argument("--workers", type=int, default=4)
-    p.add_argument("--wait-sec", type=int, default=30)
-    p.add_argument("--reuse-profile", action="store_true")
+    p.add_argument("--max-pages", type=int, default=None)
+    p.add_argument("--dedupe", action="store_true")
+    p.add_argument("--workers", type=int, default=4)       # для orderbook/sisters
+    p.add_argument("--wait-sec", type=int, default=30)     # для orderbook/sisters
+    p.add_argument("--reuse-profile", action="store_true") # для orderbook/sisters
     return p.parse_args()
 
 
@@ -232,6 +239,17 @@ def task_yard_orderbook(workers: int, wait_sec: int, reuse_profile: bool):
     mgr = OrderbookCollectorManager(
         input_json=YARDS_LIST_JSON,
         out_dir=OUT_DIR_FOR_YARD_ORDERBOOK,
+        workers=workers,
+        wait_sec=wait_sec,
+        use_profile_clone=(not reuse_profile),
+    )
+    mgr.run()
+
+def task_sisters_crawl(workers: int, wait_sec: int, reuse_profile: bool):
+    mgr = SisterGraphCrawler(
+        orderbook_dir=ORDERBOOK_DIR,
+        out_nodes_dir=SISTERS_DIR,
+        discovered_file=DISCOVERED_TXT,
         workers=workers,
         wait_sec=wait_sec,
         use_profile_clone=(not reuse_profile),
@@ -251,7 +269,8 @@ def main():
         task_yards_details()
     elif args.task == "yards_orderbook":
         task_yard_orderbook(args.workers, args.wait_sec, args.reuse_profile)
-
+    elif args.task == "sisters_crawl":                     # <--- НОВОЕ
+        task_sisters_crawl(args.workers, args.wait_sec, args.reuse_profile)
     else:
         raise SystemExit("Неизвестная задача")
 

@@ -1,0 +1,38 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BJcJganmkhTk8Pl4EN",
+  "ts": 1758644280,
+  "sisters": [
+    {
+      "name": "Xinle XL-188",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcCSanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 9,500 tons",
+      "owner_company": "Vernon Shipping Ltd",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "name": "Xinle XL-211",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BJsSBanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 8,340 tons",
+      "owner_company": "Mila Ltd",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "name": "Mila",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BJSJJanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 8,340 tons",
+      "owner_company": "Mila Ltd",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "name": "Xinle XL-212",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BJcbbanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 8,340 tons",
+      "owner_company": "Mila Ltd",
+      "shipyard": "Xinle Shipyard",
+      "date_contract": "2024 - 03"
+    }
+  ]
+}

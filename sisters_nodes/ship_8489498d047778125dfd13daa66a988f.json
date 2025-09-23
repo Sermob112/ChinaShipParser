@@ -1,0 +1,22 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scccCanmkhTk8Pl4EN",
+  "ts": 1758644214,
+  "sisters": [
+    {
+      "name": "Seaboard Venture",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scccSanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 3,500 teu",
+      "owner_company": "Hartmann Schiffahrts",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2022 - 09"
+    },
+    {
+      "name": "Seaboard Viking",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scccsanmkhTk8Pl4EN",
+      "ship_type": "Container Ship, 3,500 teu",
+      "owner_company": "Hartmann Schiffahrts",
+      "shipyard": "Taizhou Sanfu Shipyard",
+      "date_contract": "2022 - 09"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbXFanmkhTk8Pl4EN",
+  "ts": 1758644166,
+  "sisters": [
+    {
+      "name": "DACKS DE169",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbgSbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "name": "DACKS DE168",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbXXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "name": "DACKS DE166",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbXCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Unknown",
+      "shipyard": "Dalian COSCO KHI (DACKS)",
+      "date_contract": "2024 - 03"
+    }
+  ]
+}

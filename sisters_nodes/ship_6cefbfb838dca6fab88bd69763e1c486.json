@@ -1,0 +1,30 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXXganmkhTk8Pl4EN",
+  "ts": 1758642897,
+  "sisters": [
+    {
+      "name": "Jinling JLZ9230453",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXXJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "Densay Shipping",
+      "shipyard": "China Merchants Jinling Shipyard",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "name": "CMJL JLZ9230452",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4XCcssanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "China Merchants Shipping (招商局能源运输)",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "name": "CMJL JLZ9230451",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4XCXccanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 82,000 tons",
+      "owner_company": "China Merchants Shipping (招商局能源运输)",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2023 - 12"
+    }
+  ]
+}

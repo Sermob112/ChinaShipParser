@@ -1,0 +1,22 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBFbganmkhTk8Pl4EN",
+  "ts": 1758643225,
+  "sisters": [
+    {
+      "name": "Xiangyu XY219",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBFbJanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 40,000 tons",
+      "owner_company": "Mi-Das Line SA",
+      "shipyard": "Nantong Xiangyu SOE",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "name": "Xiangyu XY217",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBFFSanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 40,000 tons",
+      "owner_company": "Mi-Das Line SA",
+      "shipyard": "Nantong Xiangyu SOE",
+      "date_contract": "2024 - 08"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBFcbanmkhTk8Pl4EN",
+  "ts": 1758642852,
+  "sisters": [
+    {
+      "name": "CMJL JLZ9240510",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBFcBanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 6,500 tons",
+      "owner_company": "Consort Bunkers Pte Ltd",
+      "shipyard": "China Merchants Jinling Shipyard",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "name": "CMJL JLZ9240509",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBFcCanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 6,500 tons",
+      "owner_company": "Consort Bunkers Pte Ltd",
+      "shipyard": "China Merchants Jinling Shipyard",
+      "date_contract": "2024 - 01"
+    },
+    {
+      "name": "CMJL JLZ9230516",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXbBJanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 6,500 tons",
+      "owner_company": "Consort Bunkers Pte Ltd",
+      "shipyard": "China Merchants Jinling Shipyard",
+      "date_contract": "2023 - 04"
+    }
+  ]
+}

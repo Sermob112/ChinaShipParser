@@ -1,0 +1,30 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJcXcanmkhTk8Pl4EN",
+  "ts": 1758644910,
+  "sisters": [
+    {
+      "name": "Huangpu Wenchong H2557",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJcJbanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 65,000 tons",
+      "owner_company": "Lemissoler Navigation",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2024 - 05"
+    },
+    {
+      "name": "Huangpu Wenchong H2556",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJcccanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 65,000 tons",
+      "owner_company": "Lemissoler Navigation",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2024 - 05"
+    },
+    {
+      "name": "Huangpu Wenchong H2555",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJccCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 65,000 tons",
+      "owner_company": "Lemissoler Navigation",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2024 - 05"
+    }
+  ]
+}

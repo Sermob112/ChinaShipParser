@@ -1,0 +1,86 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBCbcanmkhTk8Pl4EN",
+  "ts": 1758642841,
+  "sisters": [
+    {
+      "name": "Dalian G175K-15",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cscXganmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "Unknown",
+      "shipyard": "Dalian Shipyard (DSIC)",
+      "date_contract": "2024 - 07"
+    },
+    {
+      "name": "Dalian G175k-11",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFbFganmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "Wah Kwong Maritime",
+      "shipyard": "Dalian Shipyard (DSIC)",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "name": "Dalian G175K-14",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cscXJanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "Unknown",
+      "shipyard": "Dalian Shipyard (DSIC)",
+      "date_contract": "2024 - 07"
+    },
+    {
+      "name": "Dalian G175K-17",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcCSanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "COSCO Shipping Energy (中远海能源运输)",
+      "shipyard": "Dalian Shipyard (DSIC)",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "name": "Dalian G175K-16",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcsganmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "COSCO Shipping Energy (中远海能源运输)",
+      "shipyard": "Dalian Shipyard (DSIC)",
+      "date_contract": "2024 - 09"
+    },
+    {
+      "name": "Dalian G175K-13",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBBJanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "Wah Kwong Maritime",
+      "shipyard": "Dalian Shipbuilding HI (DSIC)",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "name": "Dalian G175K-10",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBCbJanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "Wah Kwong Maritime",
+      "shipyard": "Dalian Shipyard (DSIC)",
+      "date_contract": "2024 - 03"
+    },
+    {
+      "name": "Dalian G175K-8",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXSgCanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "China Merchants Shipping (招商局能源运输)",
+      "shipyard": "Dalian Shipbuilding HI (DSIC)",
+      "date_contract": "2023 - 03"
+    },
+    {
+      "name": "Dalian G175K-12",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBBganmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "Wah Kwong Maritime",
+      "shipyard": "Dalian Shipbuilding HI (DSIC)",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "name": "Dalian G175k-7",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXSgBanmkhTk8Pl4EN",
+      "ship_type": "LNG Tanker, 171,500 cbm",
+      "owner_company": "China Merchants Shipping (招商局能源运输)",
+      "shipyard": "Dalian Shipbuilding HI (DSIC)",
+      "date_contract": "2023 - 03"
+    }
+  ]
+}

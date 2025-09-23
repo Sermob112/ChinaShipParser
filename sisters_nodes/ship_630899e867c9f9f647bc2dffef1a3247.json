@@ -1,0 +1,30 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcgsanmkhTk8Pl4EN",
+  "ts": 1758643353,
+  "sisters": [
+    {
+      "name": "CMJL JLZ9240419",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcgbanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 25,900 tons",
+      "owner_company": "Eastern Pacific Shipping",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "CMJL JLZ9240418",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcgBanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 25,900 tons",
+      "owner_company": "Eastern Pacific Shipping",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2024 - 06"
+    },
+    {
+      "name": "CMJL JLZ9240417",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcgCanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 25,900 tons",
+      "owner_company": "Eastern Pacific Shipping Pte",
+      "shipyard": "China Merchants HI, Jinling",
+      "date_contract": "2024 - 06"
+    }
+  ]
+}
