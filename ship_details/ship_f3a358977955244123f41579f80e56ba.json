@@ -1,0 +1,175 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgBgSanmkhTk8Pl4EN",
+  "ts": 1758732402,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "GSI 23110064 (Under Construction)",
+          "value_html": "GSI 23110064 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Vehicles Carrier, 10,800 cars",
+          "value_html": "Vehicles Carrier, 10,800 cars",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1069106",
+          "value_html": "1069106",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Hyundai Glovis",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JJFJC\">Hyundai Glovis</a>",
+          "links": [
+            {
+              "text": "Hyundai Glovis",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JJFJC"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2028 - 09",
+          "value_html": "2028 - 09",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 12",
+          "value_html": "2023 - 12",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Liberia",
+          "value_html": "<img src=\"../images/flag_liberia.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Liberia",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "230 m",
+          "value_html": "230 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "225.5 m",
+          "value_html": "225.5 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "10.5 m",
+          "value_html": "10.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "40 m",
+          "value_html": "40 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "78,000 tons",
+          "value_html": "78,000 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "20,000 tons",
+          "value_html": "20,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Korean Register",
+          "value_html": "Korean Register",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 8S60ME-C10-GI , 2\n, IN-LINE,VERTICAL 8 Cy , 600 x 2400 , Mcr: 19920(27083) at 105 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 8S60ME-C10-GI , 2<br> , IN-LINE,VERTICAL 8 Cy , 600 x 2400 , Mcr: 19920(27083) at 105 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(105 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(105 rpm)",
+          "links": []
+        },
+        {
+          "key": "Roro Equipment",
+          "value_text": "Ramps: 1 Starboard Aft Ang Stern Door/Ramp\nRamps: 1 Starboard Side Door/Ramp",
+          "value_html": "Ramps: 1 Starboard Aft Ang Stern Door/Ramp<br>Ramps: 1 Starboard Side Door/Ramp<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Guangzhou Shipyard Intl. (GSI)",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFCanmkhTk8Pl4EN\">Guangzhou Shipyard Intl. (GSI)</a>",
+          "links": [
+            {
+              "text": "Guangzhou Shipyard Intl. (GSI)",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFCanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "23110064",
+          "value_html": "23110064",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-12-1",
+          "value_html": "2023-12-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

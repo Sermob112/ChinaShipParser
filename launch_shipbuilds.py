@@ -5,6 +5,7 @@ import argparse
 from LinkCatcher.shipbuilds_link_collector import ShipbuildsLinkCollector
 from LinkCatcher.shipbuild_items_collector import ShipbuildItemsCollector
 from Parser.fleet_table_collector import FleetTableCollector
+from YardParser.Yard_ship_details_collector import ShipDetailsCollectorManager
 # Подключаем вашу фабрику из прошлого ответа.
 
 from chromedriver_factory import ChromeDriverFactory  # <-- адаптируйте имя файла при необходимости
@@ -44,6 +45,13 @@ ORDERBOOK_DIR = Path(__file__).parent / "orderbook"           # уже есть 
 SISTERS_DIR   = Path(__file__).parent / "sisters_nodes"       # сюда будем писать узлы
 SISTERS_DIR.mkdir(parents=True, exist_ok=True)
 DISCOVERED_JSON = Path(__file__).parent / "sisters_discovered.json"
+
+
+
+SISTERS_JSON = Path(__file__).parent / "sisters_discovered.json"   # если у тебя JSON
+SISTERS_TXT  = Path(__file__).parent / "sisters_discovered.txt"    # запасной вариант
+SHIP_DETAILS_DIR = Path(__file__).parent / "ship_details"
+SHIP_DETAILS_DIR.mkdir(parents=True, exist_ok=True)
 
 # ==== вспомогательные коллбеки для Fleet ====
 def _save_rows_per_page(page_no: int, page_url: str, rows):
@@ -224,7 +232,9 @@ def parse_args():
             "yards_list",
             "yards_details",
             "yards_orderbook",
-            "sisters_crawl",   # <--- НОВОЕ
+            "sisters_crawl",   
+            "ship_details",
+            # <--- НОВОЕ
         ],
     )
     p.add_argument("--max-pages", type=int, default=None)
@@ -232,6 +242,9 @@ def parse_args():
     p.add_argument("--workers", type=int, default=4)       # для orderbook/sisters
     p.add_argument("--wait-sec", type=int, default=30)     # для orderbook/sisters
     p.add_argument("--reuse-profile", action="store_true") # для orderbook/sisters
+    p.add_argument("--login-wait", type=int, default=0,
+               help="Секунды на ручной логин перед стартом парсинга (ship_details). "
+                    "Если > 0 — задача выполнится в одном драйвере.")
     return p.parse_args()
 
 
@@ -255,6 +268,19 @@ def task_sisters_crawl(workers: int, wait_sec: int, reuse_profile: bool):
         use_profile_clone=(not reuse_profile),
     )
     mgr.run()
+
+def task_ship_details(workers: int, wait_sec: int, reuse_profile: bool, login_wait: int):
+    mgr = ShipDetailsCollectorManager(
+        input_json=SISTERS_JSON,
+        input_txt=SISTERS_TXT,
+        out_dir=SHIP_DETAILS_DIR,
+        workers=workers,
+        wait_sec=wait_sec,
+        use_profile_clone=(not reuse_profile),
+        login_wait_sec=login_wait,                          # <--- НОВОЕ
+        login_url_fallback="http://chinashipbuilding.cn/shipbuilds.aspx?nmkhTk8Pl4EN",
+    )
+    mgr.run()
 def main():
     args = parse_args()
     if args.task == "shipbuilds_categories":
@@ -271,6 +297,8 @@ def main():
         task_yard_orderbook(args.workers, args.wait_sec, args.reuse_profile)
     elif args.task == "sisters_crawl":                     # <--- НОВОЕ
         task_sisters_crawl(args.workers, args.wait_sec, args.reuse_profile)
+    elif args.task == "ship_details":
+        task_ship_details(args.workers, args.wait_sec, args.reuse_profile, args.login_wait)
     else:
         raise SystemExit("Неизвестная задача")
 

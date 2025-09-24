@@ -1,0 +1,164 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCcCSanmkhTk8Pl4EN",
+  "ts": 1758732393,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Xinle XL-188 (Under Construction)",
+          "value_html": "Xinle XL-188 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "General Cargo Ship, 9,500 tons",
+          "value_html": "General Cargo Ship, 9,500 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "9861550",
+          "value_html": "9861550",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Vernon Shipping Ltd",
+          "value_html": "Vernon Shipping Ltd",
+          "links": []
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2025 - 11",
+          "value_html": "2025 - 11",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 01",
+          "value_html": "2024 - 01",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Portugal (Mar)",
+          "value_html": "Portugal (Mar)",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "119.9 m",
+          "value_html": "119.9 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "117.7 m",
+          "value_html": "117.7 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "6.1 m",
+          "value_html": "6.1 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "20 m",
+          "value_html": "20 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "6,822 tons",
+          "value_html": "6,822 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "9,500 tons",
+          "value_html": "9,500 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Registro Italiano Navale",
+          "value_html": "Registro Italiano Navale",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: Daihatsu , Engine Builder: Daihatsu Diesel Manufacturing Co\nLt - Japan , 1 x UnKnown , 4 , IN-LINE,VERTICAL 6 Cy , Mcr: 4350(5914)",
+          "value_html": "Design: Daihatsu , Engine Builder: Daihatsu Diesel Manufacturing Co <br>Lt - Japan , 1 x UnKnown , 4 , IN-LINE,VERTICAL 6 Cy , Mcr: 4350(5914)",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Yes, Type Unknown",
+          "value_html": "Centre Or Only  Propeller : Yes, Type Unknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Xinle Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4JgSsganmkhTk8Pl4EN\">Xinle Shipyard</a>",
+          "links": [
+            {
+              "text": "Xinle Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4JgSsganmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "XL-188",
+          "value_html": "XL-188",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-1-1",
+          "value_html": "2024-1-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

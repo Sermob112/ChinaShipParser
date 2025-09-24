@@ -1,0 +1,170 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4bSXFCanmkhTk8Pl4EN",
+  "ts": 1758732382,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Sanfu SF230205 (Under Construction)",
+          "value_html": "Sanfu SF230205 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "General Cargo Ship, 14,300 tons",
+          "value_html": "General Cargo Ship, 14,300 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1067079",
+          "value_html": "1067079",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 04",
+          "value_html": "2026 - 04",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 10",
+          "value_html": "2023 - 10",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Antigua & Barbuda",
+          "value_html": "Antigua &amp; Barbuda",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "159.75 m",
+          "value_html": "159.75 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "152.75 m",
+          "value_html": "152.75 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "7.5 m",
+          "value_html": "7.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "22.8 m",
+          "value_html": "22.8 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "14,042 tons",
+          "value_html": "14,042 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "14,300 tons",
+          "value_html": "14,300 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Det Norske Veritas",
+          "value_html": "Det Norske Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 5G45ME-C9 , 2 ,\nIN-LINE,VERTICAL 5 Cy , 450 x 2250 , Mcr: 6950(9449) at 111 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 5G45ME-C9 , 2 , <br>IN-LINE,VERTICAL 5 Cy , 450 x 2250 , Mcr: 6950(9449) at 111 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(111 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(111 rpm)",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "2 Crane of 250 tonnes SWL",
+          "value_html": "2 Crane of 250 tonnes SWL<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Taizhou Sanfu Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN\">Taizhou Sanfu Shipyard</a>",
+          "links": [
+            {
+              "text": "Taizhou Sanfu Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "SF230205",
+          "value_html": "SF230205",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-10-1",
+          "value_html": "2023-10-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

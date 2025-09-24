@@ -1,0 +1,205 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBCCXanmkhTk8Pl4EN",
+  "ts": 1758732388,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "BBC Mumbai (Under Construction)",
+          "value_html": "BBC Mumbai (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "General Cargo Ship, 13,000 tons",
+          "value_html": "General Cargo Ship, 13,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1049625",
+          "value_html": "1049625",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Briese Schiffahrts",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4Xssg\">Briese Schiffahrts</a>",
+          "links": [
+            {
+              "text": "Briese Schiffahrts",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4Xssg"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 03",
+          "value_html": "2026 - 03",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 01",
+          "value_html": "2024 - 01",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Antigua & Barbuda",
+          "value_html": "Antigua &amp; Barbuda",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "149.95 m",
+          "value_html": "149.95 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "143.05 m",
+          "value_html": "143.05 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "8.5 m",
+          "value_html": "8.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "23.2 m",
+          "value_html": "23.2 m",
+          "links": []
+        },
+        {
+          "key": "Service Speed",
+          "value_text": "16.5 kn",
+          "value_html": "16.5 kn",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "15,629 tons",
+          "value_html": "15,629 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "13,000 tons",
+          "value_html": "13,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: 282 ; FuelType2: Residual Fuel , Capacity: 821\nBunkersDescriptive: Fuel: distillate fuel: 282 cu m, residual fuel: 821 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: 282 ; FuelType2: Residual Fuel , Capacity: 821<br>BunkersDescriptive: Fuel: distillate fuel: 282 cu m, residual fuel: 821 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Lloyd's Register",
+          "value_html": "Lloyd's Register",
+          "links": []
+        },
+        {
+          "key": "Class Notation",
+          "value_text": "Class contemplated",
+          "value_html": "Class contemplated",
+          "links": []
+        },
+        {
+          "key": "Class Inspection",
+          "value_text": "Special Survey Assigned 2025/11/01, Lloyd's Register\nDocking Survey Assigned 2025/11/01, Lloyd's Register",
+          "value_html": "Special Survey Assigned 2025/11/01, Lloyd's Register<br>Docking Survey Assigned 2025/11/01, Lloyd's Register",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: STX Heavy Industries Co Ltd -\nChangwon , 1 x 6G45ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 450 x 2250 , Mcr:\n6000(8158) at 94 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: STX Heavy Industries Co Ltd - <br>Changwon , 1 x 6G45ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 450 x 2250 , Mcr:<br> 6000(8158) at 94 rpm",
+          "links": []
+        },
+        {
+          "key": "Auxi Engine",
+          "value_text": "Design: Man , Engine Builder: Man , 3 x 5L23/30H , 4 5 Cy , 225 x 300 , Mcr: 615 kw",
+          "value_html": "Design: Man , Engine Builder: Man , 3 x 5L23/30H , 4 5 Cy , 225 x 300 , Mcr: 615 kw",
+          "links": []
+        },
+        {
+          "key": "Emergency Generator",
+          "value_text": "3 x 600kW a.c.",
+          "value_html": "3 x 600kW a.c.",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(94 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(94 rpm)",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "2 Crane of 250 tonnes SWL",
+          "value_html": "2 Crane of 250 tonnes SWL<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Taizhou Sanfu Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN\">Taizhou Sanfu Shipyard</a>",
+          "links": [
+            {
+              "text": "Taizhou Sanfu Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "SF130228",
+          "value_html": "SF130228",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-1-1",
+          "value_html": "2024-1-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}
