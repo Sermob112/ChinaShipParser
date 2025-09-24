@@ -1,0 +1,63 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFJSBanmkhTk8Pl4EN",
+  "origin_yard": "CSSC, Dalian Shipyard",
+  "ts": 1758716656,
+  "sisters": [
+    {
+      "name": "GSI 24110029",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBFJFanmkhTk8Pl4EN",
+      "ship_type": "Crude/Oil Products Tanker, 64,900 tons",
+      "owner_company": "Nanjing Tanker (招商局南油)",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2024 - 11"
+    },
+    {
+      "name": "GSI 24110028",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBFJXanmkhTk8Pl4EN",
+      "ship_type": "Crude/Oil Products Tanker, 64,900 tons",
+      "owner_company": "Nanjing Tanker (招商局南油)",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2024 - 11"
+    },
+    {
+      "name": "GSI 24110027",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBFJcanmkhTk8Pl4EN",
+      "ship_type": "Crude/Oil Products Tanker, 64,900 tons",
+      "owner_company": "Nanjing Tanker (招商局南油)",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2024 - 11"
+    },
+    {
+      "name": "Guangzhou",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBFJJanmkhTk8Pl4EN",
+      "ship_type": "Crude Oil Tanker, 65,000 tons",
+      "owner_company": "Nanjing Tanker (招商局南油)",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2024 - 11"
+    },
+    {
+      "name": "GSI 23110011",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFJSSanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 74,500 tons",
+      "owner_company": "Ocean Yield ASA",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2023 - 06"
+    },
+    {
+      "name": "GSI 23110010",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFJSsanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 74,500 tons",
+      "owner_company": "Ocean Yield ASA",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2023 - 06"
+    },
+    {
+      "name": "GSI 23110009",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFJSCanmkhTk8Pl4EN",
+      "ship_type": "Chemical/Products Tanker, 74,500 tons",
+      "owner_company": "Ocean Yield ASA",
+      "shipyard": "Guangzhou Shipyard Intl. (GSI)",
+      "date_contract": "2023 - 06"
+    }
+  ]
+}

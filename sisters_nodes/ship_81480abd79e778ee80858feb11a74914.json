@@ -1,0 +1,63 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFccganmkhTk8Pl4EN",
+  "origin_yard": "CSSC, Huangpu-Wenchong (Changzhou)",
+  "ts": 1758716554,
+  "sisters": [
+    {
+      "name": "Huangpu Wenchong H2527",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFcJCanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 85,000 tons",
+      "owner_company": "Sea Traders SA",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "name": "Huangpu Wenchong H2525",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFcJSanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 85,000 tons",
+      "owner_company": "Sea Traders SA",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "name": "Huangpu Wenchong H2526",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFcJsanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 85,000 tons",
+      "owner_company": "Sea Traders SA",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "name": "Huangpu Wenchong H2523",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFccJanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 85,000 tons",
+      "owner_company": "Sea Traders SA",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "name": "Huangpu Wenchong H2522",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFcccanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 85,000 tons",
+      "owner_company": "Sea Traders SA",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "name": "Huangpu Wenchong H2521",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFccXanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 85,000 tons",
+      "owner_company": "Sea Traders SA",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 08"
+    },
+    {
+      "name": "Huangpu Wenchong H2520",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFccFanmkhTk8Pl4EN",
+      "ship_type": "Bulk Carrier, 85,000 tons",
+      "owner_company": "Sea Traders SA",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 08"
+    }
+  ]
+}

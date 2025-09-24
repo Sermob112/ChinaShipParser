@@ -1,0 +1,87 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgFXganmkhTk8Pl4EN",
+  "origin_yard": "CSSC, Huangpu-Wenchong (Changzhou)",
+  "ts": 1758716464,
+  "sisters": [
+    {
+      "name": "Huangpu Wenchong H2546",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcbJanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 82,120 tons",
+      "owner_company": "Gearbulk Ltd",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "name": "Huangpu Wenchong H2545",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcbcanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 82,120 tons",
+      "owner_company": "Gearbulk Ltd",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2024 - 08"
+    },
+    {
+      "name": "Huangpu Wenchong H2515",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcbXanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 82,120 tons",
+      "owner_company": "Gearbulk Ltd",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "name": "Huangpu Wenchong H2514",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXcbFanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 82,120 tons",
+      "owner_company": "Gearbulk Ltd",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2024 - 04"
+    },
+    {
+      "name": "Huangpu Wenchong H2482",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBsJcanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 82,120 tons",
+      "owner_company": "Gearbulk Ltd",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "name": "Huangpu Wenchong H2481",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBsJXanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 82,120 tons",
+      "owner_company": "Gearbulk Ltd",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 12"
+    },
+    {
+      "name": "Guangzhou Wenchong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXBFSanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 82,300 tons",
+      "owner_company": "Grieg Star Shipping",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "name": "Guangzhou Wenchong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SXBbganmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 82,300 tons",
+      "owner_company": "Grieg Star Shipping",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 09"
+    },
+    {
+      "name": "Guangzhou Wenchong",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFBcFanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship, 82,300 tons",
+      "owner_company": "Grieg Star Shipping",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 05"
+    },
+    {
+      "name": "Huangpu Wenchong H2507",
+      "link": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgFJSanmkhTk8Pl4EN",
+      "ship_type": "General Cargo Ship (Open Hatch), 82,300 tons",
+      "owner_company": "Gearbulk Ltd",
+      "shipyard": "Huangpu-Wenchong Shipbuilding",
+      "date_contract": "2023 - 05"
+    }
+  ]
+}

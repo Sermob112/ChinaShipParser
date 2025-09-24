@@ -43,7 +43,7 @@ OUT_DIR_FOR_YARD_ORDERBOOK.mkdir(parents=True, exist_ok=True)
 ORDERBOOK_DIR = Path(__file__).parent / "orderbook"           # уже есть папка с 43 файлами
 SISTERS_DIR   = Path(__file__).parent / "sisters_nodes"       # сюда будем писать узлы
 SISTERS_DIR.mkdir(parents=True, exist_ok=True)
-DISCOVERED_TXT = Path(__file__).parent / "sisters_discovered.txt"
+DISCOVERED_JSON = Path(__file__).parent / "sisters_discovered.json"
 
 # ==== вспомогательные коллбеки для Fleet ====
 def _save_rows_per_page(page_no: int, page_url: str, rows):
@@ -249,7 +249,7 @@ def task_sisters_crawl(workers: int, wait_sec: int, reuse_profile: bool):
     mgr = SisterGraphCrawler(
         orderbook_dir=ORDERBOOK_DIR,
         out_nodes_dir=SISTERS_DIR,
-        discovered_file=DISCOVERED_TXT,
+        discovered_file_jsonl=DISCOVERED_JSON,
         workers=workers,
         wait_sec=wait_sec,
         use_profile_clone=(not reuse_profile),
