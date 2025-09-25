@@ -1,0 +1,165 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSsccanmkhTk8Pl4EN",
+  "ts": 1758808741,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Southeast DN517-11 (Under Construction)",
+          "value_html": "Southeast DN517-11 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Chemical/Products Tanker, 18,500 tons",
+          "value_html": "Chemical/Products Tanker, 18,500 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1080916",
+          "value_html": "1080916",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 01",
+          "value_html": "2027 - 01",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 01",
+          "value_html": "2024 - 01",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "-",
+          "value_html": "-",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "149.8 m",
+          "value_html": "149.8 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "140.8 m",
+          "value_html": "140.8 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "9.5 m",
+          "value_html": "9.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "22.8 m",
+          "value_html": "22.8 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "11,861 tons",
+          "value_html": "11,861 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "18,500 tons",
+          "value_html": "18,500 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "China Classification Society",
+          "value_html": "China Classification Society",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: Yichang Marine Diesel Engine\nCo Ltd - China , 1 x 6S40ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 400 x 1770 ,\nMcr: 3900(5302)",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: Yichang Marine Diesel Engine <br>Co Ltd - China , 1 x 6S40ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 400 x 1770 ,<br> Mcr: 3900(5302)",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Fujian Southeast Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcJCanmkhTk8Pl4EN\">Fujian Southeast Shipbuilding</a>",
+          "links": [
+            {
+              "text": "Fujian Southeast Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcJCanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "DN517-11",
+          "value_html": "DN517-11",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-1-1",
+          "value_html": "2024-1-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Dayang Offshore"
+}

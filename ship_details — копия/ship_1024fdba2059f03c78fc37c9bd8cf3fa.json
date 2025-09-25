@@ -1,0 +1,163 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbSJJanmkhTk8Pl4EN",
+  "ts": 1758801567,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Hudong-Zhonghua H1936A (Under Construction)",
+          "value_html": "Hudong-Zhonghua H1936A (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Container Ship, 13,000 teu",
+          "value_html": "Container Ship, 13,000 teu",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1081867",
+          "value_html": "1081867",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Pacific International Lines (PIL)",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4XXXF\">Pacific International Lines (PIL)</a>",
+          "links": [
+            {
+              "text": "Pacific International Lines (PIL)",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4XXXF"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 10",
+          "value_html": "2027 - 10",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 08",
+          "value_html": "2024 - 08",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Singapore",
+          "value_html": "<img src=\"../images/flag_singapore.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Singapore",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "335 m",
+          "value_html": "335 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "51 m",
+          "value_html": "51 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "131,423 tons",
+          "value_html": "131,423 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "140,000 tons",
+          "value_html": "140,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: LNG , Capacity: 12000 ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: LNG: 12,000 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: LNG , Capacity: 12000 ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: LNG: 12,000 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Lloyd's Register",
+          "value_html": "Lloyd's Register",
+          "links": []
+        },
+        {
+          "key": "Class Notation",
+          "value_text": "Class contemplated",
+          "value_html": "Class contemplated",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: WinGD , Engine Builder: CSSC-MES Diesel Co Ltd - China , 1 x 8X92DF-2.0 , YES,BUT ARRANGEMENT UNKNOWN",
+          "value_html": "Design: WinGD , Engine Builder: CSSC-MES Diesel Co Ltd - China , 1 x 8X92DF-2.0 , YES,BUT ARRANGEMENT UNKNOWN",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(80 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(80 rpm)",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Hudong-Zhonghua Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFXanmkhTk8Pl4EN\">Hudong-Zhonghua Shipbuilding</a>",
+          "links": [
+            {
+              "text": "Hudong-Zhonghua Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFXanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "H1936A",
+          "value_html": "H1936A",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-8-15",
+          "value_html": "2024-8-15",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

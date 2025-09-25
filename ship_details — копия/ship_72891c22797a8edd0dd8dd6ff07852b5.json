@@ -1,0 +1,175 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbsBbanmkhTk8Pl4EN",
+  "ts": 1758801045,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Hantong HT64-330 (Under Construction)",
+          "value_html": "Hantong HT64-330 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 63,500 tons",
+          "value_html": "Bulk Carrier, 63,500 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1042940",
+          "value_html": "1042940",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Atlantic Lloyd",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4XgXc\">Atlantic Lloyd</a>",
+          "links": [
+            {
+              "text": "Atlantic Lloyd",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4XgXc"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 03",
+          "value_html": "2026 - 03",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 06",
+          "value_html": "2023 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Singapore",
+          "value_html": "<img src=\"../images/flag_singapore.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Singapore",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "196.5 m",
+          "value_html": "196.5 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "13.5 m",
+          "value_html": "13.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.26 m",
+          "value_html": "32.26 m",
+          "links": []
+        },
+        {
+          "key": "Service Speed",
+          "value_text": "13.5 kn",
+          "value_html": "13.5 kn",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "35600 tons",
+          "value_html": "35600 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "63500 tons",
+          "value_html": "63500 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: 240 ; FuelType2: Residual Fuel , Capacity: 2050\nBunkersDescriptive: Fuel: distillate fuel: 240 cu m, residual fuel: 2,050 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: 240 ; FuelType2: Residual Fuel , Capacity: 2050<br>BunkersDescriptive: Fuel: distillate fuel: 240 cu m, residual fuel: 2,050 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: Hudong Heavy Machinery Co Ltd - China , 1 x 6S50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 7300(9925) at 88 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: Hudong Heavy Machinery Co Ltd - China , 1 x 6S50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 7300(9925) at 88 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(88 rpm)",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch(88 rpm)",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "4 Crane of 35 tonnes SWL",
+          "value_html": "4 Crane of 35 tonnes SWL",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "HT64-330",
+          "value_html": "HT64-330",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-6-1",
+          "value_html": "2023-6-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

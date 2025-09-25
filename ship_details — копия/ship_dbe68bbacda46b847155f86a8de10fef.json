@@ -1,0 +1,93 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbJSanmkhTk8Pl4EN",
+  "ts": 1758801062,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Hantong HT82-382 (Under Construction)",
+          "value_html": "Hantong HT82-382 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 82,000 tons",
+          "value_html": "Bulk Carrier, 82,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1059852",
+          "value_html": "1059852",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Oldendorff Carriers",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4cXbB\">Oldendorff Carriers</a>",
+          "links": [
+            {
+              "text": "Oldendorff Carriers",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4cXbB"
+            }
+          ]
+        },
+        {
+          "key": "Shipyard:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 09",
+          "value_html": "2027 - 09",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 03",
+          "value_html": "2024 - 03",
+          "links": []
+        },
+        {
+          "key": "Flag:",
+          "value_text": "Liberia",
+          "value_html": "<img src=\"images/flag_liberia.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Liberia",
+          "links": []
+        },
+        {
+          "key": "Classification:",
+          "value_text": "Lloyd's Register",
+          "value_html": "Lloyd's Register",
+          "links": []
+        },
+        {
+          "key": "Main Dimension:",
+          "value_text": "Length Overall: 229.00 m, Length between perp.: 225.50 m, Beam: 32.26 m, Draught: 14.50 m, Dead Weight: 82,000 tons",
+          "value_html": "Length Overall: 229.00 m, Length between perp.: 225.50 m, Beam: 32.26 m, Draught: 14.50 m, Dead Weight:\t82,000 tons",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_login",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

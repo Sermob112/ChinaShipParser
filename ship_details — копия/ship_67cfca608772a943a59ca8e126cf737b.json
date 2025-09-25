@@ -1,0 +1,181 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFccFanmkhTk8Pl4EN",
+  "ts": 1758801412,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Huangpu Wenchong H2520 (Under Construction)",
+          "value_html": "Huangpu Wenchong H2520 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 85,000 tons",
+          "value_html": "Bulk Carrier, 85,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1047641",
+          "value_html": "1047641",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Sea Traders SA",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JFbXb\">Sea Traders SA</a>",
+          "links": [
+            {
+              "text": "Sea Traders SA",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JFbXb"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2025 - 09",
+          "value_html": "2025 - 09",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 08",
+          "value_html": "2023 - 08",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Malta",
+          "value_html": "<img src=\"../images/flag_malta.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Malta",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "225 m",
+          "value_html": "225 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "14 m",
+          "value_html": "14 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "36 m",
+          "value_html": "36 m",
+          "links": []
+        },
+        {
+          "key": "Service Speed",
+          "value_text": "14 kn",
+          "value_html": "14 kn",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "46600 tons",
+          "value_html": "46600 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "85000 tons",
+          "value_html": "85000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Bureau Veritas",
+          "value_html": "Bureau Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: Hudong Heavy Machinery Co Ltd - China , 1 x 6S60ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 600 x 2400 , Mcr: 14940(20312) at 105 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: Hudong Heavy Machinery Co Ltd - China , 1 x 6S60ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 600 x 2400 , Mcr: 14940(20312) at 105 rpm",
+          "links": []
+        },
+        {
+          "key": "Auxi Engine",
+          "value_text": "Design: Yanmar , Engine Builder: Yanmar , 3 x 6EY21ALW , 4 6 Cy , 210 x 290 , Mcr: 1020 kw",
+          "value_html": "Design: Yanmar , Engine Builder: Yanmar , 3 x 6EY21ALW , 4 6 Cy , 210 x 290 , Mcr: 1020 kw",
+          "links": []
+        },
+        {
+          "key": "Emergency Generator",
+          "value_text": "3 x 1,000kW a.c.",
+          "value_html": "3 x 1,000kW a.c.",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(105 rpm)",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch(105 rpm)",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Huangpu-Wenchong Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csbganmkhTk8Pl4EN\">Huangpu-Wenchong Shipbuilding</a>",
+          "links": [
+            {
+              "text": "Huangpu-Wenchong Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csbganmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "H2520",
+          "value_html": "H2520",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-8-2",
+          "value_html": "2023-8-2",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

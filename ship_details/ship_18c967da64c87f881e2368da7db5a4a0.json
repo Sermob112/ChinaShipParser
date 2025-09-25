@@ -1,0 +1,159 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXJXanmkhTk8Pl4EN",
+  "ts": 1758809120,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Sanfu SF240801 (Under Construction)",
+          "value_html": "Sanfu SF240801 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Stone Carrier, 21,000 tons",
+          "value_html": "Stone Carrier, 21,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1102221",
+          "value_html": "1102221",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 08",
+          "value_html": "2026 - 08",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 09",
+          "value_html": "2024 - 09",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Netherlands",
+          "value_html": "<img src=\"../images/flag_netherlands.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Netherlands",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "166.8 m",
+          "value_html": "166.8 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "163.2 m",
+          "value_html": "163.2 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "6.2 m",
+          "value_html": "6.2 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "15,907 tons",
+          "value_html": "15,907 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "21,000 tons",
+          "value_html": "21,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Bureau Veritas",
+          "value_html": "Bureau Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: Hyundai Himsen , Engine Builder: UnKnown , 4 x 6H32DF , YES,BUT ARRANGEMENT UNKNOWN",
+          "value_html": "Design: Hyundai Himsen , Engine Builder: UnKnown , 4 x 6H32DF , YES,BUT ARRANGEMENT UNKNOWN",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Port Propeller : Yes, Type Unknown\nStarboard Propeller : Yes, Type Unknown",
+          "value_html": "Port  Propeller : Yes, Type Unknown<br>Starboard  Propeller : Yes, Type Unknown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Taizhou Sanfu Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN\">Taizhou Sanfu Shipyard</a>",
+          "links": [
+            {
+              "text": "Taizhou Sanfu Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "SF240801",
+          "value_html": "SF240801",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-9-1",
+          "value_html": "2024-9-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "South China Shipyard"
+}

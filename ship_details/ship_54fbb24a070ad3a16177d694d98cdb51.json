@@ -1,0 +1,170 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgbFSanmkhTk8Pl4EN",
+  "ts": 1758808631,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "CMJL JLZ9230446 (Under Construction)",
+          "value_html": "CMJL JLZ9230446 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Vehicles Carrier",
+          "value_html": "Vehicles Carrier",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1062419",
+          "value_html": "1062419",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "China Merchants RoRo (招商滚装)",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JsgFB\">China Merchants RoRo (招商滚装)</a>",
+          "links": [
+            {
+              "text": "China Merchants RoRo (招商滚装)",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JsgFB"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 10",
+          "value_html": "2026 - 10",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 04",
+          "value_html": "2024 - 04",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Hong Kong, China",
+          "value_html": "Hong Kong, China",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "199.99 m",
+          "value_html": "199.99 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "196.3 m",
+          "value_html": "196.3 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "37.7 m",
+          "value_html": "37.7 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "76,400 tons",
+          "value_html": "76,400 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "14,600 tons",
+          "value_html": "14,600 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Lloyd's Register",
+          "value_html": "Lloyd's Register",
+          "links": []
+        },
+        {
+          "key": "Class Notation",
+          "value_text": "class contemplated",
+          "value_html": "class contemplated",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 7S60ME-C10-LGIM ,\n2 , IN-LINE,VERTICAL 7 Cy , 600 x 2400 , Mcr: 17430(23698) at 105 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 7S60ME-C10-LGIM ,<br> 2 , IN-LINE,VERTICAL 7 Cy , 600 x 2400 , Mcr: 17430(23698) at 105 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "China Merchants HI, Jinling",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4JgSsbanmkhTk8Pl4EN\">China Merchants HI, Jinling</a>",
+          "links": [
+            {
+              "text": "China Merchants HI, Jinling",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4JgSsbanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "JLZ9230446",
+          "value_html": "JLZ9230446",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-4-1",
+          "value_html": "2024-4-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Jiangsu Zhenjiang Shipyard"
+}

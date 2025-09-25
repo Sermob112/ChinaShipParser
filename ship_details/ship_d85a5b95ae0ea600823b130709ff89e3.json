@@ -1,0 +1,176 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sCCJbanmkhTk8Pl4EN",
+  "ts": 1758809251,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "GSI 24110020 (Under Construction)",
+          "value_html": "GSI 24110020 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Crude/Oil Products Tanker, 111,000 tons",
+          "value_html": "Crude/Oil Products Tanker, 111,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1071458",
+          "value_html": "1071458",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Eastern Pacific Shipping",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4XbJB\">Eastern Pacific Shipping</a>",
+          "links": [
+            {
+              "text": "Eastern Pacific Shipping",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4XbJB"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2028 - 01",
+          "value_html": "2028 - 01",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 06",
+          "value_html": "2024 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Liberia",
+          "value_html": "<img src=\"../images/flag_liberia.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Liberia",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "250 m",
+          "value_html": "250 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "245.5 m",
+          "value_html": "245.5 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "14.7 m",
+          "value_html": "14.7 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "44 m",
+          "value_html": "44 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "64,145 tons",
+          "value_html": "64,145 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "111,000 tons",
+          "value_html": "111,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 6G60ME-C10-GI , 2\n, IN-LINE,VERTICAL 6 Cy , 600 x 2790 , Mcr: 17040(23168) at 103 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 6G60ME-C10-GI , 2<br> , IN-LINE,VERTICAL 6 Cy , 600 x 2790 , Mcr: 17040(23168) at 103 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(103 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(103 rpm)",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "Cargo Pumps 3 @ 0 M3/hr",
+          "value_html": "Cargo Pumps 3 @ 0 M3/hr<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Guangzhou Shipyard Intl. (GSI)",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFCanmkhTk8Pl4EN\">Guangzhou Shipyard Intl. (GSI)</a>",
+          "links": [
+            {
+              "text": "Guangzhou Shipyard Intl. (GSI)",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFCanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "24110020",
+          "value_html": "24110020",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-6-4",
+          "value_html": "2024-6-4",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "CSSC, Dalian Shipyard"
+}

@@ -1,0 +1,171 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csbCSanmkhTk8Pl4EN",
+  "ts": 1758808668,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Hantong HT64-363 (Under Construction)",
+          "value_html": "Hantong HT64-363 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 63,500 tons",
+          "value_html": "Bulk Carrier, 63,500 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1091185",
+          "value_html": "1091185",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 03",
+          "value_html": "2026 - 03",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 10",
+          "value_html": "2024 - 10",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Croatia",
+          "value_html": "Croatia",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "199.9 m",
+          "value_html": "199.9 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "196.5 m",
+          "value_html": "196.5 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "13.5 m",
+          "value_html": "13.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.26 m",
+          "value_html": "32.26 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "35,600 tons",
+          "value_html": "35,600 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "63,500 tons",
+          "value_html": "63,500 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: 340 ; FuelType2: Residual Fuel , Capacity: 1610\nBunkersDescriptive: Fuel: distillate fuel: 340 cu m, residual fuel: 1,610 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: 340 ; FuelType2: Residual Fuel , Capacity: 1610<br>BunkersDescriptive: Fuel: distillate fuel: 340 cu m, residual fuel: 1,610 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Bureau Veritas",
+          "value_html": "Bureau Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: Hudong Heavy Machinery Co Ltd -\nChina , 1 x 6G50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2500 , Mcr:\n10320(14031) at 100 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: Hudong Heavy Machinery Co Ltd -<br> China , 1 x 6G50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2500 , Mcr: <br>10320(14031) at 100 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "4 Crane of 30 tonnes SWL",
+          "value_html": "4 Crane of 30 tonnes SWL<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "HT64-363",
+          "value_html": "HT64-363",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-10-1",
+          "value_html": "2024-10-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Guangxin Shipbuilding HI"
+}

@@ -1,0 +1,169 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFccBanmkhTk8Pl4EN",
+  "ts": 1758800944,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Chengxi CX0826 (Under Construction)",
+          "value_html": "Chengxi CX0826 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 82,600 tons",
+          "value_html": "Bulk Carrier, 82,600 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1050167",
+          "value_html": "1050167",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Cardiff Marine Inc.",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JgXB\">Cardiff Marine Inc.</a>",
+          "links": [
+            {
+              "text": "Cardiff Marine Inc.",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JgXB"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2025 - 04",
+          "value_html": "2025 - 04",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 01",
+          "value_html": "2023 - 01",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Malta",
+          "value_html": "<img src=\"../images/flag_malta.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Malta",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "225.4 m",
+          "value_html": "225.4 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "14.45 m",
+          "value_html": "14.45 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.26 m",
+          "value_html": "32.26 m",
+          "links": []
+        },
+        {
+          "key": "Service Speed",
+          "value_text": "14.3 kn",
+          "value_html": "14.3 kn",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "44600 tons",
+          "value_html": "44600 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "82600 tons",
+          "value_html": "82600 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "China Classification Society",
+          "value_html": "China Classification Society",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: Hudong Heavy Machinery Co Ltd - China , 1 x 6S50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 10680(14521) at 117 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: Hudong Heavy Machinery Co Ltd - China , 1 x 6S50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 10680(14521) at 117 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(117 rpm)",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch(117 rpm)",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Chengxi Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN\">Chengxi Shipyard</a>",
+          "links": [
+            {
+              "text": "Chengxi Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "CX0826",
+          "value_html": "CX0826",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-1-1",
+          "value_html": "2023-1-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

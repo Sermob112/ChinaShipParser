@@ -1,0 +1,182 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scccsanmkhTk8Pl4EN",
+  "ts": 1758809280,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Seaboard Viking (Under Construction)",
+          "value_html": "Seaboard Viking (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Container Ship, 3,500 teu",
+          "value_html": "Container Ship, 3,500 teu",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "9981752",
+          "value_html": "9981752",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Hartmann Schiffahrts",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4cScCS\">Hartmann Schiffahrts</a>",
+          "links": [
+            {
+              "text": "Hartmann Schiffahrts",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4cScCS"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2025 - 10",
+          "value_html": "2025 - 10",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2022 - 09",
+          "value_html": "2022 - 09",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Liberia",
+          "value_html": "<img src=\"../images/flag_liberia.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Liberia",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "236 m",
+          "value_html": "236 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "12.5 m",
+          "value_html": "12.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "35.2 m",
+          "value_html": "35.2 m",
+          "links": []
+        },
+        {
+          "key": "Service Speed",
+          "value_text": "19.5 kn",
+          "value_html": "19.5 kn",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "29000 tons",
+          "value_html": "29000 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "50000 tons",
+          "value_html": "50000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Det Norske Veritas",
+          "value_html": "Det Norske Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 7S70ME-C10-GI , 2 , IN-LINE,VERTICAL 7 Cy , 700 x 2800 , Mcr: 24010(32644) at 91 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 7S70ME-C10-GI , 2 , IN-LINE,VERTICAL 7 Cy , 700 x 2800 , Mcr: 24010(32644) at 91 rpm",
+          "links": []
+        },
+        {
+          "key": "Auxi Engine",
+          "value_text": "Design: Man , Engine Builder: Man , 2 x 6L32/40 , 4 6 Cy , 320 x 400 , Mcr: 3000 kw\nDesign: Man , Engine Builder: Man , 1 x 8L23/30DF , 4 8 Cy , 225 x 300 , Mcr: 1200 kw",
+          "value_html": "Design: Man , Engine Builder: Man , 2 x 6L32/40 , 4 6 Cy , 320 x 400 , Mcr: 3000 kw<br>Design: Man , Engine Builder: Man , 1 x 8L23/30DF , 4 8 Cy , 225 x 300 , Mcr: 1200 kw",
+          "links": []
+        },
+        {
+          "key": "Emergency Generator",
+          "value_text": "2 x 2,700kW a.c., 1 x 1,080kW a.c.",
+          "value_html": "2 x 2,700kW a.c., 1 x 1,080kW a.c.",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(91 rpm)",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch(91 rpm)",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Taizhou Sanfu Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN\">Taizhou Sanfu Shipyard</a>",
+          "links": [
+            {
+              "text": "Taizhou Sanfu Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "SF210305",
+          "value_html": "SF210305",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2022-9-1",
+          "value_html": "2022-9-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "South China Shipyard"
+}

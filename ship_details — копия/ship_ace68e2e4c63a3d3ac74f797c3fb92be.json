@@ -1,0 +1,169 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJJssanmkhTk8Pl4EN",
+  "ts": 1758801027,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "New Dayang (Under Construction)",
+          "value_html": "New Dayang (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "General Cargo Ship, 3,800 tons",
+          "value_html": "General Cargo Ship, 3,800 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1028578",
+          "value_html": "1028578",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Vega Reederei",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4cSJF\">Vega Reederei</a>",
+          "links": [
+            {
+              "text": "Vega Reederei",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4cSJF"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2025 - 04",
+          "value_html": "2025 - 04",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 08",
+          "value_html": "2023 - 08",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "-",
+          "value_html": "-",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "89.43 m",
+          "value_html": "89.43 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "84.19 m",
+          "value_html": "84.19 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "4.3 m",
+          "value_html": "4.3 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "13.2 m",
+          "value_html": "13.2 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "2,750 tons",
+          "value_html": "2,750 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "3,800 tons",
+          "value_html": "3,800 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        },
+        {
+          "key": "Thruster",
+          "value_text": "1 Tunnel thruster Forward",
+          "value_html": "1  Tunnel thruster  Forward",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "New Dayang Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcFXanmkhTk8Pl4EN\">New Dayang Shipbuilding</a>",
+          "links": [
+            {
+              "text": "New Dayang Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcFXanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-8-1",
+          "value_html": "2023-8-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

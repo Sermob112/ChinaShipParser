@@ -1,0 +1,158 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFJsanmkhTk8Pl4EN",
+  "ts": 1758809073,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Hantong HT319-375 (Under Construction)",
+          "value_html": "Hantong HT319-375 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Crude Oil Tanker, 319,000 tons",
+          "value_html": "Crude Oil Tanker, 319,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1094254",
+          "value_html": "1094254",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Trafigura Ltd",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4XbXs\">Trafigura Ltd</a>",
+          "links": [
+            {
+              "text": "Trafigura Ltd",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4XbXs"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 07",
+          "value_html": "2027 - 07",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 06",
+          "value_html": "2024 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Marshall Islands",
+          "value_html": "<img src=\"../images/flag_marshall.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Marshall Islands",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "333 m",
+          "value_html": "333 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "60 m",
+          "value_html": "60 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "166,259 tons",
+          "value_html": "166,259 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "319,000 tons",
+          "value_html": "319,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: CSSC-MES Diesel Co Ltd - China\n, 1 x 6G80ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 800 x 3720 , Mcr:\n28260(38422) at 72 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: CSSC-MES Diesel Co Ltd - China<br> , 1 x 6G80ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 800 x 3720 , Mcr: <br>28260(38422) at 72 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(72 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(72 rpm)",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "HT319-375",
+          "value_html": "HT319-375",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-6-1",
+          "value_html": "2024-6-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Guangxin Shipbuilding HI"
+}

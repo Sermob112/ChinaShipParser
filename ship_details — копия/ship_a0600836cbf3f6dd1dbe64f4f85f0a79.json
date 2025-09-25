@@ -1,0 +1,163 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4scJbbanmkhTk8Pl4EN",
+  "ts": 1758801288,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Huangpu Wenchong H2457 (Under Construction)",
+          "value_html": "Huangpu Wenchong H2457 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Container Ship, 2,300 teu",
+          "value_html": "Container Ship, 2,300 teu",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "9950882",
+          "value_html": "9950882",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Evergreen Marine Corp.",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4scFX\">Evergreen Marine Corp.</a>",
+          "links": [
+            {
+              "text": "Evergreen Marine Corp.",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4scFX"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 05",
+          "value_html": "2026 - 05",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2021 - 09",
+          "value_html": "2021 - 09",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Singapore",
+          "value_html": "<img src=\"../images/flag_singapore.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Singapore",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "168.8 m",
+          "value_html": "168.8 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "9 m",
+          "value_html": "9 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.2 m",
+          "value_html": "32.2 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "25985 tons",
+          "value_html": "25985 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "22200 tons",
+          "value_html": "22200 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: Hudong Heavy Machinery Co Ltd - China , 1 x 6G60ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 600 x 2790 , Mcr: 14737(20036)",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: Hudong Heavy Machinery Co Ltd - China , 1 x 6G60ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 600 x 2790 , Mcr: 14737(20036)",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Huangpu-Wenchong Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csbganmkhTk8Pl4EN\">Huangpu-Wenchong Shipbuilding</a>",
+          "links": [
+            {
+              "text": "Huangpu-Wenchong Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csbganmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "H2457",
+          "value_html": "H2457",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2021-9-1",
+          "value_html": "2021-9-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

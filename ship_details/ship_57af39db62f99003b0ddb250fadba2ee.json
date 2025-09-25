@@ -1,0 +1,164 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBXgSanmkhTk8Pl4EN",
+  "ts": 1758809121,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Chengxi CX9407 (Under Construction)",
+          "value_html": "Chengxi CX9407 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, Self-Discharging, 41,800 ton",
+          "value_html": "Bulk Carrier, Self-Discharging, 41,800 ton",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1080320",
+          "value_html": "1080320",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Rio Tinto Marine",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4XbJS\">Rio Tinto Marine</a>",
+          "links": [
+            {
+              "text": "Rio Tinto Marine",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4XbJS"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 09",
+          "value_html": "2026 - 09",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 12",
+          "value_html": "2023 - 12",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Liberia",
+          "value_html": "<img src=\"../images/flag_liberia.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Liberia",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "215 m",
+          "value_html": "215 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "7.5 m",
+          "value_html": "7.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "42 m",
+          "value_html": "42 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "44,797 tons",
+          "value_html": "44,797 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "70,000 tons",
+          "value_html": "70,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Det Norske Veritas",
+          "value_html": "Det Norske Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN , Engine Builder: UnKnown , 4 x 7L32/40 , 4 , IN-LINE,VERTICAL 7 Cy , 320 x 400 , Mcr: 3500(4759) at 750 rpm",
+          "value_html": "Design: MAN , Engine Builder: UnKnown , 4 x 7L32/40 , 4 , IN-LINE,VERTICAL 7 Cy , 320 x 400 , Mcr: 3500(4759) at 750 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "First Propeller : Azimuth Elec Dr\nSecond Propeller : Azimuth Elec Dr\nThird Propeller : Azimuth Elec Dr\nFourth Propeller : Azimuth Elec Dr\nFifth Propeller : Azimuth Elec Dr",
+          "value_html": "First  Propeller : Azimuth Elec Dr<br>Second  Propeller : Azimuth Elec Dr<br>Third  Propeller : Azimuth Elec Dr<br>Fourth  Propeller : Azimuth Elec Dr<br>Fifth  Propeller : Azimuth Elec Dr<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Chengxi Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN\">Chengxi Shipyard</a>",
+          "links": [
+            {
+              "text": "Chengxi Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "CX9407",
+          "value_html": "CX9407",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-12-1",
+          "value_html": "2023-12-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "CSSC, Chengxi Shipyard"
+}

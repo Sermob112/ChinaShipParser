@@ -1,0 +1,164 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFgXJanmkhTk8Pl4EN",
+  "ts": 1758808878,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Huangpu-Wenchong H2513 (Under Construction)",
+          "value_html": "Huangpu-Wenchong H2513 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Container Ship, 1,250 teu",
+          "value_html": "Container Ship, 1,250 teu",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1020667",
+          "value_html": "1020667",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Sea Consortium",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4XgCC\">Sea Consortium</a>",
+          "links": [
+            {
+              "text": "Sea Consortium",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4XgCC"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 05",
+          "value_html": "2026 - 05",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 06",
+          "value_html": "2023 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Malta",
+          "value_html": "<img src=\"../images/flag_malta.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Malta",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "145.2 m",
+          "value_html": "145.2 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "8.1 m",
+          "value_html": "8.1 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "27.2 m",
+          "value_html": "27.2 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "14,780 tons",
+          "value_html": "14,780 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "14,000 tons",
+          "value_html": "14,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Methanol , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: methanol: 0 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: Methanol , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: methanol: 0 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: China Shipbuilding Industry Co\nDiesel Engine Co Ltd , 1 x 5S50ME-C9-LGIM , 2 , IN-LINE,VERTICAL 5 Cy ,\n500 x 2214 , Mcr: 6650(9041)",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: China Shipbuilding Industry Co<br> Diesel Engine Co Ltd , 1 x 5S50ME-C9-LGIM , 2 , IN-LINE,VERTICAL 5 Cy ,<br> 500 x 2214 , Mcr: 6650(9041)",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Huangpu-Wenchong Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csbganmkhTk8Pl4EN\">Huangpu-Wenchong Shipbuilding</a>",
+          "links": [
+            {
+              "text": "Huangpu-Wenchong Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csbganmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "H2513",
+          "value_html": "H2513",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-6-1",
+          "value_html": "2023-6-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "CSSC, Huangpu-Wenchong (Changzhou)"
+}

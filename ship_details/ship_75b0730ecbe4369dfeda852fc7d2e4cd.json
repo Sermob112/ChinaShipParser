@@ -1,0 +1,140 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgBSBanmkhTk8Pl4EN",
+  "ts": 1758808715,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Hantong (Under Construction)",
+          "value_html": "Hantong (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 210,000 tons",
+          "value_html": "Bulk Carrier, 210,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1079826",
+          "value_html": "1079826",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "COSCO Shipping Bulk (中远海运散运)",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JJJXX\">COSCO Shipping Bulk (中远海运散运)</a>",
+          "links": [
+            {
+              "text": "COSCO Shipping Bulk (中远海运散运)",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JJJXX"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 05",
+          "value_html": "2027 - 05",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 08",
+          "value_html": "2024 - 08",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "-",
+          "value_html": "-",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "109,000 tons",
+          "value_html": "109,000 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "210,000 tons",
+          "value_html": "210,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-8-1",
+          "value_html": "2024-8-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Guangxin Shipbuilding HI"
+}

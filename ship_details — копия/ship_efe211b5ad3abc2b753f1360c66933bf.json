@@ -1,0 +1,193 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbBCanmkhTk8Pl4EN",
+  "ts": 1758801300,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Sanfu SF220303 (Under Construction)",
+          "value_html": "Sanfu SF220303 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Container Ship, 1,300 teu",
+          "value_html": "Container Ship, 1,300 teu",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "9981817",
+          "value_html": "9981817",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "MPC Group",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4cSCs\">MPC Group</a>",
+          "links": [
+            {
+              "text": "MPC Group",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4cSCs"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2025 - 10",
+          "value_html": "2025 - 10",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2022 - 09",
+          "value_html": "2022 - 09",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Portugal",
+          "value_html": "Portugal",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "146.9 m",
+          "value_html": "146.9 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "9.9 m",
+          "value_html": "9.9 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "26.8 m",
+          "value_html": "26.8 m",
+          "links": []
+        },
+        {
+          "key": "Service Speed",
+          "value_text": "18 kn",
+          "value_html": "18 kn",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "16000 tons",
+          "value_html": "16000 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "18700 tons",
+          "value_html": "18700 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Methanol , Capacity: 750 ; FuelType2: Distillate Fuel , Capacity: 500\nConsumption(MainEngine): 65.9\nBunkersDescriptive: Fuel: methanol: 750 cu m, distillate fuel: 500 cu m",
+          "value_html": "FuelType1: Methanol , Capacity: 750 ; FuelType2: Distillate Fuel , Capacity: 500<br>Consumption(MainEngine): 65.9<br>BunkersDescriptive: Fuel: methanol: 750 cu m, distillate fuel: 500 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Det Norske Veritas",
+          "value_html": "Det Norske Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 6S50ME-C9-LGIM , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 10680(14521) at 117 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 6S50ME-C9-LGIM , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 10680(14521) at 117 rpm",
+          "links": []
+        },
+        {
+          "key": "Auxi Engine",
+          "value_text": "Design: Unknown , Engine Builder: Unknown , 3 x Unknown",
+          "value_html": "Design: Unknown , Engine Builder: Unknown , 3 x Unknown",
+          "links": []
+        },
+        {
+          "key": "Emergency Generator",
+          "value_text": "3 x a.c.",
+          "value_html": "3 x a.c.",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(117 rpm)",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch(117 rpm)",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "2 Crane of 45 tonnes SWL",
+          "value_html": "2 Crane of 45 tonnes SWL",
+          "links": []
+        },
+        {
+          "key": "Thruster",
+          "value_text": "1 Tunnel thruster Forward",
+          "value_html": "1 Tunnel thruster Forward",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Taizhou Sanfu Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN\">Taizhou Sanfu Shipyard</a>",
+          "links": [
+            {
+              "text": "Taizhou Sanfu Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcbsanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "SF220303",
+          "value_html": "SF220303",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2022-9-1",
+          "value_html": "2022-9-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sSbCJanmkhTk8Pl4EN",
+  "ts": 1758808999,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Chengxi CX5021 (Under Construction)",
+          "value_html": "Chengxi CX5021 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Chemical/Products Tanker, 50,000 tons",
+          "value_html": "Chemical/Products Tanker, 50,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1073767",
+          "value_html": "1073767",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 12",
+          "value_html": "2027 - 12",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 09",
+          "value_html": "2023 - 09",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Marshall Islands",
+          "value_html": "<img src=\"../images/flag_marshall.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Marshall Islands",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "182.7 m",
+          "value_html": "182.7 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "175 m",
+          "value_html": "175 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "13.3 m",
+          "value_html": "13.3 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.2 m",
+          "value_html": "32.2 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "30,155 tons",
+          "value_html": "30,155 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "50,000 tons",
+          "value_html": "50,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Bureau Veritas",
+          "value_html": "Bureau Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 6S50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 7250(9857)",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 6S50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 7250(9857)",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Chengxi Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN\">Chengxi Shipyard</a>",
+          "links": [
+            {
+              "text": "Chengxi Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "CX5021",
+          "value_html": "CX5021",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-9-1",
+          "value_html": "2023-9-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "CSSC, Chengxi Shipyard"
+}

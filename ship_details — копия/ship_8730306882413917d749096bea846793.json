@@ -1,0 +1,93 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4sbbSJanmkhTk8Pl4EN",
+  "ts": 1758800968,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "New Dayang (Under Construction)",
+          "value_html": "New Dayang (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 64,100 tons",
+          "value_html": "Bulk Carrier, 64,100 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1070167",
+          "value_html": "1070167",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Wah Kwong Maritime",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JJsX\">Wah Kwong Maritime</a>",
+          "links": [
+            {
+              "text": "Wah Kwong Maritime",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JJsX"
+            }
+          ]
+        },
+        {
+          "key": "Shipyard:",
+          "value_text": "New Dayang Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcFXanmkhTk8Pl4EN\">New Dayang Shipbuilding</a>",
+          "links": [
+            {
+              "text": "New Dayang Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcFXanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 11",
+          "value_html": "2027 - 11",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 06",
+          "value_html": "2024 - 06",
+          "links": []
+        },
+        {
+          "key": "Flag:",
+          "value_text": "Hong Kong, China",
+          "value_html": "Hong Kong, China",
+          "links": []
+        },
+        {
+          "key": "Classification:",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        },
+        {
+          "key": "Main Dimension:",
+          "value_text": "Length Overall: 199.93 m, Length between perp.: 196.50 m, Beam: 32.26 m, Draught: 13.50 m, Dead Weight: 64,100 tons",
+          "value_html": "Length Overall: 199.93 m, Length between perp.: 196.50 m, Beam: 32.26 m, Draught: 13.50 m, Dead Weight:\t64,100 tons",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_login",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

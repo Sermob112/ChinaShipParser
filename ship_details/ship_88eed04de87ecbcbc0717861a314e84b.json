@@ -1,0 +1,158 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ccFsBanmkhTk8Pl4EN",
+  "ts": 1758809177,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Guangzhou (Under Construction)",
+          "value_html": "Guangzhou (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Container Ship, 8,400 teu",
+          "value_html": "Container Ship, 8,400 teu",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1116131",
+          "value_html": "1116131",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Peter Döhle Schiffahrts K.G.",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JJJB\">Peter Döhle Schiffahrts K.G.</a>",
+          "links": [
+            {
+              "text": "Peter Döhle Schiffahrts K.G.",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JJJB"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2028 - 07",
+          "value_html": "2028 - 07",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2025 - 03",
+          "value_html": "2025 - 03",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "-",
+          "value_html": "-",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "260 m",
+          "value_html": "260 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "15.8 m",
+          "value_html": "15.8 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "45.6 m",
+          "value_html": "45.6 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "79,000 tons",
+          "value_html": "79,000 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "100,000 tons",
+          "value_html": "100,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Guangzhou Shipyard Intl. (GSI)",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFCanmkhTk8Pl4EN\">Guangzhou Shipyard Intl. (GSI)</a>",
+          "links": [
+            {
+              "text": "Guangzhou Shipyard Intl. (GSI)",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFCanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2025-3-1",
+          "value_html": "2025-3-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "CSSC, Dalian Shipyard"
+}

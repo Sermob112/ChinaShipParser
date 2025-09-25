@@ -13,6 +13,9 @@ from YardParser.yards_link_collector_1 import YardsCollector
 from YardParser.yard_info_collector_3 import ShipyardDetailsCollector
 from YardParser.Yard_order_collector_2 import OrderbookCollectorManager
 from YardParser.yard_recurser_link_catcher_4 import SisterGraphCrawler
+from YardParser.guarded_ship_details_collector import ShipDetailsCollectorManager
+from YardParser.rotating_guarded_ship_details_collector import ShipDetailsCollectorManager as RotatingShipMgr
+
 import json
 
 
@@ -52,6 +55,8 @@ SISTERS_JSON = Path(__file__).parent / "sisters_discovered.json"   # если у
 SISTERS_TXT  = Path(__file__).parent / "sisters_discovered.txt"    # запасной вариант
 SHIP_DETAILS_DIR = Path(__file__).parent / "ship_details"
 SHIP_DETAILS_DIR.mkdir(parents=True, exist_ok=True)
+ACCOUNTS_JSON = Path(__file__).parent / "shipbuilding_accounts.json"
+ACCOUNT_CURSOR = Path(__file__).parent / "account_cursor.json"
 
 # ==== вспомогательные коллбеки для Fleet ====
 def _save_rows_per_page(page_no: int, page_url: str, rows):
@@ -234,6 +239,8 @@ def parse_args():
             "yards_orderbook",
             "sisters_crawl",   
             "ship_details",
+            "ship_details_guard",
+            "ship_details_rotate",
             # <--- НОВОЕ
         ],
     )
@@ -242,9 +249,15 @@ def parse_args():
     p.add_argument("--workers", type=int, default=4)       # для orderbook/sisters
     p.add_argument("--wait-sec", type=int, default=30)     # для orderbook/sisters
     p.add_argument("--reuse-profile", action="store_true") # для orderbook/sisters
-    p.add_argument("--login-wait", type=int, default=0,
-               help="Секунды на ручной логин перед стартом парсинга (ship_details). "
-                    "Если > 0 — задача выполнится в одном драйвере.")
+    # parse_args()
+   
+    p.add_argument("--batch-every", type=int, default=50, help="Сколько страниц обрабатывать за одну сессию перед ротацией аккаунта")
+    p.add_argument("--min-tables", type=int, default=7, help="Если на странице меньше — считаем как ограничение и ротируем аккаунт")
+    p.add_argument("--relogin-manual", action="store_true", help="Логин вручную (паузы вместо автологина)")
+    p.add_argument("--first-login-wait", type=int, default=60, help="Секунды на первый ручной вход")
+    p.add_argument("--relogin-wait", type=int, default=30, help="Секунды на ручной повторный вход (каждый батч)")
+    p.add_argument("--max-items", type=int, default=None, help="Глобальный предел страниц за запуск")
+
     return p.parse_args()
 
 
@@ -279,8 +292,51 @@ def task_ship_details(workers: int, wait_sec: int, reuse_profile: bool, login_wa
         use_profile_clone=(not reuse_profile),
         login_wait_sec=login_wait,                          # <--- НОВОЕ
         login_url_fallback="http://chinashipbuilding.cn/shipbuilds.aspx?nmkhTk8Pl4EN",
+        batch_logout_every=50,                  # <-- после 50 страниц делаем Logout
+    relogin_wait_sec=30, 
     )
     mgr.run()
+def task_ship_details_guard(workers: int, wait_sec: int, reuse_profile: bool, login_wait: int, max_items: int | None, min_tables: int):
+    mgr = ShipDetailsCollectorManager(
+        input_json=SISTERS_JSON,
+        input_txt=SISTERS_TXT,
+        out_dir=SHIP_DETAILS_DIR,
+        workers=workers,
+        wait_sec=wait_sec,
+        use_profile_clone=(not reuse_profile),
+        login_wait_sec=login_wait,
+        max_items_per_run=max_items,
+        min_tables_required=min_tables,
+    )
+    mgr.run()
+
+def task_ship_details_rotating(wait_sec: int, reuse_profile: bool,
+                               batch_every: int, min_tables: int,
+                               relogin_manual: bool, first_login_wait: int, relogin_wait: int,
+                               max_items: int | None):
+    mgr = RotatingShipMgr(
+        input_json=SISTERS_JSON,
+        input_txt=SISTERS_TXT,
+        out_dir=SHIP_DETAILS_DIR,
+        wait_sec=wait_sec,
+        use_profile_clone=(not reuse_profile),
+        login_url_fallback="http://chinashipbuilding.cn/shipbuilds.aspx?nmkhTk8Pl4EN",
+
+        min_tables_required=min_tables,
+        batch_logout_every=batch_every,
+
+        accounts_file=ACCOUNTS_JSON,
+        account_cursor_file=ACCOUNT_CURSOR,
+
+        # режим логина:
+        relogin_manual=relogin_manual,         # True = ручной логин; False = авто по accounts.json
+        first_login_wait_sec=first_login_wait, # при ручном: время на первый вход
+        relogin_wait_sec=relogin_wait,         # при ручном: пауза на re-login
+
+        max_items_per_run=max_items,
+    )
+    mgr.run()
+
 def main():
     args = parse_args()
     if args.task == "shipbuilds_categories":
@@ -299,6 +355,20 @@ def main():
         task_sisters_crawl(args.workers, args.wait_sec, args.reuse_profile)
     elif args.task == "ship_details":
         task_ship_details(args.workers, args.wait_sec, args.reuse_profile, args.login_wait)
+    elif args.task == "ship_details_guard":
+        task_ship_details_guard(args.workers, args.wait_sec, args.reuse_profile, args.login_wait, args.max_items, args.min_tables)
+    elif args.task == "ship_details_rotate":
+        task_ship_details_rotating(
+            wait_sec=args.wait_sec,
+            reuse_profile=args.reuse_profile,
+            batch_every=args.batch_every,
+            min_tables=args.min_tables,
+            relogin_manual=args.relogin_manual,
+            first_login_wait=args.first_login_wait,
+            relogin_wait=args.relogin_wait,
+            max_items=args.max_items,
+        )
+
     else:
         raise SystemExit("Неизвестная задача")
 

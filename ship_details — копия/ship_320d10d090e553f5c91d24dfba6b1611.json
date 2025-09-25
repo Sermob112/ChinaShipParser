@@ -1,0 +1,145 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBXSXanmkhTk8Pl4EN",
+  "ts": 1758801179,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Yara Eyde (Under Construction)",
+          "value_html": "Yara Eyde (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Container Ship, 1,400 teu",
+          "value_html": "Container Ship, 1,400 teu",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1054187",
+          "value_html": "1054187",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Delphis N.V.",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JSBX\">Delphis N.V.</a>",
+          "links": [
+            {
+              "text": "Delphis N.V.",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JSBX"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 06",
+          "value_html": "2026 - 06",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 02",
+          "value_html": "2024 - 02",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "-",
+          "value_html": "-",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "15000 tons",
+          "value_html": "15000 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "14500 tons",
+          "value_html": "14500 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Ammonia , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown\nBunkersDescriptive: Fuel: ammonia: 0 cu m",
+          "value_html": "FuelType1: Ammonia , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>BunkersDescriptive: Fuel: ammonia: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch",
+          "links": []
+        },
+        {
+          "key": "Thruster",
+          "value_text": "1 Tunnel thruster Forward",
+          "value_html": "1 Tunnel thruster Forward",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Qingdao Shipyard Co., Ltd.",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcFSanmkhTk8Pl4EN\">Qingdao Shipyard Co., Ltd.</a>",
+          "links": [
+            {
+              "text": "Qingdao Shipyard Co., Ltd.",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcFSanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-2-19",
+          "value_html": "2024-2-19",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4ssCgCanmkhTk8Pl4EN",
+  "ts": 1758809284,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Hantong HT-OT159-358 (Under Construction)",
+          "value_html": "Hantong HT-OT159-358 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Crude Oil Tanker, 159,000 tons",
+          "value_html": "Crude Oil Tanker, 159,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1071068",
+          "value_html": "1071068",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Cardiff Marine Inc.",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JgXB\">Cardiff Marine Inc.</a>",
+          "links": [
+            {
+              "text": "Cardiff Marine Inc.",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JgXB"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 10",
+          "value_html": "2026 - 10",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 06",
+          "value_html": "2024 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Marshall Islands",
+          "value_html": "<img src=\"../images/flag_marshall.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Marshall Islands",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "274 m",
+          "value_html": "274 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "268.8 m",
+          "value_html": "268.8 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "16.8 m",
+          "value_html": "16.8 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "50 m",
+          "value_html": "50 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "86,287 tons",
+          "value_html": "86,287 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "159,000 tons",
+          "value_html": "159,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: China Shipbuilding Industry Co\nDiesel Engine Co Ltd , 1 x 6G70ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 700\nx 3256 , Mcr: 18360(24962) at 77 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: China Shipbuilding Industry Co<br> Diesel Engine Co Ltd , 1 x 6G70ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 700<br> x 3256 , Mcr: 18360(24962) at 77 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "Cargo Pumps 3 @ 0 M3/hr",
+          "value_html": "Cargo Pumps 3 @ 0 M3/hr<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "HT-OT159-358",
+          "value_html": "HT-OT159-358",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-6-1",
+          "value_html": "2024-6-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Guangxin Shipbuilding HI"
+}

@@ -1,0 +1,169 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBFBanmkhTk8Pl4EN",
+  "ts": 1758800991,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "New Dayang (Under Construction)",
+          "value_html": "New Dayang (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 64,100 tons",
+          "value_html": "Bulk Carrier, 64,100 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1092270",
+          "value_html": "1092270",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "U-Ming Marine (裕民航运)",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JggS\">U-Ming Marine (裕民航运)</a>",
+          "links": [
+            {
+              "text": "U-Ming Marine (裕民航运)",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JggS"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 10",
+          "value_html": "2027 - 10",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 10",
+          "value_html": "2024 - 10",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Singapore",
+          "value_html": "<img src=\"../images/flag_singapore.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Singapore",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "199.99 m",
+          "value_html": "199.99 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "196.5 m",
+          "value_html": "196.5 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "13.5 m",
+          "value_html": "13.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.26 m",
+          "value_html": "32.26 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "35,990 tons",
+          "value_html": "35,990 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "64,100 tons",
+          "value_html": "64,100 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: 479 ; FuelType2: Residual Fuel , Capacity: 1688\nBunkersDescriptive: Fuel: distillate fuel: 479 cu m, residual fuel: 1,688 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: 479 ; FuelType2: Residual Fuel , Capacity: 1688<br>BunkersDescriptive: Fuel: distillate fuel: 479 cu m, residual fuel: 1,688 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 6S50ME-C9 , 2 ,\nIN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 10680(14521) at 117 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 6S50ME-C9 , 2 , <br>IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 10680(14521) at 117 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(117 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(117 rpm)",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "4 Crane of 30 tonnes SWL",
+          "value_html": "4 Crane of 30 tonnes SWL<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "New Dayang Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcFXanmkhTk8Pl4EN\">New Dayang Shipbuilding</a>",
+          "links": [
+            {
+              "text": "New Dayang Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcFXanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-10-14",
+          "value_html": "2024-10-14",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SCJJcanmkhTk8Pl4EN",
+  "ts": 1758801327,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Southeast DN105M-1 (Under Construction)",
+          "value_html": "Southeast DN105M-1 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Diving Support Vessel, 105 m.loa",
+          "value_html": "Diving Support Vessel, 105 m.loa",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "9720770",
+          "value_html": "9720770",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Coastal Contracts Bhd",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4CgBXJ\">Coastal Contracts Bhd</a>",
+          "links": [
+            {
+              "text": "Coastal Contracts Bhd",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4CgBXJ"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2025 - 06",
+          "value_html": "2025 - 06",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2012 - 10",
+          "value_html": "2012 - 10",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Singapore",
+          "value_html": "<img src=\"../images/flag_singapore.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Singapore",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "105 m",
+          "value_html": "105 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "98.6 m",
+          "value_html": "98.6 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "5.5 m",
+          "value_html": "5.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "23 m",
+          "value_html": "23 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "3,000 tons",
+          "value_html": "3,000 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "4,500 tons",
+          "value_html": "4,500 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 2 x UnKnown , 4 , YES,BUT ARRANGEMENT UNKNOWN",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 2 x UnKnown , 4 , YES,BUT ARRANGEMENT UNKNOWN",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Port Propeller : Yes, Type Unknown\nStarboard Propeller : Yes, Type Unknown",
+          "value_html": "Port  Propeller : Yes, Type Unknown<br>Starboard  Propeller : Yes, Type Unknown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Fujian Southeast Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcJCanmkhTk8Pl4EN\">Fujian Southeast Shipbuilding</a>",
+          "links": [
+            {
+              "text": "Fujian Southeast Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcJCanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "DN105M-1",
+          "value_html": "DN105M-1",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2012-10-1",
+          "value_html": "2012-10-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

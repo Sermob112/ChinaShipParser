@@ -1,0 +1,164 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXJbFanmkhTk8Pl4EN",
+  "ts": 1758800935,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Chengxi CX0854 (Under Construction)",
+          "value_html": "Chengxi CX0854 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 82,000 tons",
+          "value_html": "Bulk Carrier, 82,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1111375",
+          "value_html": "1111375",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 11",
+          "value_html": "2026 - 11",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 12",
+          "value_html": "2023 - 12",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Marshall Islands",
+          "value_html": "<img src=\"../images/flag_marshall.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Marshall Islands",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "229 m",
+          "value_html": "229 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "225.4 m",
+          "value_html": "225.4 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "14.5 m",
+          "value_html": "14.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.26 m",
+          "value_html": "32.26 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "44,600 tons",
+          "value_html": "44,600 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "82,000 tons",
+          "value_html": "82,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Nippon Kaiji Kyokai",
+          "value_html": "Nippon Kaiji Kyokai",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 6S50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 6200(8430)",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 6S50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 6200(8430)",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Chengxi Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN\">Chengxi Shipyard</a>",
+          "links": [
+            {
+              "text": "Chengxi Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "CX0854",
+          "value_html": "CX0854",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-12-1",
+          "value_html": "2023-12-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

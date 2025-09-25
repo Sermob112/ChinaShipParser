@@ -1,0 +1,169 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cCXgbanmkhTk8Pl4EN",
+  "ts": 1758801424,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Huangpu Wenchong H2568 (Under Construction)",
+          "value_html": "Huangpu Wenchong H2568 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "LPG Tanker, 41,000 cbm",
+          "value_html": "LPG Tanker, 41,000 cbm",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1096812",
+          "value_html": "1096812",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Wideshine Enterprise (西南海运)",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4XbsB\">Wideshine Enterprise (西南海运)</a>",
+          "links": [
+            {
+              "text": "Wideshine Enterprise (西南海运)",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4XbsB"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 02",
+          "value_html": "2027 - 02",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 11",
+          "value_html": "2024 - 11",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Singapore",
+          "value_html": "<img src=\"../images/flag_singapore.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Singapore",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "180 m",
+          "value_html": "180 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "11 m",
+          "value_html": "11 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "29.8 m",
+          "value_html": "29.8 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "27,000 tons",
+          "value_html": "27,000 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "29,000 tons",
+          "value_html": "29,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: LPG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: LPG: 0 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: LPG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: LPG: 0 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Lloyd's Register",
+          "value_html": "Lloyd's Register",
+          "links": []
+        },
+        {
+          "key": "Class Notation",
+          "value_text": "class contemplated",
+          "value_html": "class contemplated",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , 2 , IN-LINE,VERTICAL",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , 2 , IN-LINE,VERTICAL",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Huangpu-Wenchong Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csbganmkhTk8Pl4EN\">Huangpu-Wenchong Shipbuilding</a>",
+          "links": [
+            {
+              "text": "Huangpu-Wenchong Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csbganmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "H2568",
+          "value_html": "H2568",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-11-1",
+          "value_html": "2024-11-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBCssanmkhTk8Pl4EN",
+  "ts": 1758801007,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "CMJL JLZ9230446 (Under Construction)",
+          "value_html": "CMJL JLZ9230446 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Vehicles Carrier, 7,800 cars",
+          "value_html": "Vehicles Carrier, 7,800 cars",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1052050",
+          "value_html": "1052050",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "CMB Financial Leasing (招银租赁)",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JcCB\">CMB Financial Leasing (招银租赁)</a>",
+          "links": [
+            {
+              "text": "CMB Financial Leasing (招银租赁)",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JcCB"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 12",
+          "value_html": "2026 - 12",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2023 - 11",
+          "value_html": "2023 - 11",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Hong Kong, China",
+          "value_html": "Hong Kong, China",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "196.3 m",
+          "value_html": "196.3 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "10.2 m",
+          "value_html": "10.2 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "37.7 m",
+          "value_html": "37.7 m",
+          "links": []
+        },
+        {
+          "key": "Service Speed",
+          "value_text": "19 kn",
+          "value_html": "19 kn",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "76400 tons",
+          "value_html": "76400 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "18000 tons",
+          "value_html": "18000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Methanol , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: methanol: 0 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: Methanol , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: methanol: 0 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Lloyd's Register",
+          "value_html": "Lloyd's Register",
+          "links": []
+        },
+        {
+          "key": "Class Notation",
+          "value_text": "Class contemplated",
+          "value_html": "Class contemplated",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 7S60ME-C10-LGIM , 2 , IN-LINE,VERTICAL 7 Cy , 600 x 2400 , Mcr: 17430(23698) at 105 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 7S60ME-C10-LGIM , 2 , IN-LINE,VERTICAL 7 Cy , 600 x 2400 , Mcr: 17430(23698) at 105 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Directional(105 rpm)",
+          "value_html": "Centre Or Only Propeller : Directional(105 rpm)",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "China Merchants HI, Jinling",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4JgSsbanmkhTk8Pl4EN\">China Merchants HI, Jinling</a>",
+          "links": [
+            {
+              "text": "China Merchants HI, Jinling",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4JgSsbanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "JLZ9230446",
+          "value_html": "JLZ9230446",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2023-11-13",
+          "value_html": "2023-11-13",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBcsanmkhTk8Pl4EN",
+  "ts": 1758801143,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Nantong Xiangyu (Under Construction)",
+          "value_html": "Nantong Xiangyu (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Chemical/Products Tanker, 38,000 tons",
+          "value_html": "Chemical/Products Tanker, 38,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1053092",
+          "value_html": "1053092",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "NYK Line",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JgSg\">NYK Line</a>",
+          "links": [
+            {
+              "text": "NYK Line",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JgSg"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 09",
+          "value_html": "2027 - 09",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 02",
+          "value_html": "2024 - 02",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "-",
+          "value_html": "-",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "180.1 m",
+          "value_html": "180.1 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "10.5 m",
+          "value_html": "10.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.2 m",
+          "value_html": "32.2 m",
+          "links": []
+        },
+        {
+          "key": "Service Speed",
+          "value_text": "14 kn",
+          "value_html": "14 kn",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "19600 tons",
+          "value_html": "19600 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "38000 tons",
+          "value_html": "38000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Survey Type: Date: 2027-09\n船级社历史\n日期 船级社名称 船级社状态\n2026/12 Unknown Unknown",
+          "value_html": "Survey Type: Date: 2027-09<br>船级社历史<br>日期 \t船级社名称 \t船级社状态<br>2026/12 \tUnknown \tUnknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , 2 , IN-LINE,VERTICAL",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , 2 , IN-LINE,VERTICAL",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Nantong Xiangyu SOE",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4JgSbcanmkhTk8Pl4EN\">Nantong Xiangyu SOE</a>",
+          "links": [
+            {
+              "text": "Nantong Xiangyu SOE",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4JgSbcanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-2-1",
+          "value_html": "2024-2-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

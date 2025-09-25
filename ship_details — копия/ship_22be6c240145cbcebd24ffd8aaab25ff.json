@@ -1,0 +1,164 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcbcanmkhTk8Pl4EN",
+  "ts": 1758801105,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Jiangsu Hantong HT210-435 (Under Construction)",
+          "value_html": "Jiangsu Hantong HT210-435 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 211,000 tons",
+          "value_html": "Bulk Carrier, 211,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1100948",
+          "value_html": "1100948",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 11",
+          "value_html": "2026 - 11",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 12",
+          "value_html": "2024 - 12",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Hong Kong, China",
+          "value_html": "Hong Kong, China",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "299.9 m",
+          "value_html": "299.9 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "295.2 m",
+          "value_html": "295.2 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "18.5 m",
+          "value_html": "18.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "50 m",
+          "value_html": "50 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "108,879 tons",
+          "value_html": "108,879 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "211,000 tons",
+          "value_html": "211,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Det Norske Veritas",
+          "value_html": "Det Norske Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: CSSC-MES Diesel Co Ltd - China\n, 1 x 6G70ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 700 x 3256 , Mcr:\n18360(24962) at 77 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: CSSC-MES Diesel Co Ltd - China<br> , 1 x 6G70ME-C10 , 2 , IN-LINE,VERTICAL 6 Cy , 700 x 3256 , Mcr: <br>18360(24962) at 77 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(77 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(77 rpm)",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "HT210-435",
+          "value_html": "HT210-435",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-12-1",
+          "value_html": "2024-12-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

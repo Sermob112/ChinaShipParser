@@ -1,0 +1,188 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXgFanmkhTk8Pl4EN",
+  "ts": 1758808951,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "William Thomson (Under Construction)",
+          "value_html": "William Thomson (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Cable Layer, 34,000 tons",
+          "value_html": "Cable Layer, 34,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1083097",
+          "value_html": "1083097",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Jan De Nul Group",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4CBss\">Jan De Nul Group</a>",
+          "links": [
+            {
+              "text": "Jan De Nul Group",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4CBss"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 12",
+          "value_html": "2026 - 12",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 05",
+          "value_html": "2024 - 05",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Luxembourg",
+          "value_html": "Luxembourg",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "215 m",
+          "value_html": "215 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "182.65 m",
+          "value_html": "182.65 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "9.75 m",
+          "value_html": "9.75 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "40 m",
+          "value_html": "40 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "42,079 tons",
+          "value_html": "42,079 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "34,000 tons",
+          "value_html": "34,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Methanol , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: methanol: 0 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: Methanol , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: methanol: 0 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Bureau Veritas",
+          "value_html": "Bureau Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: A.B.C. , Engine Builder: Anglo Belgian Corp NV (ABC) -\nBelgium , 5 x 8DZD MeOH , 4 , IN-LINE,VERTICAL 8 Cy , 256 x 310 , Mcr:\n1768(2404) at 1000 rpm",
+          "value_html": "Design: A.B.C. , Engine Builder: Anglo Belgian Corp NV (ABC) - <br>Belgium , 5 x 8DZD MeOH , 4 , IN-LINE,VERTICAL 8 Cy , 256 x 310 , Mcr: <br>1768(2404) at 1000 rpm",
+          "links": []
+        },
+        {
+          "key": "Main Generator",
+          "value_text": "Main Generators: 4 x Unknown a.c. 1 x Unknown a.c.",
+          "value_html": "Main Generators:   4 x Unknown a.c.  1 x Unknown a.c.",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "First Propeller : Azimuth Elec Dr\nSecond Propeller : Azimuth Elec Dr\nThird Propeller : Azimuth Elec Dr\nFourth Propeller : Azimuth Elec Dr",
+          "value_html": "First  Propeller : Azimuth Elec Dr<br>Second  Propeller : Azimuth Elec Dr<br>Third  Propeller : Azimuth Elec Dr<br>Fourth  Propeller : Azimuth Elec Dr<br>",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "1 Crane of 100 tonnes SWL\n1 Crane of 30 tonnes SWL",
+          "value_html": "1 Crane of 100 tonnes SWL<br>1 Crane of 30 tonnes SWL<br>",
+          "links": []
+        },
+        {
+          "key": "Thruster",
+          "value_text": "2 Directional thruster Forward\n3 Tunnel thruster Forward",
+          "value_html": "2  Directional thruster  Forward<br>3  Tunnel thruster  Forward<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "China Merchants HI, Haimen",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcgXanmkhTk8Pl4EN\">China Merchants HI, Haimen</a>",
+          "links": [
+            {
+              "text": "China Merchants HI, Haimen",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcgXanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "CMHI-296-2",
+          "value_html": "CMHI-296-2",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-5-16",
+          "value_html": "2024-5-16",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "CIMC SOE"
+}

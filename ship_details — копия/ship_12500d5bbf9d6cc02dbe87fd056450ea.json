@@ -1,0 +1,164 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBcgCanmkhTk8Pl4EN",
+  "ts": 1758801524,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "CMJL JLZ9240417 (Under Construction)",
+          "value_html": "CMJL JLZ9240417 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Chemical/Products Tanker, 25,900 tons",
+          "value_html": "Chemical/Products Tanker, 25,900 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1103732",
+          "value_html": "1103732",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Eastern Pacific Shipping Pte",
+          "value_html": "Eastern Pacific Shipping Pte",
+          "links": []
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 11",
+          "value_html": "2026 - 11",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 06",
+          "value_html": "2024 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Liberia",
+          "value_html": "<img src=\"../images/flag_liberia.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Liberia",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "158.98 m",
+          "value_html": "158.98 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "149.9 m",
+          "value_html": "149.9 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "10.2 m",
+          "value_html": "10.2 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "27 m",
+          "value_html": "27 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "16,890 tons",
+          "value_html": "16,890 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "25,900 tons",
+          "value_html": "25,900 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 5S50ME-C9 , 2 ,\nIN-LINE,VERTICAL 5 Cy , 500 x 2214 , Mcr: 8900(12100) at 117 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 5S50ME-C9 , 2 , <br>IN-LINE,VERTICAL 5 Cy , 500 x 2214 , Mcr: 8900(12100) at 117 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(117 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(117 rpm)",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "China Merchants HI, Jinling",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4JgSsbanmkhTk8Pl4EN\">China Merchants HI, Jinling</a>",
+          "links": [
+            {
+              "text": "China Merchants HI, Jinling",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4JgSsbanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "JLZ9240417",
+          "value_html": "JLZ9240417",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-6-1",
+          "value_html": "2024-6-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

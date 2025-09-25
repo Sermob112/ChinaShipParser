@@ -1,6 +1,6 @@
 {
   "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BJsSBanmkhTk8Pl4EN",
-  "ts": 1758732395,
+  "ts": 1758808538,
   "tables": [
     {
       "table_id": "content_tb_ship",
@@ -177,5 +177,6 @@
       "table_id": "content_tb_shipbuild",
       "rows": []
     }
-  ]
+  ],
+  "origin_yard": "Xinle Shipyard (Ningbo)"
 }

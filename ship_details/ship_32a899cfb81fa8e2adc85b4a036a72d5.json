@@ -1,0 +1,158 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cXXcganmkhTk8Pl4EN",
+  "ts": 1758808663,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "ASL Vega (Under Construction)",
+          "value_html": "ASL Vega (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 63,500 tons",
+          "value_html": "Bulk Carrier, 63,500 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1107386",
+          "value_html": "1107386",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Agricore Ship Management (良禾航运)",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JJJJX\">Agricore Ship Management (良禾航运)</a>",
+          "links": [
+            {
+              "text": "Agricore Ship Management (良禾航运)",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JJJJX"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 07",
+          "value_html": "2026 - 07",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2025 - 01",
+          "value_html": "2025 - 01",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Liberia",
+          "value_html": "<img src=\"../images/flag_liberia.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Liberia",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "199.9 m",
+          "value_html": "199.9 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "13.3 m",
+          "value_html": "13.3 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.26 m",
+          "value_html": "32.26 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "35,500 tons",
+          "value_html": "35,500 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "63,500 tons",
+          "value_html": "63,500 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2025-1-1",
+          "value_html": "2025-1-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Guangxin Shipbuilding HI"
+}

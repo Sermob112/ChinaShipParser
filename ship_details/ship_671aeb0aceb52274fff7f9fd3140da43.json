@@ -1,6 +1,6 @@
 {
   "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csBFSanmkhTk8Pl4EN",
-  "ts": 1758732445,
+  "ts": 1758808579,
   "tables": [
     {
       "table_id": "content_tb_ship",
@@ -165,5 +165,6 @@
       "table_id": "content_tb_shipbuild",
       "rows": []
     }
-  ]
+  ],
+  "origin_yard": "Nantong COSCO KHI (NACKS)"
 }

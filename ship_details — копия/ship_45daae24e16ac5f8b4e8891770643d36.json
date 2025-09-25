@@ -1,0 +1,93 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBBcSanmkhTk8Pl4EN",
+  "ts": 1758801156,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Nantong Xiangyu (Under Construction)",
+          "value_html": "Nantong Xiangyu (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Chemical/Products Tanker, 38,000 tons",
+          "value_html": "Chemical/Products Tanker, 38,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1053080",
+          "value_html": "1053080",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "NYK Line",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JgSg\">NYK Line</a>",
+          "links": [
+            {
+              "text": "NYK Line",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JgSg"
+            }
+          ]
+        },
+        {
+          "key": "Shipyard:",
+          "value_text": "Nantong Xiangyu SOE",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4JgSbcanmkhTk8Pl4EN\">Nantong Xiangyu SOE</a>",
+          "links": [
+            {
+              "text": "Nantong Xiangyu SOE",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4JgSbcanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 03",
+          "value_html": "2027 - 03",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 02",
+          "value_html": "2024 - 02",
+          "links": []
+        },
+        {
+          "key": "Flag:",
+          "value_text": "-",
+          "value_html": "-",
+          "links": []
+        },
+        {
+          "key": "Classification:",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        },
+        {
+          "key": "Main Dimension:",
+          "value_text": "Length Overall: 184.90 m, Length between perp.: 180.10 m, Beam: 32.20 m, Draught: 10.50 m, Dead Weight: 38,000 tons",
+          "value_html": "Length Overall: 184.90 m, Length between perp.: 180.10 m, Beam: 32.20 m, Draught: 10.50 m, Dead Weight:\t38,000 tons",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_login",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

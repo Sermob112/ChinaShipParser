@@ -1,0 +1,176 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FJcSganmkhTk8Pl4EN",
+  "ts": 1758808707,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Hantong HT82-372 (Under Construction)",
+          "value_html": "Hantong HT82-372 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 82,000 tons",
+          "value_html": "Bulk Carrier, 82,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1064807",
+          "value_html": "1064807",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "National Navigation Co",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4BBCF\">National Navigation Co</a>",
+          "links": [
+            {
+              "text": "National Navigation Co",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4BBCF"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 12",
+          "value_html": "2026 - 12",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 02",
+          "value_html": "2024 - 02",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Marshall Islands",
+          "value_html": "<img src=\"../images/flag_marshall.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Marshall Islands",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "229 m",
+          "value_html": "229 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "225.5 m",
+          "value_html": "225.5 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "14.5 m",
+          "value_html": "14.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.26 m",
+          "value_html": "32.26 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "44,500 tons",
+          "value_html": "44,500 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "82,000 tons",
+          "value_html": "82,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Lloyd's Register",
+          "value_html": "Lloyd's Register",
+          "links": []
+        },
+        {
+          "key": "Class Notation",
+          "value_text": "Class contemplated",
+          "value_html": "Class contemplated",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 6G50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2500 , Mcr: 7490(10183)",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 6G50ME-C9 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2500 , Mcr: 7490(10183)",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "HT82-372",
+          "value_html": "HT82-372",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-2-1",
+          "value_html": "2024-2-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Guangxin Shipbuilding HI"
+}

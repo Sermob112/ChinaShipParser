@@ -1,0 +1,175 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SgXgbanmkhTk8Pl4EN",
+  "ts": 1758801427,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "DACKS DE175 (Under Construction)",
+          "value_html": "DACKS DE175 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Crude Oil Tanker, 309,000 tons",
+          "value_html": "Crude Oil Tanker, 309,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1071032",
+          "value_html": "1071032",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Mitsui O.S.K Lines (MOL)",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4JJCb\">Mitsui O.S.K Lines (MOL)</a>",
+          "links": [
+            {
+              "text": "Mitsui O.S.K Lines (MOL)",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4JJCb"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2028 - 01",
+          "value_html": "2028 - 01",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 06",
+          "value_html": "2024 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Panama",
+          "value_html": "<img src=\"../images/flag_panamax.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Panama",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "339.5 m",
+          "value_html": "339.5 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "334.1 m",
+          "value_html": "334.1 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "21.03 m",
+          "value_html": "21.03 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "60 m",
+          "value_html": "60 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "166,800 tons",
+          "value_html": "166,800 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "309,000 tons",
+          "value_html": "309,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Nippon Kaiji Kyokai",
+          "value_html": "Nippon Kaiji Kyokai",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 7G80ME-C10-GI , 2\n, IN-LINE,VERTICAL 7 Cy , 800 x 3720 , Mcr: 22600(30727) at 63 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 7G80ME-C10-GI , 2<br> , IN-LINE,VERTICAL 7 Cy , 800 x 3720 , Mcr: 22600(30727) at 63 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(63 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(63 rpm)",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "Cargo Pumps 3 @ 0 M3/hr",
+          "value_html": "Cargo Pumps 3 @ 0 M3/hr<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Dalian COSCO KHI (DACKS)",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcJFanmkhTk8Pl4EN\">Dalian COSCO KHI (DACKS)</a>",
+          "links": [
+            {
+              "text": "Dalian COSCO KHI (DACKS)",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcJFanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "DE175",
+          "value_html": "DE175",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-6-1",
+          "value_html": "2024-6-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

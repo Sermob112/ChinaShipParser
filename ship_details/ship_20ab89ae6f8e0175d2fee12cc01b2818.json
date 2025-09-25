@@ -1,6 +1,6 @@
 {
   "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4bSCbCanmkhTk8Pl4EN",
-  "ts": 1758732422,
+  "ts": 1758808560,
   "tables": [
     {
       "table_id": "content_tb_ship",
@@ -166,5 +166,6 @@
       "table_id": "content_tb_shipbuild",
       "rows": []
     }
-  ]
+  ],
+  "origin_yard": "Jiangsu Zhenjiang Shipyard"
 }

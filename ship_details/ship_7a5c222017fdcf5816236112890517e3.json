@@ -1,6 +1,6 @@
 {
   "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4BcSFXanmkhTk8Pl4EN",
-  "ts": 1758732413,
+  "ts": 1758808553,
   "tables": [
     {
       "table_id": "content_tb_ship",
@@ -171,5 +171,6 @@
       "table_id": "content_tb_shipbuild",
       "rows": []
     }
-  ]
+  ],
+  "origin_yard": "CSSC, Dalian Shipyard"
 }

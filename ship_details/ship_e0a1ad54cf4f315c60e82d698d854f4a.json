@@ -1,6 +1,6 @@
 {
   "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFccBanmkhTk8Pl4EN",
-  "ts": 1758732442,
+  "ts": 1758808576,
   "tables": [
     {
       "table_id": "content_tb_ship",
@@ -165,5 +165,6 @@
       "table_id": "content_tb_shipbuild",
       "rows": []
     }
-  ]
+  ],
+  "origin_yard": "CSSC, Chengxi Shipyard"
 }

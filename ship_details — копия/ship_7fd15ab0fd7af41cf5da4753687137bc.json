@@ -1,0 +1,175 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csXCcanmkhTk8Pl4EN",
+  "ts": 1758801195,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Xinle XL-224 (Under Construction)",
+          "value_html": "Xinle XL-224 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Products Tanker, 7,500 tons",
+          "value_html": "Products Tanker, 7,500 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1084493",
+          "value_html": "1084493",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Mila Ltd",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4CgbSX\">Mila Ltd</a>",
+          "links": [
+            {
+              "text": "Mila Ltd",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4CgbSX"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 04",
+          "value_html": "2026 - 04",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 06",
+          "value_html": "2024 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Marshall Islands",
+          "value_html": "<img src=\"../images/flag_marshall.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Marshall Islands",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "140.9 m",
+          "value_html": "140.9 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "4.7 m",
+          "value_html": "4.7 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "16.8 m",
+          "value_html": "16.8 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "6,233 tons",
+          "value_html": "6,233 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "7,500 tons",
+          "value_html": "7,500 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Lloyd's Register",
+          "value_html": "Lloyd's Register",
+          "links": []
+        },
+        {
+          "key": "Class Notation",
+          "value_text": "Class contemplated",
+          "value_html": "Class contemplated",
+          "links": []
+        },
+        {
+          "key": "Class Inspection",
+          "value_text": "Special Survey Assigned 2026/04/01, Lloyd's Register\nDocking Survey Assigned 2026/04/01, Lloyd's Register",
+          "value_html": "Special Survey Assigned 2026/04/01, Lloyd's Register<br>Docking Survey Assigned 2026/04/01, Lloyd's Register",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: Yanmar , Engine Builder: Yanmar Diesel Engine Co Ltd - Japan\n, 2 x 6EY22AW , 4 , IN-LINE,VERTICAL 6 Cy , 220 x 320 , Mcr: 1370(1863)\nat 900 rpm",
+          "value_html": "Design: Yanmar , Engine Builder: Yanmar Diesel Engine Co Ltd - Japan<br> , 2 x 6EY22AW , 4 , IN-LINE,VERTICAL 6 Cy , 220 x 320 , Mcr: 1370(1863)<br> at 900 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Xinle Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4JgSsganmkhTk8Pl4EN\">Xinle Shipyard</a>",
+          "links": [
+            {
+              "text": "Xinle Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4JgSsganmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "XL-224",
+          "value_html": "XL-224",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-6-1",
+          "value_html": "2024-6-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

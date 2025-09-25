@@ -1,0 +1,157 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SBbbBanmkhTk8Pl4EN",
+  "ts": 1758800937,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Chengxi (Under Construction)",
+          "value_html": "Chengxi (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 82,000 tons",
+          "value_html": "Bulk Carrier, 82,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1052074",
+          "value_html": "1052074",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "W Marine",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4BbJB\">W Marine</a>",
+          "links": [
+            {
+              "text": "W Marine",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4BbJB"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 09",
+          "value_html": "2026 - 09",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 01",
+          "value_html": "2024 - 01",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Liberia",
+          "value_html": "<img src=\"../images/flag_liberia.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Liberia",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "225.4 m",
+          "value_html": "225.4 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "14.45 m",
+          "value_html": "14.45 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.26 m",
+          "value_html": "32.26 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "44600 tons",
+          "value_html": "44600 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "82000 tons",
+          "value_html": "82000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Survey Type: Date: 2026-09\n船级社历史\n日期 船级社名称 船级社状态\n2026/09 Unknown Unknown",
+          "value_html": "Survey Type: Date: 2026-09<br>船级社历史<br>日期\t船级社名称\t船级社状态<br>2026/09\tUnknown\tUnknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , YES,BUT ARRANGEMENT UNKNOWN",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Chengxi Shipyard",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN\">Chengxi Shipyard</a>",
+          "links": [
+            {
+              "text": "Chengxi Shipyard",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFBanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-1-1",
+          "value_html": "2024-1-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

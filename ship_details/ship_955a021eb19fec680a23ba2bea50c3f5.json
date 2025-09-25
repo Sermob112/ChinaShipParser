@@ -1,0 +1,194 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4FgbCcanmkhTk8Pl4EN",
+  "ts": 1758808609,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "New Dayang NDY1328 (Under Construction)",
+          "value_html": "New Dayang NDY1328 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Bulk Carrier, 64,100 tons",
+          "value_html": "Bulk Carrier, 64,100 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1072048",
+          "value_html": "1072048",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Ciner Group",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4BcbJ\">Ciner Group</a>",
+          "links": [
+            {
+              "text": "Ciner Group",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4BcbJ"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 11",
+          "value_html": "2027 - 11",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 06",
+          "value_html": "2024 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Malta",
+          "value_html": "<img src=\"../images/flag_malta.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Malta",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "199.99 m",
+          "value_html": "199.99 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "196.5 m",
+          "value_html": "196.5 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "13.5 m",
+          "value_html": "13.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.26 m",
+          "value_html": "32.26 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "36,192 tons",
+          "value_html": "36,192 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "64,100 tons",
+          "value_html": "64,100 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: 479 ; FuelType2: Residual Fuel , Capacity: 1688\nBunkersDescriptive: Fuel: distillate fuel: 479 cu m, residual fuel: 1,688 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: 479 ; FuelType2: Residual Fuel , Capacity: 1688<br>BunkersDescriptive: Fuel: distillate fuel: 479 cu m, residual fuel: 1,688 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Lloyd's Register",
+          "value_html": "Lloyd's Register",
+          "links": []
+        },
+        {
+          "key": "Class Notation",
+          "value_text": "class contemplated",
+          "value_html": "class contemplated",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 6S50ME-C9 , 2 ,\nIN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 7100(9653) at 88 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 6S50ME-C9 , 2 , <br>IN-LINE,VERTICAL 6 Cy , 500 x 2214 , Mcr: 7100(9653) at 88 rpm",
+          "links": []
+        },
+        {
+          "key": "Auxi Engine",
+          "value_text": "Design: Man , Engine Builder: Man , 3 x 5L23/30 , 4 5 Cy , 225 x 300 , Mcr: 675 kw",
+          "value_html": "Design: Man , Engine Builder: Man , 3 x 5L23/30 , 4 5 Cy , 225 x 300 , Mcr: 675 kw",
+          "links": []
+        },
+        {
+          "key": "Emergency Generator",
+          "value_text": "3 x 650kW a.c.",
+          "value_html": "3 x 650kW a.c.",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "4 Crane of 30 tonnes SWL",
+          "value_html": "4 Crane of 30 tonnes SWL<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "New Dayang Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcFXanmkhTk8Pl4EN\">New Dayang Shipbuilding</a>",
+          "links": [
+            {
+              "text": "New Dayang Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcFXanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "NDY1328",
+          "value_html": "NDY1328",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-6-1",
+          "value_html": "2024-6-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Nantong COSCO KHI (NACKS)"
+}

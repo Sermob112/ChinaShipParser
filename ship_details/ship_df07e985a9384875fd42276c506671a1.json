@@ -1,0 +1,170 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFBcanmkhTk8Pl4EN",
+  "ts": 1758808738,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Fujian Southeast DN14500-5 (Under Construction)",
+          "value_html": "Fujian Southeast DN14500-5 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Products Tanker, 14,900 tons",
+          "value_html": "Products Tanker, 14,900 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1086295",
+          "value_html": "1086295",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Orkim Ship Management",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4BsgcC\">Orkim Ship Management</a>",
+          "links": [
+            {
+              "text": "Orkim Ship Management",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4BsgcC"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 03",
+          "value_html": "2027 - 03",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 06",
+          "value_html": "2024 - 06",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Malaysia",
+          "value_html": "Malaysia",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "139.9 m",
+          "value_html": "139.9 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "132 m",
+          "value_html": "132 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "8.5 m",
+          "value_html": "8.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "22 m",
+          "value_html": "22 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "9,970 tons",
+          "value_html": "9,970 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "14,900 tons",
+          "value_html": "14,900 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: Yanmar , Engine Builder: Yanmar Diesel Engine Co Ltd - Japan\n, 1 x 6EY33W , 4 , IN-LINE,VERTICAL 6 Cy , 330 x 440 , Mcr: 3360(4568)\nat 1200 rpm",
+          "value_html": "Design: Yanmar , Engine Builder: Yanmar Diesel Engine Co Ltd - Japan<br> , 1 x 6EY33W , 4 , IN-LINE,VERTICAL 6 Cy , 330 x 440 , Mcr: 3360(4568) <br>at 1200 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Fujian Southeast Shipbuilding",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcJCanmkhTk8Pl4EN\">Fujian Southeast Shipbuilding</a>",
+          "links": [
+            {
+              "text": "Fujian Southeast Shipbuilding",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcJCanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "DN14500-5",
+          "value_html": "DN14500-5",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-6-1",
+          "value_html": "2024-6-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "Dayang Offshore"
+}

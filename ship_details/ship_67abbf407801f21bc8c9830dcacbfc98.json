@@ -1,0 +1,176 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SFFCsanmkhTk8Pl4EN",
+  "ts": 1758809012,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "CMHI CMHI-282-06 (Under Construction)",
+          "value_html": "CMHI CMHI-282-06 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "LNG Tanker, 176,400 cbm",
+          "value_html": "LNG Tanker, 176,400 cbm",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1066104",
+          "value_html": "1066104",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Celsius Shipping",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4bFgF\">Celsius Shipping</a>",
+          "links": [
+            {
+              "text": "Celsius Shipping",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4bFgF"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2028 - 01",
+          "value_html": "2028 - 01",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 05",
+          "value_html": "2024 - 05",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Singapore",
+          "value_html": "<img src=\"../images/flag_singapore.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Singapore",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "298.8 m",
+          "value_html": "298.8 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "294.6 m",
+          "value_html": "294.6 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "12.5 m",
+          "value_html": "12.5 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "48 m",
+          "value_html": "48 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "120,890 tons",
+          "value_html": "120,890 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "96,000 tons",
+          "value_html": "96,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "value_html": "FuelType1: LNG , Capacity: UnKnown ; FuelType2: Distillate Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: LNG: 0 cu m, distillate fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "American Bureau of Shipping",
+          "value_html": "American Bureau of Shipping",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: Hanwha Engine Co Ltd - South\nKorea , 2 x 5G70ME-C10-GA , 2 , IN-LINE,VERTICAL 5 Cy , 700 x 3256 ,\nMcr: 12020(16342) at 78 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: Hanwha Engine Co Ltd - South <br>Korea , 2 x 5G70ME-C10-GA , 2 , IN-LINE,VERTICAL 5 Cy , 700 x 3256 , <br>Mcr: 12020(16342) at 78 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Port Propeller : Fixed Pitch\nStarboard Propeller : Fixed Pitch",
+          "value_html": "Port  Propeller : Fixed Pitch<br>Starboard  Propeller : Fixed Pitch<br>",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "Cargo Pumps 8 @ 0 M3/hr",
+          "value_html": "Cargo Pumps 8 @ 0 M3/hr<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "China Merchants HI, Haimen",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcgXanmkhTk8Pl4EN\">China Merchants HI, Haimen</a>",
+          "links": [
+            {
+              "text": "China Merchants HI, Haimen",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcgXanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "CMHI-282-06",
+          "value_html": "CMHI-282-06",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-5-1",
+          "value_html": "2024-5-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ],
+  "origin_yard": "CIMC SOE"
+}

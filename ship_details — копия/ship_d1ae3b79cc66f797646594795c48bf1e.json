@@ -1,0 +1,169 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4cBFbganmkhTk8Pl4EN",
+  "ts": 1758801499,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "Xiangyu XY218 (Under Construction)",
+          "value_html": "Xiangyu XY218 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Chemical/Products Tanker, 40,000 tons",
+          "value_html": "Chemical/Products Tanker, 40,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1101631",
+          "value_html": "1101631",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Mi-Das Line SA",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4CJJBF\">Mi-Das Line SA</a>",
+          "links": [
+            {
+              "text": "Mi-Das Line SA",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4CJJBF"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 12",
+          "value_html": "2027 - 12",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 08",
+          "value_html": "2024 - 08",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "Liberia",
+          "value_html": "<img src=\"../images/flag_liberia.png\" style=\"height:18px;width:22px;vertical-align:bottom;border:0px\">&nbsp;Liberia",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "184.6 m",
+          "value_html": "184.6 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "181.5 m",
+          "value_html": "181.5 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "10.65 m",
+          "value_html": "10.65 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.2 m",
+          "value_html": "32.2 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "25,500 tons",
+          "value_html": "25,500 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "40,000 tons",
+          "value_html": "40,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown",
+          "value_html": "FuelType1: Yes, But Type Not Known , Capacity: UnKnown ; FuelType2: Not Applicable , Capacity: UnKnown<br>",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Korean Register",
+          "value_html": "Korean Register",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: J-ENG , Engine Builder: UnKnown , 1 x 6UEC50LSH-EcoC2 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2300 , Mcr: 6200(8430)",
+          "value_html": "Design: J-ENG , Engine Builder: UnKnown , 1 x 6UEC50LSH-EcoC2 , 2 , IN-LINE,VERTICAL 6 Cy , 500 x 2300 , Mcr: 6200(8430)",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Nantong Xiangyu SOE",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4JgSbcanmkhTk8Pl4EN\">Nantong Xiangyu SOE</a>",
+          "links": [
+            {
+              "text": "Nantong Xiangyu SOE",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4JgSbcanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "XY218",
+          "value_html": "XY218",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-8-1",
+          "value_html": "2024-8-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

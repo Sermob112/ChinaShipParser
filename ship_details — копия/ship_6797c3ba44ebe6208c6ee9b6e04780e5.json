@@ -1,0 +1,151 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4SbSJganmkhTk8Pl4EN",
+  "ts": 1758801472,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "New Hantong (Under Construction)",
+          "value_html": "New Hantong (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Crude Oil Tanker, 319,000 tons",
+          "value_html": "Crude Oil Tanker, 319,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1055387",
+          "value_html": "1055387",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "Trafigura Ltd",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4XbXs\">Trafigura Ltd</a>",
+          "links": [
+            {
+              "text": "Trafigura Ltd",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4XbXs"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2026 - 07",
+          "value_html": "2026 - 07",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 02",
+          "value_html": "2024 - 02",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "-",
+          "value_html": "-",
+          "links": []
+        },
+        {
+          "key": "Service Speed",
+          "value_text": "14 kn",
+          "value_html": "14 kn",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "155000 tons",
+          "value_html": "155000 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "319000 tons",
+          "value_html": "319000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Unknown",
+          "value_html": "Unknown",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , 2 , IN-LINE,VERTICAL",
+          "value_html": "Design: UnKnown , Engine Builder: UnKnown , 1 x UnKnown , 2 , IN-LINE,VERTICAL",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch",
+          "value_html": "Centre Or Only Propeller : Fixed Pitch",
+          "links": []
+        },
+        {
+          "key": "Pump, Crane",
+          "value_text": "Cargo Pumps 3 @ 0 M3/hr",
+          "value_html": "Cargo Pumps 3 @ 0 M3/hr",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Jiangsu New Hantong HI",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4BbcXc\">Jiangsu New Hantong HI</a>",
+          "links": [
+            {
+              "text": "Jiangsu New Hantong HI",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4BbcXc"
+            }
+          ]
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-2-1",
+          "value_html": "2024-2-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}

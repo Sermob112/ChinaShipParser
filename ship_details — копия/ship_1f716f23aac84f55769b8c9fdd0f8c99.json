@@ -1,0 +1,169 @@
+{
+  "url": "http://chinashipbuilding.cn/ship.aspx?pklujyukkpp4csFcXanmkhTk8Pl4EN",
+  "ts": 1758801634,
+  "tables": [
+    {
+      "table_id": "content_tb_ship",
+      "rows": [
+        {
+          "key": "Ship's Name / Hull No.",
+          "value_text": "GSI 24110032 (Under Construction)",
+          "value_html": "GSI 24110032 (Under Construction)",
+          "links": []
+        },
+        {
+          "key": "Ship Type:",
+          "value_text": "Chemical/Products Tanker, 40,000 tons",
+          "value_html": "Chemical/Products Tanker, 40,000 tons",
+          "links": []
+        },
+        {
+          "key": "IMO:",
+          "value_text": "1083073",
+          "value_html": "1083073",
+          "links": []
+        },
+        {
+          "key": "Owner (or Operator):",
+          "value_text": "SOCATRA",
+          "value_html": "<a href=\"company.aspx?pklujyukkpp4BXFs\">SOCATRA</a>",
+          "links": [
+            {
+              "text": "SOCATRA",
+              "href": "http://chinashipbuilding.cn/company.aspx?pklujyukkpp4BXFs"
+            }
+          ]
+        },
+        {
+          "key": "Built Date:",
+          "value_text": "2027 - 12",
+          "value_html": "2027 - 12",
+          "links": []
+        },
+        {
+          "key": "Contract Date:",
+          "value_text": "2024 - 08",
+          "value_html": "2024 - 08",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_feature",
+      "rows": [
+        {
+          "key": "Flag",
+          "value_text": "France (Fis)",
+          "value_html": "France (Fis)",
+          "links": []
+        },
+        {
+          "key": "Length Overall",
+          "value_text": "183 m",
+          "value_html": "183 m",
+          "links": []
+        },
+        {
+          "key": "Length between Perp.",
+          "value_text": "176.6 m",
+          "value_html": "176.6 m",
+          "links": []
+        },
+        {
+          "key": "Draught",
+          "value_text": "11.1 m",
+          "value_html": "11.1 m",
+          "links": []
+        },
+        {
+          "key": "Width",
+          "value_text": "32.2 m",
+          "value_html": "32.2 m",
+          "links": []
+        },
+        {
+          "key": "Gross Tonnage",
+          "value_text": "28,750 tons",
+          "value_html": "28,750 tons",
+          "links": []
+        },
+        {
+          "key": "Deadweight",
+          "value_text": "40,000 tons",
+          "value_html": "40,000 tons",
+          "links": []
+        },
+        {
+          "key": "Fuel",
+          "value_text": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown\nBunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "value_html": "FuelType1: Distillate Fuel , Capacity: UnKnown ; FuelType2: Residual Fuel , Capacity: UnKnown<br>BunkersDescriptive: Fuel: distillate fuel: 0 cu m, residual fuel: 0 cu m",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_class",
+      "rows": [
+        {
+          "key": "Class",
+          "value_text": "Bureau Veritas",
+          "value_html": "Bureau Veritas",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_equip",
+      "rows": [
+        {
+          "key": "Main Engine",
+          "value_text": "Design: MAN-B&W , Engine Builder: UnKnown , 1 x 6G50ME-C9 , 2 ,\nIN-LINE,VERTICAL 6 Cy , 500 x 2500 , Mcr: 10320(14031) at 100 rpm",
+          "value_html": "Design: MAN-B&amp;W , Engine Builder: UnKnown , 1 x 6G50ME-C9 , 2 , <br>IN-LINE,VERTICAL 6 Cy , 500 x 2500 , Mcr: 10320(14031) at 100 rpm",
+          "links": []
+        },
+        {
+          "key": "Propulsion",
+          "value_text": "Centre Or Only Propeller : Fixed Pitch(100 rpm)",
+          "value_html": "Centre Or Only  Propeller : Fixed Pitch(100 rpm)",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_builder",
+      "rows": [
+        {
+          "key": "Builder:",
+          "value_text": "Guangzhou Shipyard Intl. (GSI)",
+          "value_html": "<a href=\"shipyard.aspx?pklujyukkpp4csFCanmkhTk8Pl4EN\">Guangzhou Shipyard Intl. (GSI)</a>",
+          "links": [
+            {
+              "text": "Guangzhou Shipyard Intl. (GSI)",
+              "href": "http://chinashipbuilding.cn/shipyard.aspx?pklujyukkpp4csFCanmkhTk8Pl4EN"
+            }
+          ]
+        },
+        {
+          "key": "Hull No.",
+          "value_text": "24110032",
+          "value_html": "24110032",
+          "links": []
+        },
+        {
+          "key": "Contract Date",
+          "value_text": "2024-8-1",
+          "value_html": "2024-8-1",
+          "links": []
+        }
+      ]
+    },
+    {
+      "table_id": "content_tb_sister",
+      "rows": []
+    },
+    {
+      "table_id": "content_tb_shipbuild",
+      "rows": []
+    }
+  ]
+}
