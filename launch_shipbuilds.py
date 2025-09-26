@@ -5,17 +5,16 @@ import argparse
 from LinkCatcher.shipbuilds_link_collector import ShipbuildsLinkCollector
 from LinkCatcher.shipbuild_items_collector import ShipbuildItemsCollector
 from Parser.fleet_table_collector import FleetTableCollector
-from YardParser.Yard_ship_details_collector import ShipDetailsCollectorManager
-# Подключаем вашу фабрику из прошлого ответа.
-
-from chromedriver_factory import ChromeDriverFactory  # <-- адаптируйте имя файла при необходимости
+from YardParser.Yard_ship_details_collector_5 import ShipDetailsCollectorManager
+from chromedriver_factory import ChromeDriverFactory  
 from YardParser.yards_link_collector_1 import YardsCollector
 from YardParser.yard_info_collector_3 import ShipyardDetailsCollector
 from YardParser.Yard_order_collector_2 import OrderbookCollectorManager
 from YardParser.yard_recurser_link_catcher_4 import SisterGraphCrawler
-from YardParser.guarded_ship_details_collector import ShipDetailsCollectorManager
-from YardParser.rotating_guarded_ship_details_collector import ShipDetailsCollectorManager as RotatingShipMgr
+from YardParser.rotating_guarded_ship_details_collector_6 import ShipDetailsCollectorManager as RotatingShipMgr
+from Parser.fleet_pages_ship_details_collector_2 import FleetPagesShipDetailsParallelRunner
 
+from Parser.fleet_table_collector_parallel_1 import FleetParallelRunner
 import json
 
 
@@ -58,6 +57,12 @@ SHIP_DETAILS_DIR.mkdir(parents=True, exist_ok=True)
 ACCOUNTS_JSON = Path(__file__).parent / "shipbuilding_accounts.json"
 ACCOUNT_CURSOR = Path(__file__).parent / "account_cursor.json"
 
+
+
+FLEET_PAR_OUT_DIR   = OUT_DIR / "fleet_pages_par"
+FLEET_PAR_OUT_DIR.mkdir(parents=True, exist_ok=True)
+FLEET_PAR_PROGRESS  = OUT_DIR / "fleet_progress.json"
+
 # ==== вспомогательные коллбеки для Fleet ====
 def _save_rows_per_page(page_no: int, page_url: str, rows):
     safe_no = page_no if isinstance(page_no, int) and page_no > 0 else 0
@@ -93,6 +98,12 @@ def _save_pager_block_unique(page_no: int, page_url: str, block_links):
         print(f"[SAVE] pager block @ page {page_no}: +{len(new_items)} links -> {PAGER_JSON}")
     else:
         print(f"[SKIP] pager block @ page {page_no}: no new links")
+
+def driver_factory():
+    # твой класс фабрики; можно включить клон-профиля, если нужно
+    fac = ChromeDriverFactory.with_default_windows_profile(profile_name="Default")
+    fac.use_profile_clone = True
+    return fac.create()
 
 
 # ==== фабрика драйвера ====
@@ -241,6 +252,8 @@ def parse_args():
             "ship_details",
             "ship_details_guard",
             "ship_details_rotate",
+            "fleet_parallel",  
+            "fleet_info_parallel", 
             # <--- НОВОЕ
         ],
     )
@@ -257,6 +270,8 @@ def parse_args():
     p.add_argument("--first-login-wait", type=int, default=60, help="Секунды на первый ручной вход")
     p.add_argument("--relogin-wait", type=int, default=30, help="Секунды на ручной повторный вход (каждый батч)")
     p.add_argument("--max-items", type=int, default=None, help="Глобальный предел страниц за запуск")
+    p.add_argument("--rebuild-index", action="store_true",
+                   help="Перестроить индекс страниц перед запуском (иначе возьмём из fleet_progress.json, если ессть)")
 
     return p.parse_args()
 
@@ -336,7 +351,51 @@ def task_ship_details_rotating(wait_sec: int, reuse_profile: bool,
         max_items_per_run=max_items,
     )
     mgr.run()
+def task_fleet_parallel(workers: int, wait_sec: int, rebuild_index: bool):
+    """
+    Многопоточная выгрузка таблицы флота.
+    - Строит индекс всех страниц по пагинации.
+    - Бежит в N потоков, свой WebDriver на поток.
+    - Сохраняет страницу сразу после парса.
+    - Прогресс пишет в fleet_progress.json (возобновление поддерживается).
+    """
+    runner = FleetParallelRunner(
+        driver_factory=driver_factory,          # один драйвер на поток
+        base_url=BASE_URL,
+        out_dir=FLEET_PAR_OUT_DIR,
+        progress_path=FLEET_PAR_PROGRESS,
+        wait_sec=wait_sec,
+        workers=max(1, workers),
+    )
+    runner.run(FLEET_URL, rebuild_index=rebuild_index)
 
+
+def task_ship_details_from_fleet_pages(workers: int, wait_sec: int, rebuild_index: bool):
+    base = Path(__file__).resolve().parent
+
+    pages_dir = base / "launch_shipbuilds" / "fleet_pages_par"
+    out_dir   = base / "10Л_ship_details"
+
+    runner = FleetPagesShipDetailsParallelRunner(
+        pages_dir=pages_dir,
+        out_dir=out_dir,
+        wait_sec=wait_sec,
+        workers=max(1, workers),
+        use_profile_clone=True,
+
+        # аккаунты
+        accounts_file=base / "Registrator",                           # папка с jsonl/txt
+        account_cursor_base=base / "Registrator" / "account_cursor.json",
+
+        # поведение
+        first_login_wait_sec=60,
+        relogin_wait_sec=30,
+        relogin_manual=False,
+        batch_logout_every=50,
+        min_tables_required=7,
+        rotate_on_low_tables=False,  # НЕ ротировать, если <7 таблиц
+    )
+    runner.run()
 def main():
     args = parse_args()
     if args.task == "shipbuilds_categories":
@@ -368,6 +427,10 @@ def main():
             relogin_wait=args.relogin_wait,
             max_items=args.max_items,
         )
+    elif args.task == "fleet_parallel":
+        task_fleet_parallel(args.workers, args.wait_sec, args.rebuild_index)
+    elif args.task == "fleet_info_parallel":
+        task_ship_details_from_fleet_pages(args.workers, args.wait_sec, args.rebuild_index)
 
     else:
         raise SystemExit("Неизвестная задача")

@@ -115,9 +115,9 @@ class ShipDetailsAggregator:
 
 def main():
     base = Path(__file__).resolve().parent.parent  # корень проекта (на уровень выше папки ShipDetailsAggregator)
-    in_dir = base / "ship_details"
-    out_json = base / "ship_details_merged.json"
-    out_ndjson = base / "ship_details_merged.ndjson"
+    in_dir = base / "10_ship_details"
+    out_json = base / "ship_details_merged_10k.json"
+    out_ndjson = base / "ship_details_merged_10k.ndjson"
 
     agg = ShipDetailsAggregator(
         in_dir=in_dir,

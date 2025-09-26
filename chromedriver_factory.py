@@ -74,7 +74,9 @@ class ChromeDriverFactory:
         opts.add_experimental_option("excludeSwitches", ["enable-automation"])
         opts.add_experimental_option("useAutomationExtension", False)
         opts.add_argument("--disable-blink-features=AutomationControlled")
-
+        opts.add_argument("--no-first-run")
+        opts.add_argument("--disable-extensions") 
+        opts.add_argument(f"--user-data-dir={tempfile.mkdtemp(prefix='chrome_prof_')}")
         service = Service()
         driver = webdriver.Chrome(service=service, options=opts)
 
